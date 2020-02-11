@@ -56,7 +56,11 @@ I can never forget the reason why  she  dumped me.
 
 二章6 
 
+<<<<<<< HEAD
 23:0
+=======
+40:0
+>>>>>>> b6166530308c37d4c9e8c70f4fe6f98f94f76cbb
 on  morning
 
 fuck   the world if  you rich  and fuck  youself if you pool  
