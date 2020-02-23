@@ -6,8 +6,17 @@
 
 *** 谓语
 
+主 + 谓     实义  -》宾
+            系 -》表   
 
-1   30：00
+***  宾语
+
+*** 表语
+
+*** 宾补
+如宾语 和宾语之后成分加be动词构成一个完整的句子 那一定是宾补 
+
+
 
 
 ** 五大基本句型
@@ -22,6 +31,16 @@ She  ordered herself a new dress.   后面不能加 is  所以是宾宾
 
 Our teacher encourages us to do  more reading.   可以  we are to  do more 所以宾宾补
 His advice  proved right.  proved 可以换成   is 句子依然OK ，   so  系动词 主+系+表 
+
+
+** 什么是状语
+
+除去五大基本概念和形容词(定语)剩下的成分就是状语
+
+1   1:00：00
+
+
+
 
 **  并列句的起源
 
