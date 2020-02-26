@@ -25,6 +25,9 @@
 主 谓 宾 宾
 主 谓 宾 宾补 
 主 系 表 
+  把系的词能换成 be动词 那他就是系动词 而不是实物动词 
+
+
 
 
 She  ordered herself a new dress.   后面不能加 is  所以是宾宾
@@ -38,7 +41,7 @@ His advice  proved right.  proved 可以换成   is 句子依然OK ，   so  系
 除去五大基本概念和形容词(定语)剩下的成分就是状语
 
 here
-1   1:02：00
+1   1:20：00
 
 
 
