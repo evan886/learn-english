@@ -101,6 +101,13 @@ fuck   the world if  you rich  and fuck  youself if you pool
 
 * chpater 4 
 
+<<<<<<< HEAD
 ** DONE 1 
 
 ** DOING 2
+=======
+** 1 
+
+** 2 
+10:00
+>>>>>>> d21542ec45a7d9aa6c37933ad992404d236ce28d
