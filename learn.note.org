@@ -108,9 +108,11 @@ fuck   the world if  you rich  and fuck  youself if you pool
 =======
 ** 1 
 
-** 2 
+** DONE 2 
 
-** 3
-40:00
 
+** DONE 3 
+
+
+** 4
 cheer up ==come on ?
