@@ -105,7 +105,7 @@ fuck   the world if  you rich  and fuck  youself if you pool
 ** DONE 1 
 
 ** DOING 2
-=======
+
 ** 1 
 
 ** DONE 2 
@@ -114,13 +114,13 @@ fuck   the world if  you rich  and fuck  youself if you pool
 ** DONE 3 
 
 
-** 4
+** TODO 4
 
 ** 5
 
 
-** 6  
-30:00
+** DONE 6  
+has 
 
 A bowl of noodles  in my favorite when I am hungry.
 
@@ -129,6 +129,8 @@ the shape of  this actress is so hot.
 I can't handle it.
 
 she is afraid of darkness.
+
+how often do you brush your teeth 
 
 
 小地方到达用at  大用 in 
@@ -149,4 +151,5 @@ Cantonese 广东话 广东人  are good at making soup.
 
 
 
-** 10
+** TODO 10
+05:00
