@@ -97,8 +97,6 @@ fuck   the world if  you rich  and fuck  youself if you pool
 
 * chapter 2
 
-** 
-
 * chpater 4 
 
 
@@ -106,24 +104,37 @@ fuck   the world if  you rich  and fuck  youself if you pool
 
 ** DOING 2
 
-** 1 
-
 ** DONE 2 
 
 
 ** DONE 3 
 
 
-** TODO 4
-10:00
+** DONE 4
+I am thirsty for progress in English.
 
+You are such a humorous guy.
+
+I don't care about the result.
+Please be careful when you cross the street.
+
+Reading aloud is helpful  to English study.
+I am telling the truth.
+
+A lot of  illnesses are stress-related.
+
+
+
+
+My arm is painful.
+I am os thankful to  my dad who taught me so much.
 I took   your umbrella by accident.
 
 I can't live without you.
 
 Could  you pass me the salt?
-** 5
-
+** TODO 5
+02:00
 
 ** DONE 6  
 has 
