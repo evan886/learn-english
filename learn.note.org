@@ -102,7 +102,7 @@ fuck   the world if  you rich  and fuck  youself if you pool
 
 ** DONE 1 
 
-** DOING 2
+** DONE DOING 2
 
 ** DONE 2 
 
@@ -133,9 +133,7 @@ I took   your umbrella by accident.
 I can't live without you.
 
 Could  you pass me the salt?
-** TODO 5
-
-35:00
+** DONE 5
 
 January               February                 March      
  April                   May                   June   
@@ -177,7 +175,7 @@ cheer up ==come on ?
 
 
 ** 7
-
+00:03
 
 ** 9
 50:00
