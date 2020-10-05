@@ -185,4 +185,8 @@ Cantonese 广东话 广东人  are good at making soup.
 
 
 ** TODO 10
-05:00
+
+What's the weather like  today ?
+How's weather today ?
+
+11:00
