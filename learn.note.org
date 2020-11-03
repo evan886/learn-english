@@ -200,8 +200,8 @@ I'm  just kidding.
 What Does that mean? What's going on ?  怎么回事
 
 Could  we have the menu , please?
-** DOING 14
-43:00
+** DONE DOING 14
+
 Once,there was a true love in front of me .
 
 micro  wave oven 
@@ -224,3 +224,6 @@ primary 最主要 最重要  最初的 最早的
 Could you please  print these  for me ?
 
 
+
+** 15
+10:00
