@@ -295,4 +295,35 @@ DO I get a prize ?
 
 How heavy ard you ?
 ** 19
-20:00
+48:00
+
+memorize 记单词
+
+** 20
+35:00
+
+I had  a sore throat.
+
+** DONE 21 
+
+** DONE 22
+
+** DONE 23
+Spring festival Eve
+
+** DONE 24 
+board  想起在 dkm的hostname
+
+** DONE 25
+
+
+
+Don't mention it.  不用谢
+
+My phone rings.
+The door bell rings
+The alarm clock rings.
+
+** TODO 26
+02
+
