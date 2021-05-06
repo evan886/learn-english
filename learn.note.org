@@ -97,7 +97,7 @@ fuck   the world if  you rich  and fuck  youself if you pool
 
 * chapter 2
 
-* chpater 4 
+* chpater 4  宇哥图解初中词汇
 
 
 ** DONE 1 
@@ -325,5 +325,7 @@ The door bell rings
 The alarm clock rings.
 
 ** TODO 26
-02
+20:00
+
+ go on a picnic 
 
