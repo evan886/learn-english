@@ -324,8 +324,25 @@ My phone rings.
 The door bell rings
 The alarm clock rings.
 
-** TODO 26
-20:00
+** DONE 26
+30:00
 
  go on a picnic 
+
+What's the purpose of your visit?
+For  sth 
+
+It is  an honor to have you here, sir. lady. maday. Ms
+It is my great  honor to do 
+
+
+I am  in my period. 姨妈期
+
+What do you  in your spare time?
+你空闲时什么什么 
+
+spare no effort to do  不余加地做事 
+
+
+** DOING 27
 
