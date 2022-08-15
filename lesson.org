@@ -1035,4 +1035,30 @@ resident  [ˈrezɪdənt] n.居民；  metropolitan  [ˌmetrəˈpɑlɪt(ə)n]  ad
 10:00
    The  city itself  is comfortable  and  attractive. A large central park called Stanley Park  includes a  zoo,  gardens, arboretum, and aquarium! The  University  of  British Columbia and Simon Fraser University  are located in the greater Vancouver area,  as are many small  and quaint farming and fishing villages within  a  few  hours' drive.  Scenic, unpolluted, and prosperous:  who  could ask for anything more ?
 
+attractive  [əˈtræktɪv] adj.迷人的  arboretum  [ˌɑrbəˈritəm] n.  植物园
+aquarium  [əˈkweriəm] n.水族馆    quaint  [kweɪnt] adj.稀奇古怪的；古雅的
+unpolluted  [ˌʌnpə'lu:tɪd] adj.未被污染的  prosperous [ˈprɑsp(ə)rəs] adj.繁荣的
+
+  Certainly not  the Chinese.  Although limited immigration  from the Far East began as early as the 19th century, it was not until  the 1970s  that  immigration to both Canada and the United States began  to increase significantly. By the  1980s, the steady stream had become a flood. Today,  Vancouver's  Chinatown is said to be North America's  second largest. Given  the large  numbers of Chinese living in the much larger cities  of New  York, Toronto, Los Angeles, and San Francisco, that   represents astronomical  growth.
+
+
+limited  [ˈlɪmɪtəd] adj.有限的；    given [ˈɡɪv(ə)n] prep.鉴于；考虑到  adj.已经安排好的；规定的；指定的
+immigration  [ˌɪmɪˈɡreɪʃ(ə)n] n.移居；   increase  [ɪnˈkris] n.增加
+significantly  [sɪɡˈnɪfɪkəntli] adv.极大地；显著地  steady  [ˈstedi] v.稳住；使稳
+stream  [strim]  n.流；溪；小河  flood  [flʌd] n.洪水；水灾     v.淹没；泛滥
+represent  [ˌreprɪˈzent] v.表示；代表；象征   astronomical  好像在哪学过 [ˌæstrəˈnɑmɪk(ə)l] adj.天文学的；天文的 庞大
+
+
+  Vancouver's  Chinatown is located  within walking distance  of the downtown area, as are most  Chinatowns in North America. Here one  can find both traditional  Chinese herbal stores and fresh food markets as well as small retail and service businesses. From mid-May to September, Friday  to Sunday evenings from 6:30 to 11:30, both  Chinese  and "foreign" visitors to this area might mistake themselves as  begin in Shanghai or Hong Kong. For  daytime visitors, the Dr. Sun Yat-Sen Classical Chinese Gardents is must, offering  beautifully landscaped  floral gardens. The  nearby Chinese  Cultural Center conducts walking  tours of the historic district and even a   slide show  revealing the historic  development of the  area.
+
+herbal  [ˈɜrb(ə)l] adj.药草的；香草的 草药 retail   [ˈriteɪl]     v.零售
+landscape  [ˈlændˌskeɪp] n.【地】景观；景致；  floral  [ˈflɔrəl] adj.绘有花的 花卉
+conduct  [ˈkɑnˌdʌkt]  n.行为；经营  historic   [hiˈstɒrik]       adj.历史上有名的；具有历史价值的；历史性的
+district  [ˈdɪstrɪkt] n.区；地区；  revealing   [rɪˈviːlɪŋ] adj.透露真情的
+  
+  Of course,Vancouver has much more  to offer its residents and out-of-town and overseas visitors, Though -- or  perhaps  because -- it lacks the manic energy of East Coast cities of North America or those of modern Asia, Vancouver continues  to attract new residents with its serenne, safe, and , well, sane lifestyle.
+
+resident  [ˈrezɪdənt] n.居民；驻    lack  [læk] v.缺乏； 
+manic [ˈmænɪk] adj.狂热的；兴   serene   [səˈrin]     v.宁静；
+sane [seɪn] adj.精神健全的；神志正常的；明智的；理智的
 
