@@ -1062,28 +1062,34 @@ resident  [ˈrezɪdənt] n.居民；驻    lack  [læk] v.缺乏；
 manic [ˈmænɪk] adj.狂热的；兴   serene   [səˈrin]     v.宁静；
 sane [seɪn] adj.精神健全的；神志正常的；明智的；理智的
 
-
-
 **  Lesson 37   The Germanic Languages
-
    Most people have heard  of the Tower  of Babel   story in the Bible.  According to  this story, long ago all  people  spoke  the same  language.  Later, however, they  were  punished by  speaking a  great  number of different  tongues. Today , there  are literally thousands of   different languages(defined as mutually  unintelligible tongues)  around the world, though  many   are related to  one another.  Indeed, the two  largest language  families, the Indo-European(the language family with the  largest number of speakers)  and  Sino-Tibetan(containing the Chinese languages, Thai, Vietnamese, and TIbetan)  include  hundreds  of languages with over  half the world's  population.
    
  [dʒərˈmænɪk] adj.德国的；德国人的；日耳曼语（族）的 n.日耳曼语(系
 bible  [ˈbaɪb(ə)l]n.《圣经》  literally   [ˈlɪt(ə)rəli] adv.字面上；确实地
- 
-  Because  there  are so many languages within the above  two   super-categories of language families, linguists have further divided these linguistically rich and geographically  diverse families into sub-groups,  one of  which , the Germanic  language  group , has the second-largest number of speakers(Chinese being first). Within this  group of over 500,000,000 speakers is the world's (here))  foremost international language,  English, foremost in  terms fo its geographic spread and  number  of second-language users. German, spoken  by just over 100,000,000 people, is one of the world's  ten-largest  languages  in  terms of population . As  English  and German  speakers constitute the majorities in several  of the world's  most economically, militarily, and technologically developed  countries, it is important   to be familiar with this  particular language grouping.
+
+  Because  there  are so many languages within the above  two   super-categories of language families, linguists have further divided these linguistically rich and geographically  diverse families into sub-groups,  one of  which , the Germanic  language  group , has the second-largest number of speakers(Chinese being first). Within this  group of over 500,000,000 speakers is the world's foremost international language, (here)  English, foremost in  terms of  its geographic spread and  number  of second-language users. German, spoken  by just over 100,000,000 people, is one of the world's  ten-largest  languages  in  terms of population . As  English  and German  speakers constitute the majorities in several  of the world's  most economically, militarily, and technologically developed  countries, it is important   to be familiar with this  particular language grouping.
 
 category  [ˈkætəɡəri] n.类别 分类；种类；范畴  linguist [ˈlɪŋɡwɪst]n.通晓数国语言的人；语言学家
 divide  [dɪˈvaɪd]v.分割；除；分隔；分配  diverse [daɪˈvɜrs]  [daɪˈvɜː(r)s]     adj.不同的；相异的
-foremost  [ˈfɔrˌmoʊst] adv.第一 adj.最重要的 
+foremost  [ˈfɔrˌmoʊst] adv.第一 adj.最重要的    geographic  [ˌdʒiəˈɡræfɪk] adj.地理学的
+spread  [spred] n.传播；蔓延  term  [tɜrm] n.条款；说法；价钱；措辞
+v.把…称为网络术语；条件
+
+in terms of
+    na.依…；从…方面；用…特有的字眼
+    网络根据；在...方面；按照
+
 
 
 
   Take for example the two largest languages with this  group, English and German.  The word  Haus in German is  house   in  English , with nearly the same pronunciation. Some  names  of German family members are instantly   recognizable to  English  mother, brothe, and uncle (all German nouns are capitalized in print). Other  German family members are easily learned:  Vater, Schwester, and Tante for  the English  father, sister, and aunt. Thus, those who know Englihs and want to study German find  their  first year  of learning vocabulary to be  relatively easy. The  same is true, of course,  for those  who want  to learn Dutch  or Danish from an  English  or German background; these  many similarities are due  to the  single   common parent  language of all the  the  Germanic tongues, even though this "grandfather"    language no longer exists.
 
-  
-   
+  Speakers and writers fo the Germanic languages account  for  a great  deal of the world's output  in everything from economics to listerature to  military to science and technology. Hardly an  aspect fo modern life does not benefit from the contributions made by those using these languages, as  in  the Internet, Hollywood entertainment, Dutch(Phillips) and  Scandinavian  consumer goods  design(Ericsson,maker  of cellular  phones,is a  Swedish company, as are Volvo and Saab) ,  and even  the Noble prizes(awarded by  both Norwegian and Swedish institutes). More than  one-third of the world's  economic production originates in these  countries, too.
 
+  For any  speaker of a language outside the Germanic language group  preparing to  choose a useful second language for the future, English  is probably the best bet. German, too,  is very  useful  in the fields of medicine, economics, military, and science and technology.  Being able  to communicate with  others in this  far-reaching linguistic group  will  offer the user immeasurable benefits.
 
-
-
+  bet  [bet] n.打赌；赌注；预计；估计 the best bet 喜从天降；最好的选择
+far-reaching  [ˌfɑr ˈritʃɪŋ] adj.影响深远的；广泛  immeasurable 美 [ɪˈmeʒərəb(ə)l]  adj.不可估量的；无限的
+  benefit [ˈbenəfɪt]     n.益处；优势  linguistic group  语言族群
+field  [fild] n.田野；田地；油田；  方面 
