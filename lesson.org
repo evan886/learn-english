@@ -1122,15 +1122,28 @@ tardiness ['tɑrdɪnəs] n.拖拉；缓慢；迟缓 迟到；迟延；  explanat
 eliminate [ɪˈlɪməˌnet]v.消除；消灭；   future  [ˈfjutʃər] n.未来
 ecurrence  [rɪˈkʌrəns]n.复发；重现 rectify  [ˈrektəˌfaɪ]v.矫正；校正
 
-   Even  more  importantly, saying "I'm sorry"  is  necessary  when  intentional  harm has  been done. The  borrowing of an item  without first  informing the owner -- who  later  discovers  the "theft" - can be quite embarrassing. A  simple  but sincere "I'm sorry" might repair the damage done. Careless comments  or  insults which offend others may  be ameliorated withe that simple phrase, though sincerity in voice and gesture make all the difference. Similarly, young  lovers, often exasperated in  unrequited love, may purposefully hurt each other, only later  to profoundly regret what they  had done.  At  these times, a  heartfelt "I'm sorry"  may redress the pain of the on inflicted by   love's arrows. Even better, "Please forgive me" may be used, as it is considered a stronger  expression of remorse.
+   Even  more  importantly, saying "I'm sorry"  is  necessary  when  intentional  harm has  been done. The  borrowing of an item  without first  informing the owner -- who  later  discovers  the "theft" - can be quite embarrassing. A  simple  but sincere "I'm sorry" might repair the damage done. Careless comments  or  insults which
+   offend others may  be ameliorated with that simple phrase, though sincerity in voice and gesture make all the difference. Similarly, young  lovers, often exasperated in  unrequited love, may purposefully hurt each other, only later  to profoundly regret what they  had done.  At  these times, a  heartfelt "I'm sorry"  may redress the pain of the on inflicted by   love's arrows. Even better, "Please forgive me" may be used, as it is considered a stronger  expression of remorse.
 
+intentional  [ɪnˈtenʃən(ə)l]     adj.故意的；有意的；存心  theft [θeft] n.偷窃
+borrowing [ˈbɔroʊɪŋ] n.借贷；借款；贷款；借用的言语（或思想等）     v.“borrow”的现在分词
+embarrassing  [ɪmˈberəsɪŋ]  adj.使人害羞的（或难堪的、惭愧的）；使显得愚蠢的（或不诚实的等）  v.“embarrass”的现在分词 网络令人尴尬的
+sincere [sɪnˈsɪr] adj.真诚的；诚挚  damage [ˈdæmɪdʒ]v.损害；伤害；破坏；毁坏
+comment  [ˈkɑˌment]n.评论；评语； 批评  insult  [ɪnˈsʌlt] n.侮辱；袭击；
+offend  [əˈfend] v.冒犯；得罪；犯罪 ameliorate  [əˈmiliəˌreɪt]v.改良；变好
+sincerity [sɪnˈserəti] n.诚意；真挚  gesture [ˈdʒestʃər]n.手势；表示；动作；举动
+exasperated  [ɪɡˈzæspəˌreɪtəd] adj.恼火的v.exasperate的过去式和过去分词  unrequited [ˌʌnrɪˈkwaɪtəd]adj.没有回报的；单方面的；单相思的
+purposefully /ˈpɝː.pəs.fəl.i/adv.有意 profoundly [prə'faʊndli] adv.深刻地；极大地；严重地；完全地网络深深地；深刻的；深切地
+regret [rɪˈɡret]n.遗憾；懊悔 后悔 heartfelt  [ˈhɑrtˌfelt] adj.衷心的；真诚的
+redress  [rɪˈdres] v.纠正；矫正；改正  inflict [ɪnˈflɪkt]v.加以(打击等)；使受(痛
+arrow  [ˈæroʊ]n.箭；箭状物  remorse  [rɪˈmɔrs]     n.懊悔；非常遗憾；自责
 
-   
-   
     Learning  to apologize  in another language does not excuse speakers from practicing the same good  manners in  their mother tongue.  So many people  lament the coldness  of  modern society; human relationships  have  been worn thin from  constant urban  pressures. Part of this  problem seems to  be that people  no longer use such simple words as "please," " thank you,"   and "I'm sorry."  They  cost nothing, but can  bring a wealth  of pleasure or relief to those who  hear them. They require little  effort, yet these few syllables  can enliven  someone   else's day. So, why not use them whenever possible?
+
 
 excuse 借口 lament  [ləˈment] n.挽歌；哀诗；悼辞v.对…感到悲痛；痛惜
 constant [ˈkɑnstənt] n.常数；常量adj.连续发生的；不断的  urban   [ˈɜrbən]adj.城市的；都市
+wealth  [welθ] n.财富；财产；富裕；丰富
 relief [rɪˈlif]n.浮雕；解脱；轻松；消除 网络救济；减轻；解除
 effort  [ˈefərt] n.努力；尽力；成就；气力 努力的成果；尝试；工作量 昨天右边的人刚刚问这个单词
 syllable美 [ˈsɪləb(ə)l] n.音节；一言半字 enliven  [ɪnˈlaɪv(ə)n]  v.使更有生气（或活力）  else's 别人的
