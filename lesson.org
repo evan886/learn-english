@@ -590,7 +590,9 @@ linguist  [ˈlɪŋɡwɪst]语言学家   ethnic  [ˈeθnɪk]    adj.民族的；
 
    As  with most African cultures, the  Gullah have a  rich  tradition of music. The  banjo, a stringed musical instrument, was   an African invention  brought over with the slaves to the New World. It has  been popularized   in both  North America  and   Europe   over   the past  200 years. A great  variety  of drums,  too, accompanied African music  to the colonies in  North  and South  America. Singing  both solo and a  cappella  with  rich harmoines  was also part of the slave heritage. Despite  their   demanding  and depressing lives, the slaves  held their  original languages   and music  as  well  as their  masters'  Christianity close to  their   hearts. Much  of the music  today  involves church music, also referred  to as spirituals or gospel music.
 
-stringed  [strɪŋd] adj.有弦(乐器)的  
+
+stringed  [strɪŋd] adj.有弦(乐器)的   instrument  [ˈɪnstrəmənt] n. 器械；乐器；仪器；促
+invention  美 [ɪnˈvenʃ(ə)n] n. 发明物；发明，创造；虚构，编造；发明才能  
 
    
    
