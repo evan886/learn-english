@@ -568,16 +568,31 @@ trend     美: [trend]  n.趋势；动向；趋向；动态
 
    Does  the name  Marlena Smalls   ring a   bell? Probably  not, At least not yet. If  this large woman  with an even larger  smile and sparking eyes has   her way,  however , the language,  customs, and songs of  the Gullah will  become happily familiar  to millions of  people  outside of the Sea Islands. For  it is Mrs. Smalls' dream  that through her  and her performing troupe's  efforts their Gulah community will no longer  be an  isolated,  anachronistic hangover from the days of slavery in the United  States, but a  vibrant cultural addition to the 21st century  global village.
   
-Gullah  ['gʌlə]n.古勒语
+Gullah  ['gʌlə]n.古勒语  spark [spɑrk] n.火花；火星；(钻石等的)闪光；(目光的)闪耀
 revival   [rɪˈvaɪv(ə)l] n.复兴 community  [kəˈmjunəti] n.社区
-unique  [juˈnik] adj.唯一的；  shell 中的就常用 
+unique  [juˈnik] adj.唯一的  shell 中的就常用   performing [pərˈfɔːrmɪŋ]    adj.表演的；演奏的；完成的；(狗等)会玩把戏的 v.“perform”的现在分词
 troupe  [trup] 剧团；歌唱团 isolated  [ˈaɪsəˌleɪtəd] v.分离
 anachronistic  [əˌnækrə'nɪstɪk] adj.时代错误的 过时的；落伍的；不合时宜
 hangover [ˈhæŋˌoʊvər] n.宿醉（过量喝酒后第二天的头痛以及恶心反应）；遗留的感觉
 vibrant [ˈvaɪbrənt] adj.充满生机的；生气勃勃的  addition  [əˈdɪʃ(ə)n]n.添加；增加；
 
-  
-  
+   The  Sea Islands  comprise a group of islands just off  the  southeast  U.S. Atlantic coast of South Carolina and Georgia.    Descendants of slaves settled  here  tilling the fertile land of these  islands  and the adjacent coastline. A rich overlay  of a  mixture of West  African  languages  onto 17th and 18 th  century   colonial English  has resulted  in Gullah, a creole  language featuring its  unique  blend  of African  tongues  and  pidgin English . Thousands of distinct African words  coming  from various West African languages  have  been identified  by  linguists. A few  words  have been added into  contemporary  mainstream  American English . These include  goober(peanut), gumbo(okra), and voodoo(witchcraft). The word Gullah  itself also  hails from West Africa.  Many  of this  ethnic group's  given names are taken directly from languages passed down  for  hundreds of years,  such as Abiona and Ptitiap.  American English is the language  used  when  dealing with  outsiders, but Gullah is  the  language  of the marketplace and the home. 
+
+settle  [ˈset(ə)l]v.定居；
+comprise [kəmˈpraɪz] v.组成；构成 Carolina   [ˌkærə'laɪnə]n.(美国)卡罗来纳
+descendant  [dɪˈsendənt]n.后代；弟子后裔  fertile [ˈfɜrt(ə)l] adj.肥沃的；富饶
+adjacent  [əˈdʒeɪs(ə)nt] adj.与…毗连的；邻近的   contemporary  [kənˈtɛmpəˌrɛri] adj.现代的；当代的
+creole  [ˈkriˌoʊl]n.克利奥尔人 unique  [juˈnik]     adj.唯一的
+hail from 来自    blend [blend]v.混合；  pidgin: [ˈpɪdʒɪn] 混杂语言； pigeon [ˈpɪdʒən] n.【鸟】鸽子
+distinct [dɪˈstɪŋkt] adj.清晰的；清楚的；明白的 不同的   mainstream  [ˈmeɪnˌstrim]  主流 (看词组成就知)
+linguist  [ˈlɪŋɡwɪst]语言学家   ethnic  [ˈeθnɪk]    adj.民族的；种族的
+
+
+   As  with most African cultures, the  Gullah have a  rich  tradition of music. The  banjo, a stringed musical instrument, was   an African invention  brought over with the slaves to the New World. It has  been popularized   in both  North America  and   Europe   over   the past  200 years. A great  variety  of drums,  too, accompanied African music  to the colonies in  North  and South  America. Singing  both solo and a  cappella  with  rich harmoines  was also part of the slave heritage. Despite  their   demanding  and depressing lives, the slaves  held their  original languages   and music  as  well  as their  masters'  Christianity close to  their   hearts. Much  of the music  today  involves church music, also referred  to as spirituals or gospel music.
+
+   An  evening  with Marlena Smalls  and her Hallelujah  Singers is nothing  short  of inspirational. They  are dressed  at times  in  traditional  African clothing, and at other  times  in the  simple  and conservative  rural  dress  of Southern U.S. society . 
+
+   
 **  Lesson  12  The Louvre:  The  World's  Best  Museum?
    Paris, City of Light, and  of art.  A playland for  lovers and a painter's  dream. What  better  place  to situate the louvre, considered by many to be the world's  best  museum of  art? What  makes this museum so worthy fo that honor?
 
