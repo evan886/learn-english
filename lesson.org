@@ -590,8 +590,26 @@ hail from 来自    blend [blend]v.混合；  pidgin: [ˈpɪdʒɪn] 混杂语言
 distinct [dɪˈstɪŋkt] adj.清晰的；清楚的；明白的 不同的   mainstream  [ˈmeɪnˌstrim]  主流 (看词组成就知)
 linguist  [ˈlɪŋɡwɪst]语言学家   ethnic  [ˈeθnɪk]    adj.民族的；种族的
 
+<<<<<<< HEAD
    An  evening  with Marlena Smalls  and her Hallelujah  Singers is nothing  short  of inspirational. They  are dressed  at times  in  traditional  African clothing, and at other  times  in the  simple  and conservative  rural  dress  of Southern U.S. society . 
+=======
 
+   As  with most African cultures, the  Gullah have a  rich  tradition of music. The  banjo, a stringed musical instrument, was   an African invention  brought over with the slaves to the New World. It has  been popularized   in both  North America  and   Europe   over   the past  200 years. A great  variety  of drums,  too, accompanied African music  to the colonies in  North  and South  America. Singing  both solo and a  cappella  with  rich harmoines  was also part of the slave heritage. Despite  their   demanding  and depressing lives, the slaves  held their  original languages   and music  as  well  as their  masters'  Christianity close to  their   hearts. Much  of the music  today  involves church music, also referred  to as spirituals or gospel music.
+
+>>>>>>> 952f559ef5e984b96013686c6f1b732adac77278
+
+stringed  [strɪŋd] adj.有弦(乐器)的   instrument  [ˈɪnstrəmənt] n. 器械；乐器；仪器；促
+invention  美 [ɪnˈvenʃ(ə)n] n. 发明物；发明，创造；虚构，编造；发明才能  
+
+   
+   
+   An  evening  with Marlena Smalls  and her Hallelujah  Singers is nothing  short  of inspirational. They  are dressed  at times  in  traditional  African clothing, and at other  times  in the  simple  and conservative  rural  dress  of Southern U.S. society .  This  unusual performance  includes much singing frequent samples of Gullah as  used in  the marketplace or  between women gossiping. A great  deal of emphatic  body  language, and even occasional tribal dance steps to thumping drums and enthusiastic  shouting are also features  of the performance. Mrs.  Smalls  introduces  the background to  indivadual songs or other performances to help the addience -- often  peppered with overseas toursits  -- have a clearer  idea  of how the Gullah communicate to each other. Even without  the helpful introductions , howerve, music  lovers will appreciate the peerless singing quality of the Hallelujah Singers as they  render their  traditional folk songs with obvious love and pride. Interspersed with Mrs. Smalls with and  classy narrative, the evenign passes all  too quickly.
+
+   It is  refreshig to know that some ethnic groups are proudly clinging to their  priceless legacies. Despite the tragedy  of their  origins in slavery, the Gullah have survived adn revived  to produce a viable , enviable  folk  culture even amidst the  technological  wonders of the 21st century. We can  be thankful that in concert or on recorded media, Marlena Smalls and the Hallejujah Singers will  touch all fo us listeners with their  heartfelt oral tradition throught the magic of music.
+   
+
+
+   Auguest 22  21:25 -- 
    
 **  Lesson  12  The Louvre:  The  World's  Best  Museum?
    Paris, City of Light, and  of art.  A playland for  lovers and a painter's  dream. What  better  place  to situate the louvre, considered by many to be the world's  best  museum of  art? What  makes this museum so worthy fo that honor?
