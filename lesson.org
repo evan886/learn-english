@@ -689,25 +689,33 @@ dozen  [ˈdʌz(ə)n] n.若干；十二个 varied  [ˈverid] adj.各种各样的�
 delightful  [dɪˈlaɪtfəl] adj.使人快乐的；令人愉快的；宜人的
   
 ** Lesson 15  Webcames: Electronics Tools  or  the End of Privacy?
-  What are webcams? The  word webcam  is a  compound word formed from  two abbreviations, "web" from the World Wide Web and "cam" from camera. Webcams are cameras which  are situated at various places and  linked to the  World Wide Web. They allow 24-hour viewing of a wide array of places and activities around the world. They can be as educational as they  are fascinating, entertaining as they are eye-opening. Not everyone raves about this new technology,   however. Some cite sinister implications in a technology which  can unobtrusively spy  on our goings-on without our permission.  Others note  that with  rapid increases in telephotography and the science of acoustics, the days of privacy are numbered. Anyone can mount a webcam with  a telephoto  lens and microphone, aim it at his neighbors's liveing room or bedroom, and the broadcast one's "private" life to the  whole world. A script for the next sci-fi film, or a  current reality? Are these doomsayers overreacting, or is  their  charge legitimate ?
+  What are webcams? The  word webcam  is a  compound word formed from  two abbreviations, "web" from the World Wide Web and "cam" from camera. Webcams are cameras which  are situated at various places and  linked to the  World Wide Web. They allow 24-hour viewing of a wide array of places and activities around the world. They can be as educational as they  are fascinating, entertaining as they are eye-opening. Not everyone raves about this new technology,   however. Some cite sinister implications in a technology which  can unobtrusively spy  on our goings-on without our permission.  Others note  that with  rapid increases in telephotography and the science of acoustics, the days of privacy are numbered. Anyone can mount a webcam with  a telephoto  lens and microphone, aim it at his neighbors's liveing room or bedroom, and the broadcast one's "private" life to the  whole world. A script for the next scifi film, or a  current reality? Are these doomsayers overreacting, or is  their  charge(指控) legitimate ?
 
-  compound     美: [ˈkɑmˌpaʊnd]      v.合成；加重；构成；使…复杂化      adj.混合；混合的；复合物合成的；〔医〕哆开性     n.大院；混合物；合成物；合成词
-  form     美: [fɔrm]  v.形成；成立；产生；编成 n.型；组织；格式；形态
-  abbreviation     美: [əˌbriviˈeɪʃ(ə)n]  n.缩写；【数学】约分；【音乐】略号；〔数〕约分
-  situated     美: [ˈsɪtʃuˌeɪtɪd]      adj.位于；坐落在；处于…状况；处境…      v.“situate”的过去分词和过去式      网络位于…的；坐落在…的；处于…境地的
-  ascinate      美: [ˈfæsɪˌneɪt]   adj.极有吸引力的；迷人的
-various     美: [ˈveriəs]      adj.各种不同的；各种各样的；具有多种特征的；多姿多彩的     网络各种的；多方面的；多样的
+compound  [ˈkɑmˌpaʊnd]a.混合；混合的；复合物合成的  form  [fɔrm]  v.形成；成立；产生；；组织；格式；形态
+abbreviation [əˌbriviˈeɪʃ(ə)n]  n.缩写         situated [ˈsɪtʃuˌeɪtɪd] adj.位于；坐落在；处于…状况；处境…      
+ascinate  [ˈfæsɪˌneɪt]   adj.极有吸引力的；迷人的 
+various [ˈveriəs]      adj.各种不同的；各种各样的；具有多种特征的；多姿多彩的     网络各种的；多方面的；多样的
 a wide array of  各式各样的
-entertaining      美: [ˌentərˈteɪnɪŋ]   n.招待 adj.有趣的；娱乐的；使人愉快的
-activity      美: [ækˈtɪvəti]   n.活动；活性；动作；功能
-rave     美: [reɪv]      n.(人,风,浪的)狂闹；怒吼；狂闹声；锐舞      v.(狂人一般)说胡话；咆哮；发狂似地讲；狂喜 (about of)      网络锐舞聚会；锐舞聚尾；拉沃
-cite     美: [saɪt]   v.引用；援引；引述；提及（原因） n.引文
-sinister     美: [ˈsɪnɪstər]      adj.邪恶的；险恶的；不祥的；有凶兆的      网络阴险的；凶恶的
-implication      美: [ˌɪmplɪˈkeɪʃ(ə)n]      n.含意；推断；牵连；【数】蕴涵      网络含义；影响；启示
-unobtrusively       adv.谦虚谨慎地；小心翼翼地      网络不引人注目地；悄悄地；不引人注意地
-rapid     美: [ˈræpɪd]     n.急流；滩；湍流      adj.瞬间的；短时间内发生的；迅速的；快速的      网络快的；急速
+entertaining  [ˌentərˈteɪnɪŋ]n.招待 adj.有趣的；娱乐的 activity   [ækˈtɪvəti]   n.活动；活性；动作；功能
+rave  [reɪv] n.(人,风,浪的)狂闹；怒吼v.(狂人一般)说胡话；咆哮；发狂似地讲；狂喜 (about of)
+cite  [saɪt]   v.引用；援引；引述；提及（原因） n.引文
+sinister  [ˈsɪnɪstər] adj.邪恶的；险恶的 implication  [ˌɪmplɪˈkeɪʃ(ə)n] n.暗示
+unobtrusively  /ˌʌn.əbˈtruː.sɪv.li/  不引人注目地；悄悄地 rapid  [ˈræpɪd] adj.瞬间的；；迅速的；快速的
+acoustics  [əˈkustɪks] n.声学；音响效果   lens  [lenz]  n.透镜；镜片；网络镜头
+sci-fi  [ˈsaɪ faɪ] adj.同“science fiction”网络科幻频道  reality  [riˈæləti] n.现实；事实
 legitimate      美: [ləˈdʒɪtəmət]       adj.正当合理的；合情合理的；合法的；法律认可的  v.使合法；认为正当；认为正统；承认(庶子)为嫡出      网络正当的；正统的；正当性
-doomsayer     美: [ˈdumseɪər]      n.预言灾难者      网络凶事预示者；凶事预言者；末日论者     词形：      doomsayers
+doomsayer  [ˈdumseɪər]  n.预言灾难者   doomsayers
+charge  [tʃɑrdʒ]  n.收费；主管；指控；掌管 v.收费；充电；冲锋；指责网络费用；电荷；控告
+legitimate  [ləˈdʒɪtəmət] adj.正当合理的；合情合理的；合法的；法律认可的 v.使合法；认为正当；
+
+容易读错的词 
+array  [əˈreɪ] n.数组；阵列；大量；大堆 v.排列；布
+large  [lɑrdʒ]  adj.大的；大规模的
+
+The pen is mightier than the sword.   笔比sword 更加有力
+Multitude 多数 
+
+洗澡完 21：30 升级一下 freebsd  应该是22:20 开始 搞到现在 23:24 学了一段 和完了lesson all 
 
 04:00
      On one side of the  debate are those who point  out that webacms offer more  real  advantages thant supposed disadvantages. They  cite numerous websitres on which people  can  observe the world around  them for educational or aesthetic purposes. Today one  can watch  urban scenes like  city streets and squares  or even haunted houses! Nature lovers   can revel in the undetectable  webcasting of bats, sharks, and  penguins at various sites around the world. A huge collection of webcams can be found at www.earthcam.com . Another  great  collection  can be viewed at www.discovery.com. Most educators, parents, and politicians  would  agree  that  these   websites allow  for a  better  understanding of both the human  and  natural environments in the world we all live in. Certainly, the world say, webcams provide an invaluable service and  should  not be restricted.
