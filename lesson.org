@@ -717,27 +717,64 @@ Multitude 多数
 
 洗澡完 21：30 升级一下 freebsd  应该是22:20 开始 搞到现在 23:24 学了一段 和完了lesson all 
 
-04:00
-     On one side of the  debate are those who point  out that webacms offer more  real  advantages thant supposed disadvantages. They  cite numerous websitres on which people  can  observe the world around  them for educational or aesthetic purposes. Today one  can watch  urban scenes like  city streets and squares  or even haunted houses! Nature lovers   can revel in the undetectable  webcasting of bats, sharks, and  penguins at various sites around the world. A huge collection of webcams can be found at www.earthcam.com . Another  great  collection  can be viewed at www.discovery.com. Most educators, parents, and politicians  would  agree  that  these   websites allow  for a  better  understanding of both the human  and  natural environments in the world we all live in. Certainly, the world say, webcams provide an invaluable service and  should  not be restricted.
+     On one side of the  debate are those who point  out that webacms offer more  real  advantages thant supposed disadvantages. They  cite numerous websites on which people  can  observe the world around  them for educational or aesthetic purposes. Today one  can watch  urban scenes like  city streets and squares  or even haunted houses! Nature lovers   can revel in the undetectable  webcasting of bats, sharks, and  penguins at various sites around the world. A huge collection of webcams can be found at www.earthcam.com . Another  great  collection  can be viewed at www.discovery.com. Most educators, parents, and politicians  would  agree  that  these   websites allow  for a  better  understanding of both the human  and  natural environments in the world we all live in. Certainly, the world say, webcams provide an invaluable service and  should  not be restricted.
+
+debate  [diˈbeɪt]  n.辩论；争论；考虑    those  [ðəʊz]  adj.那些(的)pron.那些(人)
+effect  [ɪˈfekt] n.影响；作用；
+effort  [ˈefərt] n.努力；工作；成就；
+disadvantage [ˌdɪsədˈvæntɪdʒ] n.不利损失 v.使不利  numerous[ˈnuːmərəs] adj.许多；数量庞大的；数不清的
+cite  [saɪt]   v.引用；援引；引述.引文   sinister  [ˈsɪnɪstər] adj.邪恶的；险恶的
+observe  [əbˈzɜrv] v.观察；看到；aesthetic [esˈθetɪk] n.美学
+urban  [ˈɜrbən] adj.城市的  scene [sin] n.现场；景色
+haunted [ˈhɔntəd] adj.（被认为）闹鬼的     revel [ˈrev(ə)l] 尽情    网络陶醉；沉迷；狂喜
+undetectable [ˌʌndɪ'tektəbl] adj.察觉不出的；发现不了的 webcasting  [ˈwebˌkæstɪŋ] n.【计】网络播放
+invaluable [ɪnˈvæljuəb(ə)l] a.极有用的 无价的  restrict [rɪˈstrɪkt] v.限制；约束；
+provide [prəˈvaɪd] v.提供；供应；给予 
+
+be beneficial to  [bi ˌbɛnəˈfɪʃəl tu]  v.有益于；利于。
+
+  Other   are not  so sure. Every technology cuts both ways.  Even  fire can cook food as it can burn our flesh.  Railroads  gave  us faster and more convenient  transportation as they  simultaneously signaled  the death knell of many  species of  migratory animals as well  as served up noise and air pollution. Nuclear energy gives millions heat, light, and power just as it  creates unwanted radioactive  side effects. Seemingly  harmless technologies such  as telecommunications  also have  their dark  side.
+
+flesh [fleʃ] n.肉体；果肉；皮肉
+fresh [freʃ]  adj.新鲜的；
+
+convenient [kənˈviniənt] adj.实用的；便利的 simultaneously [ˌsaɪməlˈteɪniəsli]adv.同时；联立；急切地
+signal [ˈsɪɡnəl] n.信号；信号器；预兆； knell [nel]  v.敲丧钟报丧；
+migratory [ˈmaɪɡrəˌtɔri] adj.迁移的； serve up  na.端出(饭菜等)；上(菜)；同“serve” 提供；提出
+unwanted [ʌnˈwɑntəd] adj.不需要的；多余的；不受欢迎   radioactive [ˌreɪdioʊˈæktɪv] adj.放射性的；有辐射的
+telecommunications [ˌtelɪkəˌmjunɪˈkeɪʃ(ə)nz]  n.电信；电讯
+side effects   副作用 
+
+   Opponents of webcams  note  that  the sleazy, commercial instinct of some people   is unleashed with the offering of for-pay viewing of certain starlets  or other  celebrities' home    lives, which most people  prefer to think   of as their "private"   life. Perhaps not much longer. In some controversial cases, webcams have been mounted in  public  installations such as washrooms so that voyeurs may watch the intimate goings-on of anonymous people. Even  more sinister is the capacity for  the new technology  to be used in both economic espionage  and "good old"  state-to-state  spying. Webcams mounted surreptitiously in   business  offices or factories can reveal on-screen "secrets" from those unaware that they are being  bugged. Wich microelectronics technology reducing the size of  telecommunications devices, this is no paranoid fantasy any longer.
+
+opponent: [əˈpoʊnənt] n.对手 adj.对立的反对者   sleazy  [ˈslizi]  adj.（尤指涉及性行为）肮脏的
+commercial 美: [kəˈmɜrʃ(ə)l] adj.贸易的；商业的；赢利的；以获利为目的的 n.（电台或电视播放的）广告
+
+controversial [ˌkɑntrəˈvɜrʃ(ə)l] adj.有争议的  intimate [ˈɪntɪmət] n.知己；密友；至交 v.暗示；透露；（间接）表示
+adj.亲密的；密切的；个人隐私的
+instinct [ˈɪnstɪŋkt] n.本能；  unleash  [ʌnˈliʃ] v.〈比喻〉解放；放纵；发动
+certain [ˈsɜrt(ə)n] adj.肯定；确
+voyeur [vwaɪˈər] n.有窥淫癖的人 
+installation    美: [ˌɪnstəˈleɪʃ(ə)n] n.安装；install  [ɪnˈstɔl]  v.安装；
+anonymous [əˈnɑnɪməs] adj.匿名的   sinister  [ˈsɪnɪstər]adj.邪恶的；险恶的
+capacity [kəˈpæsəti]n.容量；生产能力 espionage  [ˈespiəˌnɑʒ]n.间谍活动；
+surreptitiously  [ˌsʌrəpˈtɪʃəsli]adv.偷偷地；  reveal  [rɪˈvil]    v.透露；揭示；显示；展示
+bug  [bʌɡ]    n.缺陷；虫子  paranoid [ˈperəˌnɔɪd]    n.偏执狂；妄想症患者    adj.多疑的；恐惧的；
+   
+    The human mind is as devious as the many progressive  devices it produces. No matter what technology mankind  develops in the future, we can be sure that it will offer and  opportunity to exercise the dark side of our potential. On balance, we must move forward and allow these new technologies.  Only by practicing them -- for good or bad --can we realize our human potential. On  balance, too, despite   the horrific deadly or sinister potential in  technology,  the world offers a more productive, comfortable, and progressive  environment today that in our previous low-tech centuries. At the end of the day, it is not our technology that we must learn  to control so much as ourselves.
+
+cunning [ˈkʌnɪŋ] n.狡猾；诡诈    
+devious [ˈdiviəs] adj.不诚实的  狡诈的 progressive [prəˈɡresɪv] adj.进步的；
+opportunity [ˌɑpərˈtunəti] n.机会；时机  potential [pəˈtenʃ(ə)l] n.潜力；电位
+balance [ˈbæləns] n.平衡；均衡  on balance 总的来说
+despite [dɪˈspaɪt] prep.尽管；即使   horrific [həˈrɪfɪk] adj.极坏的；令人震惊的
+deadly [ˈdedli] adv.非常；极其adj.（可能）致命的 网络 致死的 sinister [ˈsɪnɪstər] adj.邪恶的
+productive [prəˈdʌktɪv] adj.生产的； previous [ˈpriviəs] adv.在先 adj.先前的
+exercise [ˈeksərˌsaɪz] n.运动；练习；行使；演习 v.锻炼；行使；训练；运用
 
 
-debate  [diˈbeɪt]  n.辩论；争论；考虑  v.辩论；争论；考虑     
-disadvantage [ˌdɪsədˈvæntɪdʒ] n.不利损失 v.使不利 numerous  [ˈnuːmərəs] adj.许多；数量庞大的；数不清的
 
-
-
- Other   are not  so sure. Every technology cuts both ways.  Even  fire can cook food as it can burn our flesh.  Railroads  gave  us faster and more convenient  transportation as they  simultaneously signaled  the death knell of many  species of  migratory animals as well  as served up noise and air pollution. Nuclear energy gives millions heat, light, and power just as it  creates unwanted radioactive  side effects. Seemingly  harmless technologies such  as telecommunications  also have  their dark  side.
-
-
- effect  [ɪˈfekt] n.影响；作用；
- effort  [ˈefərt] n.努力；工作；成就；
-
-
-   Opponents of webcams  note  that  the sleazy, commercial instinct of some people  of some  people is unleashed with the offering of for-pay viewing of certain starlets  or other  celebrities' home    lives, which most people  prefer to think   of as their "private"   life. Perhaps not much longer. In some controversial cases, webcams have been mounted in  public  installations such as washrooms so that voyeurs may watch the intimate goings-on of anonymous people. Even  more sinister is the capacity for  the new technology  to be used in both economic espionage  and "good old"  state-to-state  spying. Webcams mounted surreptitiously in   business  offices or factories can reveal on-screen "secrets" from those unaware that they are being  gugged. Wich microelectronics technology reducing the size of  telecommunications devices, this is no paranoid fantasy any longer.
-
-    The human mind is as devious as the many progressive  devices it produces. No matter what technology mankind  develops in the future, we can be sure that it will offer and  opportunity ot exercise the dark side of our potential. On balance, we must move forward and allow these new technologies.  ONly by practicing them -- for good or bad --can we realize our human potential. On  balance, too, despite   the horrific deadly or sinister potential in  technology,  the world offers a more productive, comfortable, and progressive  environment today that in our previous low-tech centuries. At the end of the day, it is not our technology that we must learn  to control so much as ourselves.
     
-
 **  Lesson 16 When  Is the Best Time ?
   Some  poeple  go so far as to say that  time does not really exist; It is  all in the mind, they claim.Others note that according to  astrophysicists, time  really does exist; It is  inseparable from space,coexisting in what  these scientists call the "time-space continuum" . No  matter which view you may hold, time is of  relative importance in  different  cultures. However, when  traveling ,doing  business, or studying  in a German or English-speaking country, it is a good idea to consider time to be of the utmost importance. 
 claim  美 [kleɪm]  n.索赔；宣称；声明；断言
