@@ -1216,7 +1216,7 @@ dawn  [dɔn]     n.黎明；曙光；拂晓；破晓 v.开始；变得明朗；�
 bend [bend] v.弯曲；（使）倾斜     unique [juˈnik] adj.唯一的
 
   To understand why this  southern city is so different  from  any other  city of the United States, and perhaps also how it evolved the musical form Dixieland jazz, it is necessary  to give a  brief  description  of its history.  Founded in 1718 by  French developers, New Orleans grew  rather slowly. Although  ideal for  shipping(New Orleans is only 180 kilometers from   the mouth of the Mississippi, the world's fourth-longest river), the land around New Orleans is extremely low-lying(The city is  actually below sea level!) and was  at that time nothing  more than  a  swamp. Despite this , the city  attracted a  wide range of peoples, including Canadian  and European  French, slaves, American  Indians, and a  few  white British settlers, The area's  continued slow growth, however, convinced France that it should sell  all of its  extensive land holdings in North  America to Spain in 1763. Spain ruled this large area including  New Orleans until 1800, when  the whole area was again returned to French , only to be sold to the United States in 1803. The  early  French and Spanish cultures have remained with city, even  with approach of 200 years of American rule .
-
+OB
   evolve [ɪˈvɑlv] v.进化；   description [dɪˈskrɪpʃ(ə)n] n.说明；形容；描述；
 mouth [maʊθ] n.口；嘴；河口  mountain [ˈmaʊnt(ə)n] n.山；高山；
 low-lying adj.低下的；低洼的； 
@@ -1231,8 +1231,26 @@ gain [ɡeɪn] v.获得；增加  terminus [ˈtɜrmɪnəs] n.（铁路或公共�
 decline [dɪˈklaɪn] v.拒绝；下降；  golden [ˈɡoʊld(ə)n]     adj.金质的；金的；金色的；金黄色的
 creation [kriˈeɪʃ(ə)n] n.创作；创造；创  particular [pərˈtɪkjələr] adj.讲究；挑剔； 独特 专指的；不寻常的
 resuscitate [rɪˈsʌsɪˌteɪt] v.使苏醒；使恢复知觉  
-  
-  
+
+  Music has always   played an   important  part  in the daily lives of most Americans, and New Orleans  happend   to be home to some of the best   musicians in the country.  From  1880 to World War I, NEW Orleans with its cafe  and night  club  society  became host to a  new form of music based mostly on  the blues, but also on  marches and ragtime music. In this style  of music, the trumpet, clarinet, and trombone form the basis  of instrumentation .  As  the  tumpet is  the loudest, it normally  carries the melody, with the clarinet and  trombone improvising  above  and below the trumpet, respectively. Sidney  Bechet, Buddy Bolden, King   Oliver, and most famously Louis Armstrong became  symbols of the new music , playing to packed houses  at first in the New Orleans  red light district, and  later to  fans  in music   halls all  around the world.
+
+
+   Though  Dixieland jazz is today  a presserved form of music like classical music, it later spawned Big Band music  popular  until  the end of World War II, and  urban  jazz,  still popular in the United States  as well as  in other  countries, To HEAR  THE original Dixieland  jazz  one has   only to book a  hotle room in the Vieux Carre  district of  New  Orleans anytime of the year. The  French and Spanish  architecture and laid-back  lifestyle  there is  the perfect place to enjoy the  upbeat but relaxing  sounds of Dixieland jazz. Devotees of jazz  pack  Preservation   Hall, Dixieland Hal, and the night clubs along  Borubon Street  to hear  their  favorite songs. The  New Orleans jazz  Club  stages  many jazz events, as does  the city government, such as the International  Jazz and Heritage Festival.  If  you can  visit New  Orleans only once  in  your life, though, save it  for  the world famous Mardi Gras. You  can  then  enjoy  the best of New  Orleans's night life  with as many as one million   other party  revelers!
+
+   urban [ˈɜrbən] adj.城市的；都市的     
+
+   The city of New Orleans has so much  to offer. Its history,  unique cultural blend   including word-acclaimed  cuisines,  and, of course ,its  musical gift to the world , Dixieland jazz, are reasons enough  to place  New Orleans high on  everyone's  "must list" of places to visit, Whether you want to travel to  relax or join in  spirited partying, New  Orleans offers the tourist the best of  both  worlds. 
+
+offer [ˈɑfər] n.报价；出价；建议；主动提议v.供应；奉献；主动提出；自愿给予
+    网络 看头  提供；发盘；报盘
+blend [blend] v.混合；融合；加入；相称  acclaim [əˈkleɪmd] n.欢呼；欢迎；赞扬
+
+cuisine [kwɪˈzin]     n.厨房；烹调法；菜肴    网络烹饪；美食；美食篇
+spirited: [ˈspɪrɪtəd] 狂欢  adj.精神饱满的；坚定的；勇猛的 v.“spirit”的过去分词和过去式
+
+
+
+   
 ** Lesson 35 Hot Animals Around the World: The Panda
    thirty-fifth   Aug 25 21:30 -                                                                                   
  panda [ˈpændə]  猫熊  moron  [ˈmɔˌrɑn]     n.笨蛋；蠢货 huggable  ˈhʌɡəbl   逗人喜爱的；冬季照明抱枕；令人想拥抱\\
