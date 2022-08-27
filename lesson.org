@@ -1206,8 +1206,32 @@ dawn  [dɔn]     n.黎明；曙光；拂晓；破晓 v.开始；变得明朗；�
   domination  [ˌdɑmɪˈneɪʃ(ə)n]  n.统治；优势；【生】显性化     网络支配；控制
 
 
+  
+** Lesson 30 New Orleans: Birthplace of Jazz
+ Orleans : [ˈɔrliənz] n.奥尔良    jazz [dʒæz] n.爵士乐
+ 
+  Welcome to  Crescent City, birthplace of Jazz!"Crescent City" ? Yes, the nickname  for New Orleans  is Crescent City, due  to its downtown location along a  particularly  deep bend of the   Mississippi River. No matter  what this unique American city is called, New  Orleans has  something for everyone. 
 
+  crescent  [ˈkrez(ə)nt] n.新月形  particularly  [pərˈtɪkjələrli] adv.特别；尤其
+bend [bend] v.弯曲；（使）倾斜     unique [juˈnik] adj.唯一的
 
+  To understand why this  southern city is so different  from  any other  city of the United States, and perhaps also how it evolved the musical form Dixieland jazz, it is necessary  to give a  brief  description  of its history.  Founded in 1718 by  French developers, New Orleans grew  rather slowly. Although  ideal for  shipping(New Orleans is only 180 kilometers from   the mouth of the Mississippi, the world's fourth-longest river), the land around New Orleans is extremely low-lying(The city is  actually below sea level!) and was  at that time nothing  more than  a  swamp. Despite this , the city  attracted a  wide range of peoples, including Canadian  and European  French, slaves, American  Indians, and a  few  white British settlers, The area's  continued slow growth, however, convinced France that it should sell  all of its  extensive land holdings in North  America to Spain in 1763. Spain ruled this large area including  New Orleans until 1800, when  the whole area was again returned to French , only to be sold to the United States in 1803. The  early  French and Spanish cultures have remained with city, even  with approach of 200 years of American rule .
+
+  evolve [ɪˈvɑlv] v.进化；   description [dɪˈskrɪpʃ(ə)n] n.说明；形容；描述；
+mouth [maʊθ] n.口；嘴；河口  mountain [ˈmaʊnt(ə)n] n.山；高山；
+low-lying adj.低下的；低洼的； 
+swamp [swɑmp] v.淹没； 沼泽地      despite [dɪˈspaɪt] prep.尽管
+convinced [kənˈvɪnst] adj.确信；深信；说服 
+approach [əˈproʊtʃ] n.方法；接近  
+
+  The fortunes of  New  Orleans have always  depended on its riparian location. The city gained importance  in the War  of  1812 and later as the terminus  for shipping   along the Mississippi through  the Civil War.   As shipping declined   in importance  due to   the building  of the railroads near the end of  19th century, however, the Golden Age of New  Orleans  wound down .  At  this time , however, an artistic  creation particular to New Orleans would  resuscitate the  city's fortunes. 
+
+fortune [ˈfɔrtʃ(ə)n] n.命运；运气；财产  美: [raɪ'peəriən]  adj河边的；堤岸（上）的；堤岸近处的
+gain [ɡeɪn] v.获得；增加  terminus [ˈtɜrmɪnəs] n.（铁路或公共汽车路线的）终点站
+decline [dɪˈklaɪn] v.拒绝；下降；  golden [ˈɡoʊld(ə)n]     adj.金质的；金的；金色的；金黄色的
+creation [kriˈeɪʃ(ə)n] n.创作；创造；创  particular [pərˈtɪkjələr] adj.讲究；挑剔； 独特 专指的；不寻常的
+resuscitate [rɪˈsʌsɪˌteɪt] v.使苏醒；使恢复知觉  
+  
   
 ** Lesson 35 Hot Animals Around the World: The Panda
    thirty-fifth   Aug 25 21:30 -                                                                                   
@@ -1289,9 +1313,11 @@ species [ˈspisiz] n.种 网络物种  exhibit  [ɪɡˈzɪbɪt] v.展览；显�
    Hopefully, men will learn the excesses  of their  ways  and strive  to protect  the remaining natural habitats as an  investment  not only in the flora  and fauna remaining but  in the  quality of  life, present  and future , of all those  on this plant. "Extinction is forever"  and "There is only one world"  need  no longer be heard if one becomes conscious  of preserving the beauty of the natural  world  around us.
 
 excess  [ˈekˌses] n.过度；过分行为；过量  strive [straɪv] v.努力；奋斗
-
+habitat [ˈhæbɪˌtæt] n.聚集处 栖息地  
 investment  [ɪnˈvestmənt]     n.投资；投资额；投资物；值得买的东西    网络投入；投资学；投资理财
-
+flora [ˈflɔrə] n.植物区系；植物群   fauna [ˈfɔnə] 动物群
+present [ˈprezənt] n.目前；现在； extinction [ɪkˈstɪŋkʃ(ə)n] n.绝种
+preserve [prɪˈzɜrv] v.保留；保持  
 
   
 ** Lesson 36  Vancouver: Asia's   Newest city
