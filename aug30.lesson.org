@@ -1001,8 +1001,6 @@ a peal  of thunder
    Just what are  these "devil storms"? They  go by many names  across the Great Plains of the United States and  Canada,not to mention many other  countries arond the world, but tornadoes are perennial plagues in central North  America. The conditions  there - flat land and proximity to cold  air masses(from the Rocky Mountains to the west) and  warm  and humid air masses(from  the Gulf of Mexico to the  south) provide the optinum  breeding ground for tornadoes. According to the U.S. National Weather Service, tornadoes form  from  thunderclounds  and can reach swirling  speeds in excess of 600  kilometers per hour. They last from minutes to an hour or more and  an blast their way across as much as 150 kilometers  of teerrain at about 50 kilometers per hour. They vary in width from  a few meters to 1,500 meters(average 200 meters). And  they  strike fear  into the hearts of everyone.
 
 
-   She  didn't   have long  to wait. With  shrieking and   swooshing   sounds right out  of hell, the funnel cloud  passed  directly over her house. An  enormous vacuum cleaner, the twister  blew   the house  apart, scattering five generations of Ellen Mae's family belongings over half  the rural county  she lived in. Within  minutes, the winds had stopped, and an eerie silence replaced  the cacophony of  moments earlier.  Feeling it was now   safe  to venture out , Ellen Mae unbolted the door, peered out, and started to cry. She could look straight up into the sky. Even thought  she  had lost her house and everyting in it, she felt lucky, She knew taht every year,  hunreds of poeple   could perish in  tornadoes .
-
 shriek [ʃrik] v.惊喊；引人注意  swoosh [swʊʃ] v.(使)哗哗地流；(使)嗖嗖地动[发射] n.嗖嗖声
 hell [hel] n.地狱；见鬼  funnel  [ˈfʌn(ə)l] n.漏斗 漏斗云；
 directly [daɪˈrektli] adv.正；立即 扫过 enormous [ɪˈnɔrməs] adj.巨大的；大量的
@@ -1014,6 +1012,8 @@ silence [ˈsaɪləns] n.沉默；寂静；  cacophony [kəˈkɑfəni] n.刺耳�
 venture [ˈventʃər] v.敢于去（危险或令人不快的地方）；小心地说   venture out 网络冒险出去
 unbolted [ʌn'boʊltɪd]     adj.未上栓的；把门闩去掉的   peer [pɪr] v.朦胧出现；瞪着看；
 perish [ˈperɪʃ] v.死亡；毁灭；  
+
+   She  didn't   have long  to wait. With  shrieking and   swooshing   sounds right out  of hell, the funnel cloud  passed  directly over her house. An  enormous vacuum cleaner, the twister  blew   the house  apart, scattering five generations of Ellen Mae's family belongings over half  the rural county  she lived in. Within  minutes, the winds had stopped, and an eerie silence replaced  the cacophony of  moments earlier.  Feeling it was now   safe  to venture out , Ellen Mae unbolted the door, peered out, and started to cry. She could look straight up into the sky. Even thought  she  had lost her house and everyting in it, she felt lucky, She knew taht every year,  hunreds of poeple   could perish in  tornadoes .
 
 
    
