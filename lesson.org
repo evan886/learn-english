@@ -992,18 +992,16 @@ corner  [ˈkɔrnər]    n.角；拐角；
 basement [ˈbeɪsmənt]    n.地下室  bolt [boʊlt]n.螺栓 用插销闩
 
 
+
    At first  she  thought it was  a locomotive, but she  quickly  remembered that  there  was no  railroad within  20 miles of her home.  She  looked  into the sky and then  noticed it, a dark,  swirling mass of black cloud sucking up everything  it  touched  and hurling objects  at horrific speeds straight  up  or straight  to the side.  Ellen  Mae  ran as fast as she could down into her  storm cellar, a special room  which   had  been prepared by  her father when  he was still  alive.  This  room  was  located in the south western corner  of the basement and  had  a door  with a  strong bolt. Ellen Mae  ran in , locked  the door behind her, and waited.
 
 a peal  of thunder 
 
-   
-
-   Just what are  these "devil storms"? They  go by many names  across the Great Plains of the United States and  Canada,not to mention many other  countries arond the world, but tornadoes are perennial plagues in central North  America. The conditions  there - flat land and proximity to cold  air masses(from the Rocky Mountains to the west) and  warm  and humid air masses(from  the Gulf of Mexico to the  south) provide the optinum  breeding ground for tornadoes. According to the U.S. National Weather Service, tornadoes form  from  thunderclounds  and can reach swirling  speeds in excess of 600  kilometers per hour. They last from minutes to an hour or more and  an blast their way across as much as 150 kilometers  of teerrain at about 50 kilometers per hour. They vary in width from  a few meters to 1,500 meters(average 200 meters). And  they  strike fear  into the hearts of everyone.
-
 
 shriek [ʃrik] v.惊喊；引人注意  swoosh [swʊʃ] v.(使)哗哗地流；(使)嗖嗖地动[发射] n.嗖嗖声
 hell [hel] n.地狱；见鬼  funnel  [ˈfʌn(ə)l] n.漏斗 漏斗云；
-directly [daɪˈrektli] adv.正；立即 扫过 enormous [ɪˈnɔrməs] adj.巨大的；大量的
+directly [daɪˈrektli] adv.正；立即 扫过  apart [əˈpɑrt] adv.分开；分离；相距；不在一起
+enormous [ɪˈnɔrməs] adj.巨大的；大量的
 vacuum [ˈvækjum] n.真空；真空状态；空虚；空白  cleaner  [ˈklinər] n.吸尘器；清洁工；清洁剂；去污剂
 twister [ˈtwɪstər] n.旋风；龙卷风  blew [blu:] v.blow(吹)的过去式    网络吹气；吹的过去式；吹拂
 scatter [ˈskætər] v.撒；四散；驱散；撒播  generation [ˌdʒenəˈreɪʃ(ə)n] n.世代；一代[一世]；产生；同时代的人
@@ -1016,6 +1014,16 @@ perish [ˈperɪʃ] v.死亡；毁灭；
    She  didn't   have long  to wait. With  shrieking and   swooshing   sounds right out  of hell, the funnel cloud  passed  directly over her house. An  enormous vacuum cleaner, the twister  blew   the house  apart, scattering five generations of Ellen Mae's family belongings over half  the rural county  she lived in. Within  minutes, the winds had stopped, and an eerie silence replaced  the cacophony of  moments earlier.  Feeling it was now   safe  to venture out , Ellen Mae unbolted the door, peered out, and started to cry. She could look straight up into the sky. Even thought  she  had lost her house and everyting in it, she felt lucky, She knew taht every year,  hunreds of poeple   could perish in  tornadoes .
 
 
+
+   Just what are  these "devil storms"? They  go by many names  across the Great Plains of the United States and  Canada,not to mention many other  countries arond the world, but tornadoes are perennial plagues in central North  America. The conditions  there - flat land and proximity to cold  air masses(from the Rocky Mountains to the west) and  warm  and humid air masses(from  the Gulf of Mexico to the  south) provide the optimum   breeding ground for tornadoes. According to the U.S. National Weather Service, tornadoes form  from  thunderclounds  and can reach swirling  speeds in excess of 600  kilometers per hour. They last from minutes to an hour or more and  an blast their way across as much as 150 kilometers  of teerrain at about 50 kilometers per hour. They vary in width from  a few meters to 1,500 meters(average 200 meters). And  they  strike fear  into the hearts of everyone.
+
+devil [ˈdev(ə)l] n.魔鬼；恶魔  perennial [pəˈreniəl] adj.长久的；持续的；反复出现
+proximity [prɑkˈsɪməti] n.邻近 网络接近  gulf  [ɡʌlf] n.海湾；
+mass [mæs] n.群众；大量  v.使成一团  condition [kənˈdɪʃ(ə)n] n.条件；情况；疾病 v.决定；
+flat [flæt] n.公寓；单元房；平坦的  warm [wɔrm] adj.温暖的；暖和的
+humid [ˈhjumɪd] adj.温暖潮湿的；湿热的   provide [prəˈvaɪd] v.提供；供应
+optimum [ˈɑptɪməm] adj.最佳的；最适宜的  breed     美: [brid]     网络养育；产生
+   
    
    The  safest place to be when a tornado is in one's area is a  basement, preferrably the sourthwest corner (where the tornado  normally comes from). If driving, track  due  north or south, as tornadoes usually move from west to east. Weather prediction  and tracking these days is far superior to earlier years, but  tornadoes can appear  without any warning at all, as a  large  one did  right in the heart of Salt Lake City  in 1999,leaving a trail  of shocked , wounded, and dead as well as pulverized property.
 
