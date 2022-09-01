@@ -245,8 +245,8 @@ J: Don't shout at me. Allow me  to  explain.
  
 
 *  Advanced English
-** Lesson one Let's Visit New York?                                                                                                                                         
-   New York, New York.                                                                                                                                                       
+** Lesson one Let's Visit New   York? 
+   New York, NewYork.                                                                                                                                                       
    These  words were used to describe  New York when it was  by far the largest,richest, and most  developed city in the United States. New York still remains the largest   
  and most famous city in the U.S. today, but some of its"nice" reputation has fallen over the past thirty years with  stories of  rampant  crime making headlines around     
  the world. How true are these stories? Is New York still a "nice" place to visit? if so, what can a tourist do in New York? Let's  take a closer look  at America's         
@@ -1207,9 +1207,33 @@ harbinger [ˈhɑrbɪndʒər] n.先驱；预言者   literature [ˈlɪt(ə)rəˌt
 
   Why has Moby  Dick since  become such  a  classic despite its  initial  lukewarm reception? Melville had a  keen eye  for not only the human  condition  but for  the tenor of his times: the United States was  in his  day a country of  disadvantaged and  mistreated immigrants (many of whom became sailors and laborers), with  untrammeled capitalism crushing both nature  and  man underneath its new country exuberance. His stress on the  individual and  fate -- often  pessimistically, or  at least  realistically - were harbingers of the future  of literature.
 
+  Why  does the story of Moby Dick continue to enthrall generation after  generatio? The story line is  simple enough: a mad sea captain vows revenge against a white whale which, on a  previous expedition, bit off one of his legs.   In his  vain attempt at "justice" against nature, the captain meets the ultimate tragedy. This  was no documentary, however; the characters and setting become vehicles for far larger and more  universal themes of the setbacks and successes of the human  spirit as well as its darker urges. So  accurately does Melville  depict the whaling scenes and sea voyages that the reader is taken  on an  exhilarating  ride.Coupled with the absorbing,mad Captain Ahab, the book is "a good read" even by 20th  century standards.
+
+
+enthrall [ɪnˈθrɔl]v.迷惑；使...入迷 vow [vaʊ]n.誓言；誓愿
+revenge [rɪˈvendʒ]n.报复；报仇  expedition [ˌekspəˈdɪʃ(ə)n]n.探险；考察 远征
+vain [veɪn]adj.徒劳的；枉然的；无结果的；自负的 attempt [əˈtempt]n.尝试；试图
+justice [ˈdʒʌstɪs]n.公正；公平   ultimate [ˈʌltɪmət]adj.最后的；最终
+tragedy [ˈtrædʒədi]n.悲剧；  documentary [ˌdɑkjəˈment(ə)ri]adj.纪实的；有文件记录的
+vehicle [ˈviɪk(ə)l]n.车辆 媒介 setback [ˈsetˌbæk]n.挫折；倒退
+urge [ɜrdʒ]    v.鼓励； accurately ['ækjərətlɪ]adv.精确；正确
+depict [dɪˈpɪkt]v.描述；描   whale [ˈhweɪlɪŋ]    n.鲸鱼；捕鲸
+scene [sin]n.现场；景色
+voyage [ˈvɔɪɪdʒ]    n.航行； exhilarating [ɪɡˈzɪləˌreɪtɪŋ]adj.使人兴奋的；令人激动的
+ride [raɪd]v.骑；乘坐；骑马；搭乘n.搭便车；（乘车或骑车的）短途旅程  之旅
+couple [ˈkʌp(ə)l]v.结合；连接；使结婚；(使)交配n.配偶；  absorb [əbˈzɔrbɪŋ]v.吸收；吸附；吸引；
+standard [ˈstændərd]n.标准
+
+ 
 
 
 
+
+  Earlier last century, the Noble Prize winner Ernest  Hemingway penned The Old Man  and the Sea, another story of a man's struggle  with nature on the open ocean. This  theme strikes a chord in Americans,   whose culture  developed  along the Atlantic coast of North  America  and whose seaward  passage  from the Old World took them to the colonies of the 18th century or the young country of the 19th century by the millions. This fascination withe th e maritime still holds today: over half the population of the United States lives in counties  touching the Atlantic, Pacific, or Gulf coasts. Perhaps some future wirter will once again use the metaphor of sailors and the sea  to create yet another Great American Novel. 
+
+  
+struggle [ˈstrʌɡ(ə)l]n.斗争；奋斗  strike [straɪk]v.罢工；击；攻击  共鸣
+chord [kɔrd]n.弦；心弦 
   
   
   
