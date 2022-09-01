@@ -1083,8 +1083,6 @@ essay [ˈeˌseɪ]    n.小品文 文章   fame [feɪm]    n.名声；声誉
 imaginary  [ɪˈmædʒɪˌneri]adj.想象中的；幻想的；虚构的  ironically [aɪˈrɑnɪkli]adv.讽刺地；
 afterwards [ˈæftərwərdz]adv.后来；以后  masterpiece [ˈmæstərˌpis]    n.杰作；名著；
 
-  Why has Moby  Dick since  become such  a  classic despite its  initial  lukewarm reception? Melville had a  keen eye  for not only the human  condition  but for  the tenor of his times: the United States was  in his  day a country of  disadvantaged and  mistreated immigrants (many of whom became sailors and laborers), with  untrammeled capitalism crushing both nature  and  man underneath its new country exuberance. His stress on the  individual and  fate -- often  pessimistically, or  at least  realistically - were harbingers of the future  of literature.
-
 despite [dɪˈspaɪt] prep.尽管；即使；尽管 initial [ɪˈnɪʃ(ə)l] adj.最初的；开始的
 lukewarm [ˈlukˌwɔrm] 不热心的；冷淡的  reception [rɪˈsepʃən] n.接待；招待会；欢迎；
 keen [kin] 敏锐的；   condition [kənˈdɪʃ(ə)n] n.条件；状态；
@@ -1099,6 +1097,8 @@ stress [stres] n.压力；强调
 individual [ˌɪndɪˈvɪdʒuəl] n.个人；与众不同的人   fate [feɪt] n.命运；天意；
 pessimistically [ˌpesɪ'mɪstɪklɪ]    adv.悲观地   realistically [ˌriəˈlɪstɪkli] adv.实际地；切合实际地
 harbinger [ˈhɑrbɪndʒər] n.先驱；预言者   literature [ˈlɪt(ə)rəˌtʃʊr] n.文学；文学作品
+
+  Why has Moby  Dick since  become such  a  classic despite its  initial  lukewarm reception? Melville had a  keen eye  for not only the human  condition  but for  the tenor of his times: the United States was  in his  day a country of  disadvantaged and  mistreated immigrants (many of whom became sailors and laborers), with  untrammeled capitalism crushing both nature  and  man underneath its new country exuberance. His stress on the  individual and  fate -- often  pessimistically, or  at least  realistically - were harbingers of the future  of literature.
 
 
 
