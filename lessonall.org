@@ -1249,8 +1249,13 @@ metaphor [ˈmetəˌfɔr] n.隐喻；暗喻 网络比喻；譬喻；比
 
 **  Lesson  22  Boston: Hearth of American Culture
 
+ hearth [hɑrθ] n.壁炉炉床；壁炉前的地面；家和家庭生活 炉边；
+ 
   When people  think  of "American culture and values,"  they  are unconsciously  referring to a set of principles, a world view, and a lifestyle  which can  best be found in Boston,capital of the state of Massachusetts  and the major  city in all  of  New England, those six  relatively samll states tucked away in the northeastern  corner of the United States. Although  Boston is perhaps the seventh  or eighth  largest city in the U.S.,no  other  city in America  can compare  with the influence which Boston has  had  on the development of government, education, medicine, and the arts.
 
+unconsciously [ʌn'kɒnʃəsli] adv.无意地；不知不觉地  refer to v.查阅；提到 指 
+principle [ˈprɪnsəp(ə)l] n.原则；Massachusetts [ˌmæsə'tʃu:sits] n.马萨诸塞；
+tuck [tʌk] 使隐藏 v.收藏； influence [ˈɪnfluəns] n.影响；作用；影响力  
 
   This  influence  is due  in no small part  to Boston's  central role  in the building of  a new nation.  Many people  think  that the United States was  established in 1776; however, that  was the year  of  the Declaration of Independence, a  revolutionary   document claiming self-rule from its mother  country , England.  Actual  independence--the formation of a  government with an acting president(George Washington) -- did not begin until 1789. Boston was nearly   middle-aged then, as it  had had its beginnings a  century  and  a half earlier,in 1630. It maintained its  position  as the commerce until  the  mid-18th century, when  both New York and Philadelphia(the young nation's first and second capitals,respectively) overtook Boston in size .
 
@@ -1260,6 +1265,10 @@ metaphor [ˈmetəˌfɔr] n.隐喻；暗喻 网络比喻；譬喻；比
 
   Today Boston  caters  to finance and  banking, education, and medicine, with some of the top international  mutual fund and insurance companies, world-renowned educational   institutes, and state-of-the-art  medical centers   and schools.  The  city has  also  managed to preserver  much of its earlier identity  as the  home of the American Revolution; thus  tourism is  an important sector in the economy of Boston as  well. Like  San Francisco or New  Orleans, Boston has a  reputation  for being a pleasant city  to admire while walking around it.
 
+
+  What  can one do in Boston? Important   historic sites, well-preserved examples  of architecture from  the 17~20th centuries, and spacious parks  invite the  tourist or resident to "smell the roses"  while in Boston. Its unhurried but sophisticated citizens boast  not only  high incomes but also high  levels of education. Music flourished here: the Boston Symphony Orchestra, the New  England  Conservatory of Music  and the Boston Pops  Orchestra offer  first-class musical entertainment in both public and private venues. The  Museum of Fine  Arts is a major world gallery. Science Park, situated  midway between Boston and its major satellite city, Cambridge , offers the Museum  of  Science. Had  enough  of "high-bro culture"? Boston  affords it s citizens and visitors many first-class  restaurants and shopping  dockside in Faneuil  Hall. HiSTORIC walking  tours are a  must for the tourist, especially   Boston Commons, a city  park, and Beacon Hill, with  its  roads  still paved with the   original stones from the 17th century.  Admirers  of university  campuses  steeped in  tradition  should  see Harvard, the nation's  oldest  university(1636), as  well as  the Massachusetts Institute  of Technology, Emerson College, Boston  College, and Boston  University, all in   the metropolitan area.
+
+  In  short, no matter one's interest, any visitor is sure to enjoy  his stay  in  Boston , hearth of American culture  and still  a leader in education , medicine, and music.
 
   
   
