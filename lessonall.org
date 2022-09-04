@@ -1257,9 +1257,16 @@ unconsciously [ʌn'kɒnʃəsli] adv.无意地；不知不觉地  refer to v.查�
 principle [ˈprɪnsəp(ə)l] n.原则；Massachusetts [ˌmæsə'tʃu:sits] n.马萨诸塞；
 tuck [tʌk] 使隐藏 v.收藏； influence [ˈɪnfluəns] n.影响；作用；影响力  
 
-  This  influence  is due  in no small part  to Boston's  central role  in the building of  a new nation.  Many people  think  that the United States was  established in 1776; however, that  was the year  of  the Declaration of Independence, a  revolutionary   document claiming self-rule from its mother  country , England.  Actual  independence--the formation of a  government with an acting president(George Washington) -- did not begin until 1789. Boston was nearly   middle-aged then, as it  had had its beginnings a  century  and  a half earlier,in 1630. It maintained its  position  as the commerce until  the  mid-18th century, when  both New York and Philadelphia(the young nation's first and second capitals,respectively) overtook Boston in size .
+  This  influence  is due  in no small part  to Boston's  central role  in the building of  a new nation.  Many people  think  that the United States was  established in 1776; however, that  was the year  of  the Declaration of Independence, a  revolutionary   document claiming self-rule from its mother  country , England.  Actual  independence--the formation of a  government with an acting president(George Washington) -- did not begin until 1789. Boston was nearly   middle-aged then, as it  had had its beginnings a  century  and  a half earlier,in 1630. It maintained its  position  as the colonies' pre-eminent  center for politics, education , and  commerce until  the  mid-18th century, when  both New York and Philadelphia(the young nation's first and second capitals,respectively) overtook Boston in size .
+
+central [ˈsentrəl] adj.最重要的；首要的；主要的；  role [roʊl] n.作用；(演员扮演的)角色
+established [ɪˈstæblɪʃt] adj.已确立的；已获确认的；确定的  revolutionary [ˌrevəˈluʃ(ə)nˌeri] adj.革命的；革命性的
+formation [fɔrˈmeɪʃ(ə)n] n.形成；编队  eminent [ˈemɪnənt] adj.显赫的；非凡的；杰出的
+commerce [ˈkɑˌmɜrs] n.商业；（尤指国际间的）贸易；商务
+respectively [rɪˈspektɪvli] adv.分别；各自；顺序为；依次为  
 
 
+  
   Boston  was  settled by religious immigrants from  the Church of English. It was  with these  early settlers that the first  outlines of an American  culture  began: a  strict  adherence to religious dicta, diligence in work, educational aspirations,  and a conservative  lifestyle. Because Boston  is closer to Europe  than any  other  city  in the U.S., it  was the point  of entry to the colonies  until  the 19th century, when  New york became the  new magenet  for the "poor, tired, and huddled  masses"  who  were  to become  the backbone of the new  American  economy, Boston remained, however , and important commercial center until  the 20th century .
 
 
