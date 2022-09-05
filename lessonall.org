@@ -1279,11 +1279,33 @@ commerce [ˈkɑˌmɜrs] n.商业；（尤指国际间的）贸易；商务
 respectively [rɪˈspektɪvli] adv.分别；各自；顺序为；依次为  
 
 
-  Today Boston  caters  to finance and  banking, education, and medicine, with some of the top international  mutual fund and insurance companies, world-renowned educational   institutes, and state-of-the-art  medical centers   and schools.  The  city has  also  managed to preserver  much of its earlier identity  as the  home of the American Revolution; thus  tourism is  an important sector in the economy of Boston as  well. Like  San Francisco or New  Orleans, Boston has a  reputation  for being a pleasant city  to admire while walking around it.
+  Today Boston  caters  to finance and  banking, education, and medicine, with some of the top international  mutual fund and insurance companies, world-renowned educational   institutes, and state-of-the-art  medical centers   and schools.  The  city has  also  managed to preserve  much of its earlier identity  as the  home of the American Revolution; thus  tourism is  an important sector in the economy of Boston as  well. Like  San Francisco or New  Orleans, Boston has a  reputation  for being a pleasant city  to admire while walking around it.
 
 
-  What  can one do in Boston? Important   historic sites, well-preserved examples  of architecture from  the 17~20th centuries, and spacious parks  invite the  tourist or resident to "smell the roses"  while in Boston. Its unhurried but sophisticated citizens boast  not only  high incomes but also high  levels of education. Music flourished here: the Boston Symphony Orchestra, the New  England  Conservatory of Music  and the Boston Pops  Orchestra offer  first-class musical entertainment in both public and private venues. The  Museum of Fine  Arts is a major world gallery. Science Park, situated  midway between Boston and its major satellite city, Cambridge , offers the Museum  of  Science. Had  enough  of "high-bro culture"? Boston  affords it s citizens and visitors many first-class  restaurants and shopping  dockside in Faneuil  Hall. HiSTORIC walking  tours are a  must for the tourist, especially   Boston Commons, a city  park, and Beacon Hill, with  its  roads  still paved with the   original stones from the 17th century.  Admirers  of university  campuses  steeped in  tradition  should  see Harvard, the nation's  oldest  university(1636), as  well as  the Massachusetts Institute  of Technology, Emerson College, Boston  College, and Boston  University, all in   the metropolitan area.
+cater [ˈkeɪtər]v.承办餐宴 迎合；  finance [fɪˈnæns]n.金融；财务
+mutual[ˈmjutʃuəl]adj.相互的；彼此的  fund [fʌnd]n.基金；
+insurance [ɪnˈʃʊrəns]n.保险；保险业  renowned [rɪˈnaʊnd]adj.有名的；闻名的
+institute [ˈɪnstɪˌtut]n.学院；学会  preserve [prɪˈzɜrv]v.保留；保护
+identity [aɪˈdentəti]n.身份；同一性；一致；特征 认同；身分；识别
+tourism [ˈtʊˌrɪzəm]n.旅游业；  sector [ˈsektər]n.行业；扇形；网络扇区
+reputation [ˌrepjəˈteɪʃ(ə)n]n.名声；名誉  pleasant  [ˈplez(ə)nt]adj.令人愉快的；
+admire [ədˈmaɪr]v.钦佩；欣赏  
 
+  What  can one do in Boston? Important   historic sites, well-preserved examples  of architecture from  the 17~20th centuries, and spacious parks  invite the  tourist or resident to "smell the roses"  while in Boston. Its unhurried but sophisticated citizens boast  not only  high incomes but also high  levels of education. Music flourished here: the Boston Symphony Orchestra, the New  England  Conservatory of Music  and the Boston Pops  Orchestra offer  first-class musical entertainment in both public and private venues. The  Museum of Fine  Arts is a major world gallery. Science Park, situated  midway between Boston and its major satellite city, Cambridge , offers the Museum  of  Science. Had  enough  of "high-brow  culture"? Boston  affords it s citizens and visitors many first-class  restaurants and shopping  dockside in Faneuil  Hall. HiSTORIC walking  tours are a  must for the tourist, especially   Boston Commons, a city  park, and Beacon Hill, with  its  roads  still paved with the   original stones from the 17th century.  Admirers  of university  campuses  steeped in  tradition  should  see Harvard, the nation's  oldest  university(1636), as  well as  the Massachusetts Institute  of Technology, Emerson College, Boston  College, and Boston  University, all in   the metropolitan area.
+
+resident [ˈrezɪdənt]n.居民；住户  unhurried [ʌnˈhʌrid]adj.从容的；不慌不忙的
+sophisticated [səˈfɪstɪˌkeɪtəd]adj.见多识广的；老练的  boast [boʊst]n.夸耀；夸口v.自夸
+income [ˈɪnˌkʌm]n.收益网络收入  flourish [ˈflɜrɪʃ]v.繁荣；兴旺
+entertainment [ˌentərˈteɪnmənt]n.娱乐；娱乐活动  venue [ˈvenˌju]n.场地；(体育)场馆
+gallery [ˈɡæləri]n.画廊；美术馆；  situated [ˈsɪtʃuˌeɪtɪd]adj.位于；坐落
+midway [ˈmɪdˌweɪ]n.中途；娱乐场  satellite [ˈsæt(ə)lˌaɪt]    n.卫星；  很好记得这个
+dockside [ˈdɑkˌsaɪd]n.码头边；坞边    网络码头前沿；港区；
+commons [ˈkɑmənz]n.“common”的复数；公地；平民
+pave [peɪv]v.铺设；  original [əˈrɪdʒən(ə)l]n.原件；正本
+admirer [ədˈmaɪrər]n.敬慕者；情人  campus [ˈkæmpəs]n.〈美〉校园；大学
+steep [stip]  使沉湎  metropolitan [ˌmetrəˈpɑlɪt(ə)n]adj.大城市的；大都会的；本土的
+  
+  
   In  short, no matter one's interest, any visitor is sure to enjoy  his stay  in  Boston , hearth of American culture  and still  a leader in education , medicine, and music.
 
   
