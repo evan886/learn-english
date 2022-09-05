@@ -1259,15 +1259,24 @@ tuck [tʌk] 使隐藏 v.收藏； influence [ˈɪnfluəns] n.影响；作用；�
 
   This  influence  is due  in no small part  to Boston's  central role  in the building of  a new nation.  Many people  think  that the United States was  established in 1776; however, that  was the year  of  the Declaration of Independence, a  revolutionary   document claiming self-rule from its mother  country , England.  Actual  independence--the formation of a  government with an acting president(George Washington) -- did not begin until 1789. Boston was nearly   middle-aged then, as it  had had its beginnings a  century  and  a half earlier,in 1630. It maintained its  position  as the colonies' pre-eminent  center for politics, education , and  commerce until  the  mid-18th century, when  both New York and Philadelphia(the young nation's first and second capitals,respectively) overtook Boston in size .
 
+  Boston  was  settled by religious immigrants from  the Church of English. It was  with these  early settlers that the first  outlines of an American  culture  began: a  strict  adherence to religious dicta, diligence in work, educational aspirations,  and a conservative  lifestyle. Because Boston  is closer to Europe  than any  other  city  in the U.S., it  was the point  of entry to the colonies  until  the 19th century, when  New york became the  new magenet  for the "poor, tired, and huddled  masses"  who  were  to become  the backbone of the new  American  economy, Boston remained, however , and important commercial center until  the 20th century .
+
+settled [ˈset(ə)ld] adj.开垦的 religious [rəˈlɪdʒəs] adj.宗教信仰的；宗教的；
+immigrant [ˈɪmɪɡrənt] n.侨民adj.移民   outline [ˈaʊtˌlaɪn] n.要点；轮廓；
+
+strict [strɪkt] adj.严格的 adherence [ədˈhɪrəns] n.坚持；遵守
+dictum [ˈdɪktəm] n.名言；断言；  diligence [ˈdɪlɪdʒəns] n.勤奋；勤勉；用功努力
+aspiration [ˌæspɪˈreɪʃ(ə)n] n.愿望 抱负；热望；  conservative [kənˈsɜrvətiv] n.守旧派
+magnet [ˈmæɡnət] n.磁体；磁铁 吸引力 huddle [ˈhʌd(ə)l] 缩成一团 拥挤；蜷缩；挤作一团
+mass [mæs] n.群众；民众；大量  backbone [ˈbækˌboʊn] n.骨干；支柱；
+commercial [kəˈmɜrʃ(ə)l] adj.贸易的；商业的  
+
+  #这个其实上一段落的
 central [ˈsentrəl] adj.最重要的；首要的；主要的；  role [roʊl] n.作用；(演员扮演的)角色
 established [ɪˈstæblɪʃt] adj.已确立的；已获确认的；确定的  revolutionary [ˌrevəˈluʃ(ə)nˌeri] adj.革命的；革命性的
 formation [fɔrˈmeɪʃ(ə)n] n.形成；编队  eminent [ˈemɪnənt] adj.显赫的；非凡的；杰出的
 commerce [ˈkɑˌmɜrs] n.商业；（尤指国际间的）贸易；商务
 respectively [rɪˈspektɪvli] adv.分别；各自；顺序为；依次为  
-
-
-  
-  Boston  was  settled by religious immigrants from  the Church of English. It was  with these  early settlers that the first  outlines of an American  culture  began: a  strict  adherence to religious dicta, diligence in work, educational aspirations,  and a conservative  lifestyle. Because Boston  is closer to Europe  than any  other  city  in the U.S., it  was the point  of entry to the colonies  until  the 19th century, when  New york became the  new magenet  for the "poor, tired, and huddled  masses"  who  were  to become  the backbone of the new  American  economy, Boston remained, however , and important commercial center until  the 20th century .
 
 
   Today Boston  caters  to finance and  banking, education, and medicine, with some of the top international  mutual fund and insurance companies, world-renowned educational   institutes, and state-of-the-art  medical centers   and schools.  The  city has  also  managed to preserver  much of its earlier identity  as the  home of the American Revolution; thus  tourism is  an important sector in the economy of Boston as  well. Like  San Francisco or New  Orleans, Boston has a  reputation  for being a pleasant city  to admire while walking around it.
