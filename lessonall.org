@@ -821,23 +821,66 @@ unparalleled  [ʌnˈpɛrəˌlɛld] adj.无可匹敌的  prestigious  [preˈstid�
 
 dozen  [ˈdʌz(ə)n] n.若干；十二个 varied  [ˈverid] adj.各种各样的；形形色色的；不相同的；变化的     v.“vary”的过去式和过去分词
 delightful  [dɪˈlaɪtfəl] adj.使人快乐的；令人愉快的；宜人的
-  
+
 
 **  Lesson 13 The Ivy League Schools: Excellence in Education
-lineage [ˈlɪniɪdʒ] n.世系；血统   
+lineage [ˈlɪniɪdʒ] n.世系；血统   league [liɡ] n.联赛；联盟
 
  The first permanent English settlement in the New World was  at Plymouth Bay in what  is now  the state  of Massachusetts  in 1620. Merely 16 years later, a group of successful settlers in New Town(renamed Cambridge after their  alma mater) started a college. They named it after the Puritan minister  who  willed half his  estate and all his books to  the college  This  clergyman's  name was John  Harvard, and  his namesake  remains the most prestigious among the more than 2,000  institutes of higher  education  in the United States today.
 
+permanent [ˈpɜrmənənt] adj.永久性 settlement [ˈset(ə)lmənt] n.解决；移民
+merely [ˈmɪrli] adv.仅仅；只不过 只是；仅仅地  alma mater 母校
+puritan [ˈpjʊrɪt(ə)n] adj.清教徒的；  minister [ˈmɪnɪstə(r)] n.部长；牧师；公使
+clergyman ['klɜ:dʒimən] 牧师 神父
+will [wɪl] v.想要；希望；喜欢 遗嘱 立遗嘱  estate [ɪˈsteɪt] 财产； 产业
+namesake [ˈneɪmˌseɪk] 依某人名取名者 prestigious [preˈstidʒəs] adj.有威望的 有声望的；有名望的
+institute [ˈɪnstɪˌtut] n.学院；学会； 学府   at will .任意；随意 随心所欲；任意地；随意地
 
-permanent [ˈpɜrmənənt] adj.永久性；一直  
-
- 
  Harvard is  not the only great school in the U.S. , of course. A  small industry has  grown  up around the ranking of the best tertiary schools,and year  after year,seven  schools dominate  most of these Top Twenty or Top Fifty lists. Harvard is nearly  always at or close to the top, joined frequently by Yale(in Connecticut),Princeton(in New Jersey), Dartmouth(in New Hampshire),Cornell(in New York State), Columbia(in New York City), the University  of Pennsylvania, and Brown(in Rhode  Island).  These eight private universities are collectively referred to  as the Ivy League schools.
+
+ranking [ˈræŋkɪŋ] n.排名adj.地位高的；高级的；最高级的；…级别的v.“rank”的现在分词
+tertiary [ˈtɜrʃəri] adj.第三的；大学的  dominate [ˈdɑmɪˌneɪt] v.控制；支配；影响
+frequently [ˈfrikwəntli] adv.频繁地；时常
+collectively [kəˈlektɪvli]adv.集体；总称 refer [rɪˈfɜr] v.提到；引用 
+top-notch adj.最好的；卓越的；第一流的
+
 
  Why  the name ? Ivy  is a vine; that is, a plant which grows  up or along the surface of other plants such as trees, or , in the  human landscape,  along the sides of stone buildings. As these  eight  universities are old(the youngest among them,Cornell, was  founded in 1853),ivy has had  plenty of time to decorate the outsides of the more historic buildings on these campuses. The  word league, however, is more an invention of imagination  than  a reality . Though  there is an association called the Ivy League, it refers to the above schools's  participation in an Amercan  football   athletic conference rather  than  to any academic alliance. Further, despite the  lengthy academic  lineage of these  schools,  the footballing Ivy League was not  formally formed until 1956, though highly competitive football and other athletic games have been hotly contested among the schools for many generations.
 
- Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society.  Their status within   national scholarly circles is unparalleled . Admission to these  universities is  highly demanding: many  sudents apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
+vine [vaɪn] n.藤；藤蔓   ivy  [ˈaɪvi] n.【植】常春藤
+surface [ˈsɜrfəs] n.表面；地面；表层  landscape  [ˈlændˌskeɪp] n.景色；景观
+decorate [ˈdekəˌreɪt] v.装饰； historic [hiˈstɒrik] adj.历史上有名的；具有历史价值的
+campus [ˈkæmpəs] n.〈美〉校园；大学 校区  invention [ɪnˈvenʃ(ə)n] n.发明；创造；虚构；编造
+imagination [ɪˌmædʒɪˈneɪʃ(ə)n] n.想象；association [əˌsoʊʃiˈeɪʃ(ə)n] n.协会；社团
+participation [pɑrˌtɪsɪˈpeɪʃ(ə)n] n.参与；参加   athletic [æθˈletɪk] adj.体育运动的；田径运动的  结盟
+conference [ˈkɑnf(ə)rəns] n.研讨会；  rather than 而不 而不是
 
+academic [ˌækəˈdemɪk] adj.教学的；学术性的（与实践性、技术性相对）学术的
+alliance  [əˈlaɪəns] n.联盟；  further [ˈfɜrðər] adv.进一步；况且  此外；更远；而且
+despite [dɪˈspaɪt].尽管；即使 lengthy [ˈleŋθi] adj.漫长的； 历史悠久
+lineage [ˈlɪniɪdʒ] n.世系；血统  formally adv.正式地； 正式的 
+form [fɔrm] v.形成；成立   highly [ˈhaɪli]adv.非常；很；高标准地
+highly competitive 高度竞争；富有竞争力；竞争多元化
+competitive [kəmˈpetətɪv] adj.竞争的有竞争力的 比赛的
+contest [kənˈtest] v.竞争n.竞争；竞赛   hotly [ˈhɑtli] adv.热烈地 激动地
+ 
+ Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society. Their status within   national scholarly circles is unparalleled .
+
+Admission to these  universities is  highly demanding: many  students apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
+
+institute [ˈɪnstɪˌtut] n.学院；学会 higher learning 高等教育 高等学府
+individually [ˌɪndɪˈvɪdʒuəli] adv.单独地；分别地；各别地
+collectively [kəˈlektɪvli] adv.集体；共同；统；蜂拥   exert  [ɪɡˈzɜrt]     v.使受(影响等) (on； upon)；尽(努力等)
+    网络发挥；外露的；尽力
+
+status [ˈstætəs] n.地位；身份            scholarly [ˈskɑlərli] adj.学术的；学术性的
+circle [ˈsɜrk(ə)l] n.圈；圆；圈子；社交圈  unparalleled [ʌnˈpɛrəˌlɛld] adj.无可匹敌的 
+
+
+    
+    
+ 
+ 
 
   Additionally,  the  roster of the faculties of these  schools  reads  like  a  Who's Who list of   important Americans(and  quite  a few foreigners, as well).  Their  intellectual  integrity  shows in the number  of Nobel and other  major prizes  awarded  which  they  have garnered over  the years. Some  of the country's  most famous  doctors, statesmen, engineers, scientists, and educationists  have studied and taught within  these  ivy-covered walls.  No fewer  than 14 U.S. presidents have  earned degrees here,including six at Harvard, six at Yale,and two  at Princeton.
 
