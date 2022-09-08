@@ -864,27 +864,41 @@ highly competitive 高度竞争；富有竞争力；竞争多元化
 competitive [kəmˈpetətɪv] adj.竞争的有竞争力的 比赛的
 contest [kənˈtest] v.竞争n.竞争；竞赛   hotly [ˈhɑtli] adv.热烈地 激动地
  
- Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society. Their status within   national scholarly circles is unparalleled .
+    Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society. Their status within   national scholarly circles is unparalleled .  Admission to these  universities is  highly demanding: many  students apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
 
-Admission to these  universities is  highly demanding: many  students apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
-
-institute [ˈɪnstɪˌtut] n.学院；学会 higher learning 高等教育 高等学府
+institute [ˈɪnstɪˌtut] n.学院；学会   higher learning 高等教育 高等学府
 individually [ˌɪndɪˈvɪdʒuəli] adv.单独地；分别地；各别地
-collectively [kəˈlektɪvli] adv.集体；共同；统；蜂拥   exert  [ɪɡˈzɜrt]     v.使受(影响等) (on； upon)；尽(努力等)
-    网络发挥；外露的；尽力
-
+collectively [kəˈlektɪvli] adv.集体；共同      exert  [ɪɡˈzɜrt]v.使受(影响等)
 status [ˈstætəs] n.地位；身份            scholarly [ˈskɑlərli] adj.学术的；学术性的
 circle [ˈsɜrk(ə)l] n.圈；圆；圈子；社交圈  unparalleled [ʌnˈpɛrəˌlɛld] adj.无可匹敌的 
-
-
-    
-    
- 
- 
+admission[ədˈmɪʃ(ə)n]n.允许进入;入学 地许可 demanding [dɪˈmændɪŋ]adj.要求高的
+apply for  v.寻求；申请  apply [əˈplaɪ]v.应用申请；适用；套用
+accept [əkˈsept]v.承认；接纳；同意； relatively [ˈrelətɪvli]adv.相当程度上；相当地
+offset [ˈɔfˌset]v.抵消；弥补；补偿  extremely [ɪkˈstrimli]adv.非常；极其
+tuition  [tuˈɪʃ(ə)n]n.指导；（尤指大专院校的）学费
+opportunity [ˌɑpərˈtunəti]n.机会；方便  scholarship [ˈskɑlərˌʃɪp]n.奖学金
+award [əˈwɔrd]n.奖品 v.授与   meritorious [ˌmerɪˈtɔriəs]adj.值得赞扬的 一等奖；有功
+regardless [rɪˈɡɑrdləs]adv.不顾；不管 
 
   Additionally,  the  roster of the faculties of these  schools  reads  like  a  Who's Who list of   important Americans(and  quite  a few foreigners, as well).  Their  intellectual  integrity  shows in the number  of Nobel and other  major prizes  awarded  which  they  have garnered over  the years. Some  of the country's  most famous  doctors, statesmen, engineers, scientists, and educationists  have studied and taught within  these  ivy-covered walls.  No fewer  than 14 U.S. presidents have  earned degrees here,including six at Harvard, six at Yale,and two  at Princeton.
 
+additionally [əˈdɪʃ(ə)nəli]adv.另外  roster [ˈrɑstər]n.花名册
+faculty [ˈfæk(ə)lti]n.全院[系]教授 院系学校  intellectual [ˌɪnt(ə)lˈektʃuəl]n.知识分子
+integrity [ɪnˈteɡrəti]n.完整；诚实正直；完好  garner [ˈɡɑrnər]收集
+
+  
   Though  only a   select few  can join the  ranks as Ivy Leaguers each year, Americans are endowed  with a  world-class  tertiary  educational  system  second  to none.  Note every  graduate from an Ivy League  school "makes the grade" in life;   even   a first-rate education is no guarantee  of success. Still, those  who do  enter  and leave  the Ivy  League  universities in the  northeastern  United States  have a much  better   than   average  chance  to join  the ranks fo the movers and shakers of   not only the U.S. society, but,once  back  in their   home countries, of their  native   lands as well. 
+
+rank [ræŋk]n.队伍   endow [ɪnˈdaʊ] 使ju有某种特质
+tertiary [ˈtɜrʃəri 高等 first-rate adj.第一流的
+guarantee [ˌɡerənˈti]v.保证；保障  
+grade [ɡreɪd]n.品级；水平   
+
+
+
+
+  
+
 
 
  
@@ -1642,6 +1656,13 @@ doubtful  [ˈdaʊtfəl]adj.怀疑；拿不定主意  decrease  [dɪˈkris]v.降�
 dawn  [dɔn]     n.黎明；曙光；拂晓；破晓 v.开始；变得明朗；开始清楚
   domination  [ˌdɑmɪˈneɪʃ(ə)n]  n.统治；优势；【生】显性化     网络支配；控制
 
+
+
+  
+**  Lesson  28
+
+现在分词 
+Offsetting
 
   
 ** Lesson 30 New Orleans: Birthplace of Jazz
