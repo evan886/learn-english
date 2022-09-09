@@ -855,6 +855,8 @@ imagination [ɪˌmædʒɪˈneɪʃ(ə)n] n.想象；association [əˌsoʊʃiˈeɪ
 participation [pɑrˌtɪsɪˈpeɪʃ(ə)n] n.参与；参加   athletic [æθˈletɪk] adj.体育运动的；田径运动的  结盟
 conference [ˈkɑnf(ə)rəns] n.研讨会；  rather than 而不 而不是
 
+    Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society. Their status within   national scholarly circles is unparalleled .  Admission to these  universities is  highly demanding: many  students apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
+ 
 academic [ˌækəˈdemɪk] adj.教学的；学术性的（与实践性、技术性相对）学术的
 alliance  [əˈlaɪəns] n.联盟；  further [ˈfɜrðər] adv.进一步；况且  此外；更远；而且
 despite [dɪˈspaɪt].尽管；即使 lengthy [ˈleŋθi] adj.漫长的； 历史悠久
@@ -863,8 +865,6 @@ form [fɔrm] v.形成；成立   highly [ˈhaɪli]adv.非常；很；高标准�
 highly competitive 高度竞争；富有竞争力；竞争多元化
 competitive [kəmˈpetətɪv] adj.竞争的有竞争力的 比赛的
 contest [kənˈtest] v.竞争n.竞争；竞赛   hotly [ˈhɑtli] adv.热烈地 激动地
- 
-    Since  these institutes of higher  learning   had such an early  start in the  history of the United States,  it  is  not surprising  that they  should individually and collectively have  exerted  a great influence on American society. Their status within   national scholarly circles is unparalleled .  Admission to these  universities is  highly demanding: many  students apply for every  one lucky enough to be accepted. As these  universities are  private, they are relatively expensive. Offsetting the extremely  high  tuition are many opportunities for scholarships. These  scholarships are awarded to meritorious students regardless of their  backgrounds.
 
 institute [ˈɪnstɪˌtut] n.学院；学会   higher learning 高等教育 高等学府
 individually [ˌɪndɪˈvɪdʒuəli] adv.单独地；分别地；各别地
@@ -1659,7 +1659,35 @@ dawn  [dɔn]     n.黎明；曙光；拂晓；破晓 v.开始；变得明朗；�
 
 
   
-**  Lesson  28
+**  Lesson  28 Tips  on English  Body  Language 
+
+
+  Mr.Garcia, a businessman from Madrid, Spain, is  speaking English  to one of  his customers, Mr. Patton, from Vancouver, Canada. As  they  speak, a  by-stander notices  that as Mr.Garcia slowly steps closer  to Mr. Patton, the  latter  slowly steps away. This slow  dance  continues  throughout the  conversation  until Mr.Patton is literally  against the wall. He now crosses his arms in front of  him. Mr.Patton appears nervous and a little annoyed; Mr.Garcia,aware of this,  thinks  he is not explaining  himself well enough   in English, even  though Mr. Patton fully  understands  him.  Thinking the business deal has gone sour, Mr, Garcia excuses himself and leaves.
+
+bystander [ˈbaɪˌstændər] n.旁观者  latter [ˈlætər] adj.（刚提及的两者中）后者的；末尾的
+throughout [θruˈaʊt] prep.遍及；各处；自始至终；
+literally [ˈlɪt(ə)rəli]     adv.字面上；按字面；确实地 逐字地；简直；照字面意义
+annoyed [əˈnɔɪd] adj.生气；烦恼；恼怒 v.“annoy”的过去式和过去分
+aware [əˈwer] adj.意识到；知道
+sour [saʊr] n.酸味；痛苦；讨厌的东西；〈美〉酸味饮料 v.恶化；酸腐；使变酸腐
+go sour  告吹 变酸；令人失望；变坏
+slurp [slɜrp] v.（喝东西时）发出啧啧的声音；啧啧地响
+
+ 6:10
+  What is going on  here? If Mr.Garcia or any other  non-native  English  speaking businessman, student, immigrant, or tourist had been aware of English body language, this unfortunate incident could  have been avoided. Among English speakers, personal space  is very  important; indeed, personal  space is important in all languages,  but the distance  considered citical to  trigger discomfort differs, Spanish speakers tolerate a much  closer speaking  distance , a  distance of some 30  centimeters, which is about  half  that which  English speakers prefer. Thus , a Spanish Speaker will instinctively move in  closer  to talk  with  an English  speaker, who  instinctively movers  away, closer  to his   perferred speaking distance.
+
+  Body  language is one kind  of nonverbal  communication,  such as  winking (to indicate "I'm  kidding" or a sexual advance),  or arms held akimbo(in some cultures, merely resting; in other,  a threatening or defiant stance). This  communication can ,  on occasion,  be even more important than  the actual words  spoken.
+
+  Take  winking  for example. In most cases, English   speakers will wink(the closing  of only one eye)  at  each  other  to show that they  are not serious about what they  are saying. They  may   also cross  their middle finger over their index finger to indicate  the same thing. These gestures are extremely important as they  virtually negate what the speaker says.
+
+   Another  example  is eye  contact , In many American Indian and East Asian cultures, respect is shown  by not looking  directly into the eyes  of a person considered of  a higher socail class than oneself. For  Western Europeans, the opposite is true. For them, anything less than  full eye  contact  is considered disrespectful or even devious. Problems  have arisen  when  Chinese  or Korean school  children enter American or European schools. Western  teachers assume  that these children are "uo to  something" or that  they are  showing disrespect, when, in actuality , they are behaving correctly for their own culture. One  chinese child was  denied entry  into a gifted students'  school  because  he was considered "lacking leadership qualities" despite his overall excellence in his academic and interpersonal  relations. When  it was pointed out  that Chinese  children are taught  not  to be  aggressive(show leadership qualities), the  school reconsidered and  admitted the lad.
+
+   Sometimes  gestures used in different  languages have  contrary meanings . This  can produce a  humorous  effect. In  Vietnam and China.  the gesture for "come here " is quite similar to that of waving "good bye"  in English . Thus , when  speakers of these these   two cultures  are leaving each other, if the English speaker gestures "good-bye" the Far Eastern speaker amy misinterpret the signal as meaning,"com back here."
+
+   Learning   body gestures in rather diffcult from textbooks. The best way to learn gestures -- for any language or culture -- is to stay a while in a foreign country to lean not  only  what people say but how they say it . For most people , the learning  of body  language is an exciting and charming aspect of learning a foreign language.  
+
+
+
 
 现在分词 
 Offsetting
