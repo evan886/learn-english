@@ -1668,16 +1668,31 @@ bystander [ˈbaɪˌstændər] n.旁观者  latter [ˈlætər] adj.（刚提及�
 throughout [θruˈaʊt] prep.遍及；各处；自始至终；
 literally [ˈlɪt(ə)rəli]     adv.字面上；按字面；确实地 逐字地；简直；照字面意义
 annoyed [əˈnɔɪd] adj.生气；烦恼；恼怒 v.“annoy”的过去式和过去分
-aware [əˈwer] adj.意识到；知道
-sour [saʊr] n.酸味；痛苦；讨厌的东西；〈美〉酸味饮料 v.恶化；酸腐；使变酸腐
-go sour  告吹 变酸；令人失望；变坏
-slurp [slɜrp] v.（喝东西时）发出啧啧的声音；啧啧地响
+aware [əˈwer] adj.意识到；知道  sour [saʊr] n.酸味；酸味饮料 v.恶化；酸腐；
+go sour  告吹 变酸；令人失望；变坏   slurp [slɜrp] v.（喝东西时）发出啧啧的声音；
 
  6:10
   What is going on  here? If Mr.Garcia or any other  non-native  English  speaking businessman, student, immigrant, or tourist had been aware of English body language, this unfortunate incident could  have been avoided. Among English speakers, personal space  is very  important; indeed, personal  space is important in all languages,  but the distance  considered citical to  trigger discomfort differs, Spanish speakers tolerate a much  closer speaking  distance , a  distance of some 30  centimeters, which is about  half  that which  English speakers prefer. Thus , a Spanish Speaker will instinctively move in  closer  to talk  with  an English  speaker, who  instinctively movers  away, closer  to his   perferred speaking distance.
 
+immigrant [ˈɪmɪɡrənt] n.（外来）移民；外侨 unfortunate [ʌnˈfɔrtʃənət] adj.不幸的；倒霉的
+incident [ˈɪnsɪdənt] adj.事变；事故；小事件   avoid [əˈvɔɪd] v.避免；防止
+critical [ˈkrɪtɪk(ə)l] adj.批评的；极重要的 trigger [ˈtrɪɡər] n.触发器 v.触发；引起
+tolerate [ˈtɑləˌreɪt] v.容忍；忍受   instinctively [ɪn'stɪŋktɪvlɪ adv.本能地 下意识地；本能的；凭直觉地
+
   Body  language is one kind  of nonverbal  communication,  such as  winking (to indicate "I'm  kidding" or a sexual advance),  or arms held akimbo(in some cultures, merely resting; in other,  a threatening or defiant stance). This  communication can ,  on occasion,  be even more important than  the actual words  spoken.
 
+nonverbal [nɑnˈvɜrb(ə)l] adj.非言语的        winking ['wɪŋkɪŋ] n.眨眼
+indicate [ˈɪndɪˌkeɪt] v.指示；表明；显示；  sexual [ˈsekʃuəl] dj.性行为的；性的
+advance [ədˈvæns] n.进展；进步；提高；暗示  arms [ɑrmz] 英: [ɑː(r)mz] v.“arm”的第三人称单数 手臂；
+akimbo [əˈkɪmboʊ] adv.两手叉腰   held [held] v.hold(拥有；握住)的过去式和过去分词
+merely [ˈmɪrli] adv.仅仅；只不过  resting ['restɪŋ] adj. 放松 【植】休眠的；静止的；沉默的；【生】静止的
+threatening [ˈθret(ə)nɪŋ] adj.威胁的；恐吓的；  defiant [dɪˈfaɪənt] adj.公然违抗的；反抗的；挑衅的
+stance [stæns] n.立场 站姿； occasion [əˈkeɪʒ(ə)n] n.时机；理由；原因；
+actual [ˈæktʃuəl] adj.真实的；实际的 
+
+
+
+  
   Take  winking  for example. In most cases, English   speakers will wink(the closing  of only one eye)  at  each  other  to show that they  are not serious about what they  are saying. They  may   also cross  their middle finger over their index finger to indicate  the same thing. These gestures are extremely important as they  virtually negate what the speaker says.
 
    Another  example  is eye  contact , In many American Indian and East Asian cultures, respect is shown  by not looking  directly into the eyes  of a person considered of  a higher socail class than oneself. For  Western Europeans, the opposite is true. For them, anything less than  full eye  contact  is considered disrespectful or even devious. Problems  have arisen  when  Chinese  or Korean school  children enter American or European schools. Western  teachers assume  that these children are "uo to  something" or that  they are  showing disrespect, when, in actuality , they are behaving correctly for their own culture. One  chinese child was  denied entry  into a gifted students'  school  because  he was considered "lacking leadership qualities" despite his overall excellence in his academic and interpersonal  relations. When  it was pointed out  that Chinese  children are taught  not  to be  aggressive(show leadership qualities), the  school reconsidered and  admitted the lad.
