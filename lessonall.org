@@ -1718,7 +1718,7 @@ invitation [ˌɪnvɪˈteɪʃ(ə)n] n.邀请；请柬；
    Learning   body gestures in rather diffcult from textbooks. The best way to learn gestures -- for any language or culture -- is to stay a while in a foreign country to lean not  only  what people say but how they say it . For most people , the learning  of body  language is an exciting and charming aspect of learning a foreign language.  
 
 charming [ˈtʃɑrmɪŋ]  a.迷人的；楚楚动人的；英俊的；潇洒的可爱的；有魅力的；妩媚
-aspect [ˈæspekt] n.方面； 部分 层面；外观；方位
+aspect [ˈæspekt] n   .方面； 部分 层面；外观；方位
     
 现在分词 
 Offsetting
@@ -1728,8 +1728,16 @@ Offsetting
 
   What is the most terrifying experience for most people ? Is it drowning ? Is it  falling from a  high place  to their  death? Is it being  attacked by wild dogs? Though  these  experiences would  certainly frighten most people, according to  recent poll, most people  fear standing  on a stage in front of a group  of people to  deliver a speech  more than  anything  else,  including  the above  life-threatening  scenarios! What  is going  on here? Why  is public  speaking so menacing to most people ?
 
+fundamentals [ˌfʌndəˈment(ə)lz] n.基本功 基本原则 speech [spitʃ] n.讲话；演说；
+terrifying ['terə.faɪɪŋ] adj.可怕的；令人害怕的    frighten [ˈfraɪt(ə)n] v.使惊吓；使惊恐
+poll [poʊl] n.民意测验；民意调查  fear [fɪr] v.害怕；担心
+deliver a speech 发表演讲   deliver [dɪˈlɪvər] v.交付；发表；兑现；传送
+life-threatening adj.可能致命的；威胁着生命的   threatening [ˈθret(ə)nɪŋ] adj.威胁的；恐吓的
+scenario [səˈnɛrioʊ] (可能发生的)情况；【戏,影视】脚本 menacing [ˈmenəsɪŋ] adj.威胁的；恐吓的；危险的
+v.“menace”的现在分词 令人害怕
 
-  Coaches of  
+4:27  
+  Coaches of  public  speaking are fond  of  noting  that   public  speaking "is an unnatural act."   This   is a  tongue-in-cheek  definition.  Though people  useally  think  of kinky sex as an "unnatural act" public speaking is is one important way  unnatural  .Human communication  is inseparable from  the human condition; that is , we actually spend more time in communicating  with  other(including  listening to  prerecorded spoken information)  than   we do anything else  except breadthing . There   is , in other words, nothing unnatural in communicating. 
 
 
 ** Lesson 30 New Orleans: Birthplace of Jazz
@@ -1788,7 +1796,59 @@ blend [blend] v.混合；融合；加入；相称  acclaim [əˈkleɪmd] n.欢�
 
 
 
+** Lesson 31  The Fine Art of Giving
 
+fine art n.【艺】艺术(尤指绘画及雕塑) 美术；艺术；纯美术
+
+  Ralph is  all excited. When  his poor wife Lisa comes home  after a hard day's work in  the office, he enters the living room  beaming. "Happy birthday,darling!"  he exclaims while thrusting  the neatly packed  gift  at her. Momentarily delighted as she  quickly  unwraps the  package, Lisa murmurs,"Oh Ralph, I thought  you'd  forget my birthday again  this year. Gee, thanks, sweet..."  Her  voice trails  off as  she  lifts the cover of  the box  to disclose   its contents: steak knives. Ralph, still beaming, then pulls  the trigger of the rifle aimed at his own foot:" I bought  some steaks , so you can  use your new birthday  gift to get us dinner  ready!"
+
+beam [bim] v.笑容满面； 微笑  exclaim [ɪkˈskleɪm] v.大声疾呼；喝彩；咕噜着说；抗声道
+neatly: [ˈnitlɪ] adv. 飘飘亮亮 整洁地；巧妙地；整整齐齐
+thrust [θrʌst] v.刺入 (快递上) 攻击  momentarily [ˌmoʊmənˈterəli]  adv.短促地；片刻地；立即；马上
+delighted [dɪˈlaɪtəd] adj.高兴的；愉快的；快乐的 v.“delight”的过去式和过去分词
+unwrap [ʌnˈræp]v.打开；散开 解开   murmur [ˈmɜrmər] n.嘟哝
+voice [vɔɪs] n.声音；     trail [treɪl] n.痕迹；长长地拖垂后头的东西；(流星等的)尾；衣裙 v.拖着走；拖带着；提(枪)；跟踪追赶
+trails off  下来 
+lift [lɪft] n.〈英〉电梯；升降机；提升；举起 v.提升；举起；
+disclose [dɪsˈkloʊz]     v.透露；泄露；揭露；使显露  content [kənˈtent] n.内容；含量
+knives [naɪvz]n. 刀子；刀片；刀具（knife 的复数）    v. 用小刀切；刀切似的穿过（knife 的第三人称单数）
+trigger [ˈtrɪɡər]     n.触发器；（枪的）扳机；（尤指引发不良反应或发展的）起因；引爆器     v.触发；引起；发动；开动     网络板机；触发程序；启动
+rifle [ˈraɪf(ə)l] n.步枪；来复枪
+the rifle aimed at his own foot  自讨没趣  
+
+   Most women, of course, would  use the  new knives on Ralph , not the steaks. What  did  poor  Ralph do  wrong? He certainly  meant well .He noted his wife's birthday carefully, sacrificed time and money  to buy a gift on  time  and even  had  the box  gift-wrapped.  Where did he go wrong? Long  before  Ralph  bought  the knives, he should  have paid more attention  to those   things   Lisa expressed or showed  an interest in.  While walking  or shopping, many people  notice  things  that  obviously interest them; this is  the time to  make a mental note of what  those  items are for future   purchase. While  taking, too, many  people  reveal "wish list"  items they  dream of having. Noting  these  items  and turning them  into gifts at a  later time, whether  for Christmas, birthday, anniversary, graduation, or any other  important  occasion, distinguished  just  another  item  on a shelf  in a department  store or  in a  catalogue   from "the perfect gift"
+
+certainly [ˈsɜrt(ə)nli] adv.当然；肯定      sacrifice [ˈsækrɪˌfaɪs] n.牺牲；献祭；〈比喻〉损失；舍身
+gift-wrapped [ˈɡɪftˌræpt] v.“gift-wrap”的过去分词和过去式 精美的包装
+express [ɪkˈspres] v.表达；用快邮寄出  mental [ˈment(ə)l]  心里
+purchase [ˈpɜrtʃəs] n.购买；采购   reveal [rɪˈvil] v.透露；揭示；显示
+anniversary [ˌænɪˈvɜrs(ə)ri] n.周年纪念日   occasion [əˈkeɪʒ(ə)n] n.时机；理由；场合；机会
+distinguished [dɪˈstɪŋɡwɪʃt] v.区别；分辨；突出
+shelf [ʃelf]架子；书架；货架    catalogue  [ˈkæt(ə)lˌɔɡ] n.目录 商品目录
+
+
+  Gifts do not have to be objects.  Doing  house  chores for parents or spouses which  normally are "theirs,"  talking  someone out on the  town or wheeling an  invalid around the block,  or taking   the time and effort to create  one's  own  personalized  handicraft can bring smiles as wide as those  aroused by   the giving  of expensive presents.     Many  a  child would prefer  to have  an afternoon   at the cinema and an  evening   in their  favorite restaurant with  Dad  than another of  his expensive  gifts, some with  the price tag  still on  them!  Many  parents would  rather  happily  settle for a full day  with their  children at home or on a  picnicthan with  a  mailed check or "Happy Birthday"  greeting  on their  answering  machine.  Perhaps  the  expression "TIme is money"  really is  true: time  spent with    those  whom we do not often  see is  indeed  precious.  Sacrificing time from one's  busy  schedule  to give to another  is often   more  meaningful than  a pricy gift  from an upscale department store.
+
+
+
+object [ɑbˈdʒekt] n.物体；目的；【哲】对象；   chore [tʃɔr] n.杂事；家务活；
+spouse [spaʊs] n.配偶；夫妇    normally [ˈnɔrm(ə)li] adv.通常；正常地；
+wheeling n.旋转；车运；骑脚踏车；道路的好坏v.“wheel”的现在分
+invalid [ˈɪnvəlɪd] adj.（法律上或官方）不承认的；无效的；无充分事实的；站不住脚的 n.病弱者；久
+personalized [ˈpɜrsən(ə)lˌaɪzd]   把个人姓名标记在 上面
+handicraft [ˈhændiˌkræft] n.手工艺；手工艺品  
+
+
+
+
+   Of  course , there  is nothing  wrong with buying gifts. Everyone has needs , including  material needs. Close  friends  or family members often know what  their  loved ones need even before  they do! Few  compliments can make us  happier than "You always know what to give me" For  those who never seem to know  what  to prepare for  others  but who would  like to  learn, observing the successful  giving   of gifts  to others is as good a  place to start as any.  In any class, family, or crowd , someone always  seems to know  the right   gift  to give at the  right time. Making  mental  notes of these  occasions and then  writing  them  down  in a special notebook  can make the difference  between a future   present well-received and one politely accepted.
+
+
+   Still, only  a social incompetent would criticize  or refuse a  gift from another. Being gracious even in disappointment is a sign of good manners. Besides, a gift is an  expression of thoughtfulness  and a token  of love. We should never question  the judgment of the donor; instead, as we say in English , "It's the thought that counts." Learning  to appreciate  whatever little  surprises life prepares for us is a  sure sign of maturity and poise. When  the giving of symbols  of our  appreciation and love  the others  becomes an art  form to the giver, these profound words can be understood:"It is more blessed to give than to  receive."
+
+
+   
+   
 ** Lesson 33  Did You Remember Your Tickets?
 counter [ˈkaʊntər] n.计算器；（商店、银行等的）柜台；  
 
