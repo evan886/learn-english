@@ -1784,19 +1784,29 @@ sweeping [ˈswipɪŋ] n. 扫瞄 扫荡；扫海；；（过分）笼统的    v.
 section [ˈsekʃ(ə)n] n.部分；段；部门；区域
 regularly [ˈreɡjələrli] adv.经常地；有规律地；定期的；均匀地   
 
-  
   The most important  of these   suggestions , however,  is simply   to be sincere. The 16th president of the United States, Abraham Licoln, said,"You can  fool  some of the people all of the time. You can fool all of the people some of the time. But  you can't  fool all of the  people  all of the time."      These  profound words are applicable to speakers in public. Since  the  audience  is observing and listening to the speaker closely, it is virtually  impossible for  a speaker to fake sounding confident if the is  not , not is it possible for the speaker to  convince and audience  of  his conviction if the himself is not convinced.
 
+sincere [sɪnˈsɪr] adj.真诚的；诚挚的    audience [ˈɔdiəns] n.观众；读者；
+opportunity [ˌɑpərˈtunəti]n.机会；时机
 sincere [sɪnˈsɪr] adj.真诚的；诚挚的     profound [prəˈfaʊnd] 深刻的；深奥的；意义深远的
-analects [ˌænə'lekts] n.文选 论语   
+analects [ˌænə'lekts] n.文选 论语     applicable [əˈplɪkəb(ə)l] adj.适用；合适 可应用的；
+since [sɪns] conj.因为；由于     sounding   [ˈsaʊndɪŋ] n.水深测量；意见调查；征询意见adj.作声的；言过其实的；空洞的；堂堂的v.“sound”的现在分词
+observing [əb'zɜrvɪŋ] adj.注意周到的；观察力敏锐的   virtually [ˈvɜrtʃuəli] adv.几乎；实际上
+fake [feɪk] n.赝品；假货；v.伪造；假装；冒充adj.假的；冒充的；伪造的
+confident [ˈkɑnfɪdənt] adj.自信的；有自信心的；肯定的   convince [kənˈvɪns] v.说服；使确信
+conviction  坚信 
 
   
   Following   the simple  tips   listed  above  will  improve a speaker's  performance  in public. Like  any other  skill or art, the more one practices, the better  he is likely to become.  Public   speaking  is not only   for speech contests;  all professional  must present themselves in public  sooner or late. Rather   than   shirking the opportunity    to speak, seize  it and make the most of it the next  time  fortune knocks. 
 
-sincere [sɪnˈsɪr] adj.真诚的；诚挚的  
+performance [pəˈfɔrməns] n.性能；表现 表演     contest [kənˈtest] n.竞赛；竞争
+all  professional   各行业
+present [ˈprezənt] n. 面对  目前；现在；礼物；礼品 adj.存在；出席；在场；出现 v.出现；提出；显示；提交
+shirk: [ʃɜrk] v.逃避；躲避；规     seize [siz] v.抓住；捉拿
+opportunity [ˌɑpərˈtunəti]n.机会；时机   fortune: [ˈfɔrtʃ(ə)n] n.命运；运气；大笔的钱；巨款
+knock [nɑk] n.敲；挫折；(狠狠)一击；敲门 v.敲；打；敲
+sincere [sɪnˈsɪr] adj.真诚的；诚挚的    audience [ˈɔdiəns] n.观众；读者；  
 
-audience [ˈɔdiəns] n.观众；读者；
-opportunity [ˌɑpərˈtunəti]n.机会；时机
   
 
 ** Lesson 30 New Orleans: Birthplace of Jazz
@@ -1938,13 +1948,16 @@ receive [rɪˈsiv] v.接收；收到
   "He's busy, Call back later.(click)"
   Unfortunately, some companies still have  not trained their  employees in the professional  use of  the telephone. The above telephone  conversation  is not only discourteous, but also   hurts  business prospects. If Mr. Parker is calling to speak with a  number of companies in order  to build  business relationships  with them, he  is not very likely to call Dragon  Mountain  Trading Company again. To  prevent this  from happening , those   who are responsible  for the conduct of business over the telphone   should keep a few    simple but important points of telephone etiquette in mind. 
 
-
+employee [ˌɪmplɔɪˈi] n.雇员    trading [ˈtreɪdɪŋ] n.交易；贸易 
+  
   The first and most important  point  concerning   the professional use of  the telephone is the attitude  towards  any caller. The telephone  is the lifeline of the company with the outside world, and those who call in  should be considered potential business prospects. However customers are  not nameless, faceless voices; they  are people  who enjoy  being  and deserve to be treated courteously and fairly. Everyone who  uses  an office telephone  should  remember  that a  friendly, helpful, and efficient call can  make the difference  between success  and failure  with  the caller. Once  this is appreciated, a  business office can operate at its  full  potential.
   
 
    How can all office workers put the above principle  into practice? Several tips on the successful use of the office telephone  have  been collected from  many companies over  the years. This  advice is timeless and  covers all manner  of businesses. Companies  whose   employees use the following   telephone   etiquette are more likely to keep  their  clients  and   arttract new customers.
 
-   When  answering the  phone , 
+   When  answering the  phone ,  all employees   should  identify  the company  and themselves. In  the above  hypothetical   conversation, the office   worker  should  have answered  the call with , "Dragon Trading  Company, Janice Wang, speaking." rather  than force Mr.Parker to inquire whether   or not he had dialed   the company telephone number correctly.  In some companies, employees  will further identify their position within   the company, such   as "Kodak, MIchael Chou, sales representative, personnel director, speaking. May I  help you?"  and so on.  Of course , in larger  companies which have automated dialing or  an operator, it is  often   unnecessary   to state the name of   the company(that has been done already on the tape or by the operator), bu self-identification  continues to be helpful, and ,thus , important.
+
+   As 
    
    
 ** Lesson 33  Did You Remember Your Tickets?
