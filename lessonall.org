@@ -1971,7 +1971,6 @@ time test  un.时间考验的 耐入性试验；耐久性试验
 
    When  answering the  phone ,  all employees   should  identify  the company  and themselves. In  the above  hypothetical   conversation, the office   worker  should  have answered  the call with , "Dragon Trading  Company, Janice Wang, speaking." rather  than force Mr.Parker to inquire whether   or not he had dialed   the company telephone number correctly.  In some companies, employees  will further identify their position within   the company, such   as "Kodak, MIchael Chou, sales representative,speaking" or " Great Light Sport  Equipment,Frances Chang ,   personnel director, speaking. May I  help you?"  and so on.  Of course , in larger  companies which have automated dialing or  an operator, it is  often   unnecessary   to state the name of   the company(that has been done already on the tape or by the operator), bu self-identification  continues to be helpful, and ,thus , important.
 
-
 employee [ˌɪmplɔɪˈi] n.雇员     identify [aɪˈdentɪˌfaɪ] v.鉴定；确认 识别；
 hypothetical [ˌhaɪpəˈθetɪk(ə)l] adj.假设的；假定的  inquire [ɪnˈkwaɪr] v.询问；打听；调查
 dial [ˈdaɪəl] v.拨；调；拨(电话号码    correctly [kəˈrɛktlɪ] adv.正确地；实事求是
@@ -1982,16 +1981,30 @@ automate [ˈɔtəˌmeɪt] v.使自动化    operator [ˈɑpəˌreɪtər] n.算�
 identification [aɪˌdentɪfɪˈkeɪʃ(ə)n]n.鉴定；确定；辨认
 self-identification 自我介绍
 
-   As with  Frances Chang above,  a  simple "May I help you?" is enough  to invite the caller  to  state his or her business with  the company.  However,  It is   always important  to listen carefully to the caller's  request.  It is possible , for example , that the  callee is not the right  person for whom the caller is looking; by  listening carefully , the callee can respond to the needs  of the customer on the  line. Treating callers as routine or even  annoying interrruptions to one's  work  is a mistake. If someone outside  the company has  taken  the time to call in, someone inside the company should take the time to respond to it.
+
+  As with  Frances Chang above,  a  simple "May I help you?" is enough  to invite the caller  to  state his or her business with  the company.  However,  It is   always important  to listen carefully to the caller's  request.  It is possible , for example , that the  callee is not the right  person for whom the caller is looking; by  listening carefully , the callee can respond to the needs  of the customer on the  line. Treating callers as routine or even  annoying interruptions to one's  work  is a mistake. If someone outside  the company has  taken  the time to call in, someone inside the company should take the time to respond to it.
+
+callee[kɔld] 受访问者；电话接话人   routine [ˌruˈtin] n.常规；例程；adj.常规的；例行公事的；日常的；平常的
+annoying [əˈnɔɪɪŋ] adj.使恼怒的；使生气的；使烦恼的
+interruption [ˌɪntəˈrʌpʃən]     n.中断；打断；打岔；停止    网络干扰；中断数；插话
+  
+
+   If the caller is looking for someone  not presently in the office, a message should be taken and then repeated over   the phone  to make sure all the information is correct. If a  product or service is unavailable, the caller should  be told what possible substitute  is available or when the desired item  will be back in stock.  Every  effort  should  be made to please  the caller. This   extra effort makers a lasting impression, the  kind of impression  that often  results in repeat business. In   our  conversation above, the callee  should have told  Mr. Parker  when     the manager would  return  to  take his call, or offered to take a   message for him. Hanging  up on the caller is the best  way to lose  business.
+
+presently [ˈprezəntli] adv.现在；此刻     substitute [ˈsʌbstɪˌtut] v.取代；（以…）代替
+desired [dɪˈzaɪrd]    指定  v.“desire”的过去分词和过去式    网络渴望的；期望的；想得到的
+in stock.有货   stock [stɒk] n.股票；库存；储备；  
+
+extra [ˈekstrə] adv.额外；特别；另外；格外   effort [ˈefərt] n.努力；尽力；成就
+lasting [ˈlæstɪŋ] n.耐久；斜纹织物 adj.继续存在的；持久的；耐久的
+impression [ɪmˈpreʃ(ə)n] n.印象；影响；效果 repeat [rɪˈpit] v.重复；复述；重做；重说
+offer[ˈɑfər] v.提供；提出；表示愿意；提议  hang [hæŋ]     v.悬挂；吊；垂下；垂落；吊死；挂起
 
 
-   
+  After  
 
 
 
-   
-   If the caller is looking for someone  not presently in the office, a message should be taken and then repeated over   the phone  ot make sure all the information is correct. If a  product or service is unavailable, the caller should  be told what possible substitute  is available or when the desired item  will be back in stock. 
-   
    
 ** Lesson 33  Did You Remember Your Tickets?
 counter [ˈkaʊntər] n.计算器；（商店、银行等的）柜台；  
