@@ -1990,7 +1990,7 @@ interruption [ˌɪntəˈrʌpʃən]     n.中断；打断；打岔；停止    �
   
 
    If the caller is looking for someone  not presently in the office, a message should be taken and then repeated over   the phone  to make sure all the information is correct. If a  product or service is unavailable, the caller should  be told what possible substitute  is available or when the desired item  will be back in stock.  Every  effort  should  be made to please  the caller. This   extra effort makers a lasting impression, the  kind of impression  that often  results in repeat business. In   our  conversation above, the callee  should have told  Mr. Parker  when     the manager would  return  to  take his call, or offered to take a   message for him. Hanging  up on the caller is the best  way to lose  business.
-
+   
 presently [ˈprezəntli] adv.现在；此刻     substitute [ˈsʌbstɪˌtut] v.取代；（以…）代替
 desired [dɪˈzaɪrd]    指定  v.“desire”的过去分词和过去式    网络渴望的；期望的；想得到的
 in stock.有货   stock [stɒk] n.股票；库存；储备；  
@@ -2000,13 +2000,27 @@ lasting [ˈlæstɪŋ] n.耐久；斜纹织物 adj.继续存在的；持久的；
 impression [ɪmˈpreʃ(ə)n] n.印象；影响；效果 repeat [rɪˈpit] v.重复；复述；重做；重说
 offer[ˈɑfər] v.提供；提出；表示愿意；提议  hang [hæŋ]     v.悬挂；吊；垂下；垂落；吊死；挂起
 
+18:25
+     After  information has been given or help offered, the call  should not be considered finished. Each call is an opportunity    to further  the interests  of the company, as wiht "We have other fine  products. I'd be hapy to send you  our cataloogue."  or "Our  company can offer additional  services. My manager or I would  be happy   to make an appointment with you to discuss them."
+Above all, end each  conversation  with a genuine "Thank  you for  calling. It's  been a pleasure serving you." or other lines to make  the customer feel he or she is not being discarded as just   another business obligation. Successful calls make customers   feel welcome to call again.
 
-  After  information has been given or help offered, the call  should not be considered finished. Each call is an opportunity    to further  the interests  of the company, as wiht "We have other fine  products. I'd be hapy to send you  our cataloogue."  or "Our  company can offer additional  services. My manager or I would  be happy   to make an appointment with you to discuss them."
-Above all, end each  conversation  with a genuine "Thank  you for  calling. It's  been a pleasuer serviing you." or other lines to make  the customer feel he or she is not being discarded as just   another business obligation. Successful calls make customers   feel welcome to call again.
+opportunity [ˌɑpərˈtunəti] n.机会    interest [ˈɪntrəst] n.利益；兴趣；爱好；
+catalogue [ˈkæt(ə)lˌɔɡ] n.目录册 产品样本 商品目录；产品目录
+further [ˈfɜrðər] adv.进一步；此外 future [ˈfjutʃər] n.未来；将来
+additional [əˈdɪʃ(ə)nəl] adj.其它 附加的；额外的；  appointment [əˈpɔɪntmənt] n.约会；预约
+discuss [dɪˈskʌs] v.讨论；谈论    genuine [ˈdʒenjuɪn] adj.真的；名副其实的；真诚的；诚实的
+discard [dɪsˈkɑrd] v.放弃； 丢弃 解雇    obligation [ˌɑblɪˈɡeɪʃ(ə)n] n.义务；责任；职责
+ 20:00
+  Today's world of business is highly competitive. People have not cahanged, however. They still  like to be treated in a friendly and helpful way, even  over the telephone. A genuinely  friendly and helpful attitude on the phone, identification  of company and callee, offers of help or message taking,  promotion  of further  business opportunities, and leaving  the caller with the feeling that he would like to call again seem like  insignificant  matters. Added up , however , the can  make the difference between  a company's  success   and failure in our  high-tech but still  human world. 
 
+competitive [kəmˈpetətɪv] adj.竞争的    treat [trit] v.治疗；处理；对待；招待  teaated 被对待
+genuinely [ˈdʒenjuɪnli] adv.由衷地；真诚地；   attitude [ˈætɪˌtud] n.态度；看法
+identification [aɪˌdentɪfɪˈkeɪʃ(ə)n] n. 介绍 鉴定；辨认；确认   further [ˈfɜrðər] adv.进一步；此外
 
-  Today's world of business is highly competitive. People have not cahanged, however. They still  like to be treated in a friendly and helpful way, even  over the telephone. A genuinely  friendly and helpful attitude on the phone, identificaton  of company and callee, offers of help or message taking,  promotion  of further  business opportunities, and leaving  the caller with the feeling that he would like to call again seem like  insignificant  matters. Added up , however , the can  make the difference between  a company's  success   and failure in our  high-tech but still  human world. 
-
+promotion [prəˈmoʊʃ(ə)n] n.促进；提升；推广；晋升 促销； opportunity [ˌɑpərˈtunəti] n.机会；方便'
+insignificant [ˌɪnsɪɡˈnɪfɪkənt] adj.微不足道的；无足轻重的 无意义的；无价值的；无
+add up [ædʌp] na.合计；符合预期的数目 加起来   
+  
 
    
 ** Lesson 33  Did You Remember Your Tickets?
