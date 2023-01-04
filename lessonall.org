@@ -495,27 +495,31 @@ adj.角制的
 
 manner    美: [ˈmænər]     n.礼貌；举止；习惯；方法
 anglo-america     网络 英美；盎格鲁美洲；美利坚
-spoon    美: [spun] n.勺；匙；调羹 v.用勺舀
-silverware      美: [ˈsɪlvərˌwer]  n.银器；餐具（刀、叉和匙）；（体育比赛中的）银杯
+saucers  [ˈsɔsərz] n.茶碟;茶托;碟状物
+spoon  [spun] n.勺；匙；调羹 v.用勺舀
+silverware      [ˈsɪlvərˌwer]  n.银器；餐具（刀、叉和匙）；（体育比赛中的）银杯
+tableware [ˈteɪblwer] n.(商店用语)餐具
 
   Have you ever been in or had a nightmare about  this  situation? Don't worry! This article will help  steer you through the rocks and reefs of Anglo-American table manners so  that if you are ever abroad in Canada or the United States, or  at someone's home from  one of  those countries,you will  feel right at home.
 
-steer    美: [stɪr]     v.引导；控制；操纵；驾驶（船、汽车等）      n.建议；劝告；忠告；阉公牛     网络掌舵；掌握方向
-ever     美: [ˈevər]     adv.曾经；从来；总是；到底  网络永远；究竟；在任何时候    
+steer [stɪr] v.引导；控制；操纵；驾驶（船、汽车等）      n.建议；劝告；忠告；阉公牛     网络掌舵；掌握方向
+ever  [ˈevər] adv.曾经；从来；总是；到底  网络永远；究竟；在任何时候    
 
   It is  important to distinguish   what kind of  occasion you will be attending before you plan for a pleasant  evening. Most  Anglo-Americas enjoy  entertaining  at home, but they don't  enjoy stuffy, formal dinners. They invite their friendss over  for a fun evening , not as a  test of one's knowledge of cultural  traditions. If, however, you are  invited to a formal affair, such as a so-calld "sit-down" dinner,you may  want to know  in advance some basic rules of "black tie" etiquette.
 
-occasion     美: [əˈkeɪʒ(ə)n] n.时机；理由；原因；某次 v.使发生；造成；导致  场合
-entertain     美: [ˌentərˈteɪn]      v.娱乐；款待；使有兴趣；使快乐 网络招待；使娱乐；怀抱
-attend      美: [əˈtend] v.参加；出席；注意
-invite    美: [ˈɪnˌvaɪt]  v.邀请；要求；招致（尤指坏事） n.邀请；请柬
-affair     美: [əˈfer] n.事件；事情；风流韵事；公共事务    网络绯闻；私通；恋爱事件
+distinguish  [dɪˈstɪŋɡwɪʃ] v.区分;辨别;分清;成为  
+occasion    [əˈkeɪʒ(ə)n] n.时机；理由；原因；某次 v.使发生；造成；导致  场合
+entertain   [ˌentərˈteɪn]      v.娱乐；款待；使有兴趣；使快乐 网络招待；使娱乐；怀抱
+attend      [əˈtend] v.参加；出席；注意
+invite     [ˈɪnˌvaɪt]  v.邀请；要求；招致（尤指坏事） n.邀请；请柬
+affair      [əˈfer] n.事件；事情；风流韵事；公共事务    网络绯闻；私通；恋爱事件
+etiquette  [ˈetɪkət] n.礼仪;(社会或行业中的)礼节;规矩
 
   The first thing  to remember when  attending a dinner at a Western home is  that you  are the guest and that you are a foreigner. No one will invite you if he does  not really want you  enter his "castle," so you can be sure that you are wanted. Additionally, as you do not come from the same country or culture as you host , he or she or they will surely  be aware  of this, and will  be very forgiving if you unintentionally do or  say  something  which  would  otherwise offend them. Keeping these  two simple tips  in mind  should greatly ease your concern about  being present at a dinner in someone  else's  home.
 
-  wanted     美: [ˈwɑntəd]  adj.受通缉的  v.“want”的过去式和过去分词
-  additionally     美: [əˈdɪʃ(ə)nəli] adv.另外 
-  unintentionally  美 [ˌʌnɪnˈtenʃənəli]    adv. 无意地；非故意地；非存心地
+wanted     美: [ˈwɑntəd]  adj.受通缉的  v.“want”的过去式和过去分词
+additionally     美: [əˈdɪʃ(ə)nəli] adv.另外 
+unintentionally  美 [ˌʌnɪnˈtenʃənəli]    adv. 无意地；非故意地；非存心地
 aware     美: [əˈwer] adj.意识到；知道；明白；发现
 forgiving     美: [fərˈɡɪvɪŋ]  adj.宽宏大量的；宽容的 v.“forgive”的现在分词
 otherwise     美: [ˈʌðərˌwaɪz] adv.否则；不然；另；除此以外conj.否则
@@ -528,24 +532,36 @@ Finally, wear  comfortable clothing. One  can overdress as well as appear sloppy
 
 gathering      美: [ˈɡæð(ə)rɪŋ] n.收集；采集；聚会；聚集 v.“gather”的现在分词  
 hostess      美: [ˈhoʊstəs]  n.女主人；女房东；（夜总会的）女招待；（电视或广播节目的）女主持人
+cheerful  [ˈtʃɪrfl]adj.令人愉快的;快乐的;兴高采烈的;高兴的
+
 beverage     美: [ˈbev(ə)rɪdʒ]      n.饮料；餐费；〈英方〉筵宴     网络饮品；饮料类；饮料篇
-appear     美: [əˈpɪr]  v.出现；显现；呈现；出版 linkv.似乎；显得；看来
-sloppy adj. 草率的；粗心的；泥泞的；肥大的；稀薄的
+appear  [əˈpɪr]  v.出现；显现；呈现；出版 linkv.似乎；显得；看来
+count [kaʊnt] v.计数;(按顺序)数数;计算(或清点)总
+
+sloppy [ˈslɑːpi]  adj. 草率的；粗心的；泥泞的；肥大的；稀薄的
 religious     美: [rəˈlɪdʒəs]   n.修女 adj.宗教信仰的；宗教的；笃信宗教的；虔诚的
 retirement     美: [rɪˈtaɪrmənt]  n.退休；退休生活；退职；退休年龄
 
   For  more formal affairs, you will  probably be told what to wear, such as "formal dress requested," etc. A tie  and jacket or tuxedo for the gents and an evening gown for the ladies would  be in order here. If you are  unsure what  to wear, you can  always ask the  host. Gifts are seldom appropriate for these affairs, unless for a wedding reception, at which  gifts are more customary than cash.
-  
+
+affairs [əˈferz]n.公共事务;政治事务;事件; 社交活动
+gents  [dʒɛnts]n.男士;绅士;先生;
+reception  [rɪˈsepʃn]n.接待;招待会;接待处;欢迎;接待
+gown  [ɡaʊn] n.长袍;(尤指特别场合穿的)女裙;女长服;女礼服
+
+
   Your  host in  his home will usually motion  you where to sit. At formal gatherings, name cards are sometimes  provided, or  you will  be told  where to sit.Do not be alarmed by a great deal of cutlery simply start from the outside and work your way in.  Formal affairs often have several courses  of food with the appropriate cutlery for each dish. There is no harm in  checking with your neighbor to see what implement he is using. After all, "When in Rome, do as  the Romans do." It is  customary to ask others to pass dishes to you  for self-serving; at a formal dinner party, there is  usually catering(service). Again, do not hesitate to  ask others  for information or advice. They are usually  pleased to help you.
 
-provided      美: [prəˈvaɪdəd]    conj.如果；假如；在…条件下  adj.预备好的；由…供给的 v.“provide”的过去分词和过去式  
-cutlery      美: [ˈkʌtləri]   n.餐具（刀、叉和匙）；刀具
-appropriate      美: [əˈproʊpriˌeɪt]   v.拨款；剽窃；挪用；〈正式〉非法占有 adj.恰当的
-course     美: [kɔː(r)s]  n.过程；球场；【教】课程；航线 v.流动；(某种感觉)突然
-implement     美: [ˈɪmpləmənt]  v.实施；执行；贯彻；使生效 n.工具 器 具
-hesitate      美: [ˈhezɪˌteɪt]  v.（对某事）犹豫；顾虑；疑虑
-advice     美: [ədˈvaɪs]  n.建议；意见；忠告；劝告
-again     美: [əˈɡen]  adv.再一次；又一次；再说；复原
+motion  [ˈmoʊʃn]    示意 招呼
+provided  [prəˈvaɪdəd]    conj.如果；假如；在…条件下  adj.预备好的；由…供给的 v.“provide”的过去分词和过去式  
+cutlery   [ˈkʌtləri]   n.餐具（刀、叉和匙）；刀具
+appropriate   [əˈproʊpriˌeɪt]   v.拨款；剽窃；挪用；〈正式〉非法占有 adj.恰当的
+course    [kɔː(r)s]  n.过程；球场；【教】课程；航线 v.流动；(某种感觉)突然
+implement  [ˈɪmpləmənt]  v.实施；执行；贯彻；使生效 n.工具 器 具
+catering  [ˈkeɪtərɪŋ] n.(会议或社交活动的)饮食服务，酒席承办 分菜
+hesitate   [ˈhezɪˌteɪt]  v.（对某事）犹豫；顾虑；疑虑
+advice  [ədˈvaɪs]  n.建议；意见；忠告；劝告
+again   [əˈɡen]  adv.再一次；又一次；再说；复原
 
  The most important  piece of advice is this: enjoy  yourself. No host enjoys seeing nervous or fearful guests who are struggling to "do the right thing" at his home  or expensive  formal dinner party. Watch  other or ask for  their advice, and join in the conversation  and  good times as  best as you can . if you  do , after the first  such evening out,you will certainly look forward to the next!
 
@@ -1163,10 +1179,10 @@ investment [ɪnˈvestmənt] n.投资；投资额；投资物   diverse  [daɪˈv
 
 **  Lesson 20 Scourage  of the Plains:  Tornadoes 
 
+  Ellen Mae  stepped  out of  her  two-story home in central  Illinois  "Fine morning " she  said  to herself after checking the weather , and   then  went back inside. The radio  had  mentioned  a severe storm  advisory, but the sky was  clear, and it was  rather calm.  Still, she decided to be safe  and kept her radio on. 
+
 scourge [skɜrdʒ] v.鞭打；鞭笞；折磨 n.祸害；灾害 plain [pleɪn] n.平原；
 tornado [tɔrˈneɪdoʊ] 龙卷风
-
-  Ellen Mae  stepped  out of  her  two-story home in central  Illinois  "Fine morning " she  said  to herself after checking the weather , and   then  went back inside. The radio  had  mentioned  a severe storm  advisory, but the sky was  clear, and it was  rather calm.  Still, she decided to be safe  and kept her radio on. 
 
   mentioned ['menʃ(ə)n]     v.“mention”的过去式和过去分词 网络提及；提及的；说起
 advisory [ədˈvaɪz(ə)ri] adj.咨询的n.警报
@@ -1304,6 +1320,9 @@ harbinger [ˈhɑrbɪndʒər] n.先驱；预言者   literature [ˈlɪt(ə)rəˌt
 
   Why  does the story of Moby Dick continue to enthrall generation after  generatio? The story line is  simple enough: a mad sea captain vows revenge against a white whale which, on a  previous expedition, bit off one of his legs.   In his  vain attempt at "justice" against nature, the captain meets the ultimate tragedy. This  was no documentary, however; the characters and setting become vehicles for far larger and more  universal themes of the setbacks and successes of the human  spirit as well as its darker urges. So  accurately does Melville  depict the whaling scenes and sea voyages that the reader is taken  on an  exhilarating  ride.Coupled with the absorbing,mad Captain Ahab, the book is "a good read" even by 20th  century standards.
 
+  17:20 
+  Earlier last century, the Noble Prize winner Ernest  Hemingway penned The Old Man  and the Sea, another story of a man's struggle  with nature on the open ocean. This  theme strikes a chord in Americans,   whose culture  developed  along the Atlantic coast of North  America  and whose seaward  passage  from the Old World took them to the colonies of the 18th century or the young country of the 19th century by the millions. This fascination withe the maritime still holds today: over half the population of the United States lives in counties  touching the Atlantic, Pacific, or Gulf coasts. Perhaps some future wirter will once again use the metaphor of sailors and the sea  to create yet another Great American Novel. 
+
 enthrall [ɪnˈθrɔl]v.迷惑；使...入迷 vow [vaʊ]n.誓言；誓愿
 revenge [rɪˈvendʒ]n.报复；报仇  expedition [ˌekspəˈdɪʃ(ə)n]n.探险；考察 远征
 vain [veɪn]adj.徒劳的；枉然的；无结果的；自负的 attempt [əˈtempt]n.尝试；试图
@@ -1317,9 +1336,6 @@ voyage [ˈvɔɪɪdʒ]    n.航行； exhilarating [ɪɡˈzɪləˌreɪtɪŋ]adj.�
 ride [raɪd]v.骑；乘坐；骑马；搭乘n.搭便车；（乘车或骑车的）短途旅程  之旅
 couple [ˈkʌp(ə)l]v.结合；连接；使结婚；(使)交配n.配偶；  absorb [əbˈzɔrbɪŋ]v.吸收；吸附；吸引；
 standard [ˈstændərd]n.标准
-
-  17:20 
-  Earlier last century, the Noble Prize winner Ernest  Hemingway penned The Old Man  and the Sea, another story of a man's struggle  with nature on the open ocean. This  theme strikes a chord in Americans,   whose culture  developed  along the Atlantic coast of North  America  and whose seaward  passage  from the Old World took them to the colonies of the 18th century or the young country of the 19th century by the millions. This fascination withe the maritime still holds today: over half the population of the United States lives in counties  touching the Atlantic, Pacific, or Gulf coasts. Perhaps some future wirter will once again use the metaphor of sailors and the sea  to create yet another Great American Novel. 
   
 struggle [ˈstrʌɡ(ə)l]n.斗争；奋斗  strike [straɪk]v.罢工；击；攻击  共鸣
 chord [kɔrd]n.弦；心弦   Atlantic美:  英: [æt'læntɪk]adj.大西洋的
@@ -1338,11 +1354,11 @@ metaphor [ˈmetəˌfɔr] n.隐喻；暗喻 网络比喻；譬喻；比
 
  hearth [hɑrθ] n.壁炉炉床；壁炉前的地面；家和家庭生活 炉边；
  
-  When people  think  of "American culture and values,"  they  are unconsciously  referring to a set of principles, a world view, and a lifestyle  which can  best be found in Boston,capital of the state of Massachusetts  and the major  city in all  of  New England, those six  relatively samll states tucked away in the northeastern  corner of the United States. Although  Boston is perhaps the seventh  or eighth  largest city in the U.S.,no  other  city in America  can compare  with the influence which Boston has  had  on the development of government, education, medicine, and the arts.
-
 unconsciously [ʌn'kɒnʃəsli] adv.无意地；不知不觉地  refer to v.查阅；提到 指 
 principle [ˈprɪnsəp(ə)l] n.原则；Massachusetts [ˌmæsə'tʃu:sits] n.马萨诸塞；
 tuck [tʌk] 使隐藏 v.收藏； influence [ˈɪnfluəns] n.影响；作用；影响力  
+
+  When people  think  of "American culture and values,"  they  are unconsciously  referring to a set of principles, a world view, and a lifestyle  which can  best be found in Boston,capital of the state of Massachusetts  and the major  city in all  of  New England, those six  relatively samll states tucked away in the northeastern  corner of the United States. Although  Boston is perhaps the seventh  or eighth  largest city in the U.S.,no  other  city in America  can compare  with the influence which Boston has  had  on the development of government, education, medicine, and the arts.
 
   This  influence  is due  in no small part  to Boston's  central role  in the building of  a new nation.  Many people  think  that the United States was  established in 1776; however, that  was the year  of  the Declaration of Independence, a  revolutionary   document claiming self-rule from its mother  country , England.  Actual  independence--the formation of a  government with an acting president(George Washington) -- did not begin until 1789. Boston was nearly   middle-aged then, as it  had had its beginnings a  century  and  a half earlier,in 1630. It maintained its  position  as the colonies' pre-eminent  center for politics, education , and  commerce until  the  mid-18th century, when  both New York and Philadelphia(the young nation's first and second capitals,respectively) overtook Boston in size .
 
@@ -1472,15 +1488,44 @@ fell  US [fel]   adj.邪恶的；残暴的  v.砍伐（树   ; newsprint   US [�
 
 ** Lesson twenty-four  Coffee  or Tea Break?
    Do you prefer a coffee break or a tea break? Are  you getting off  the lift at the  groud floor, or are you going  to get off the  elevator on the first floor? Travelers to  English-speaking countries have to   adjust  to differences between  British  and American  English . There are also cultural  traditions to  understand , ways of life which  differ between London and New Yor, Auckland and Toronto, and Sydney  and San Francisco. Learning  these  differences  is fun, and , when you  travel to different  English-speaking  countries, it's very useful. 
-                                                                                                                                              
- adjust  [əˈdʒʌst] v.调整；调节；适应；习惯                                                                                                                                                 网络校正；校准；使适应 
 
+ adjust[əˈdʒʌst]     v.调整；调节；适应；习惯    网络校正；校准；使适应   
 
+   
    So, what is  a  coffee or a tea break? Americans and Canadians perfer coffee drinking  to tea  drinking . Tea lovers need  not worry, though; millions of  North Americans dring tea  and only tea every day. Though teahouses are  rare there, every supermarket  has a wide variety of Far Eastern, South Asia,  and herbal teas to choose from, Still, coffee is the preferred drink in the Americas; after all , South America if one of the world's  greatest coffee-producing areas. One social custom is  the U.S. and Canada is the mid-morning and mid-afternoon coffee break. This is very informal; it may be  spontaneous (Hey! Let's  break for coffee) or institutionalized (The coffee break in our  office is from 3:30-3:50 daily). Coffee (or tea)  may be  drunk only, or , more likely, a selection of baked goods such  as doughnuts, cookies, slices of cake, or crackers will be available, too.  These  breaks are not only  for  eating and  drinking but also for chatting.
 
-   In great Britain, New Zealand, and Australia, people prefer a spot of tea during their tea  break in the mid-morning or mid-afternoon, and  later  on at home, they  have  high  tea in  the early  evening. High tea consists of a light,  cold meal or baked goods, followed by a more substantial meal later in the evening, Tea breaks may be formal in homes, with a silver tray filled  with  teac cups on saucers, a silver bowl with sugar, and s silver pitcher with cream brought into a living room, dining room, or drawing room. Baked goods are also served at tea breaks. In both the U.K . and  the U.S as well as in other English-speaking countries, most people eat three full meals daily,  but stopping for coffee or tea breaks has also become customary. 
+rare [rer] adj.稀有的;珍贵的;稀少的;
+variety  [vəˈraɪəti]n.(同一事物的)不同种类，多种式样;变化;多
+herbal [ˈɜːrbl]adj.药草的;香草的 n.草本植物志
+spontaneous [spɑːnˈteɪniəs] adj. 自发的;非筹划安排的
+institutionalized  [ˌɪnstɪˈtuːʃənəlaɪzd] adj.制度化的;约定俗成的;成惯例的;(因长期生活在福利机构)缺乏自理能力的 v.将(生活不能自理的人)送到
 
-    
+   In great Britain, New Zealand, and Australia, people prefer a spot of tea during their tea  break in the mid-morning or mid-afternoon, and  later  on at home, they  have  high  tea in  the early  evening. High tea consists of a light,  cold meal or baked goods, followed by a more substantial meal later in the evening, Tea breaks may be formal in homes, with a silver tray filled  with  tea cups on saucers, a silver bowl with sugar, and s silver pitcher with cream brought into a living room, dining room, or drawing room. Baked goods are also served at tea breaks. In both the U.K . and  the U.S as well as in other English-speaking countries, most people eat three full meals daily,  but stopping for coffee or tea breaks has also become customary. 
+
+spot [spɑːt] n.斑点;污迹, 污渍, 脏点;太黑点, （肺部等处的）阴影;（人体的）部位, 地方
+substantial  [səbˈstænʃl]adj.大量的;价值巨大的;重大的;大而坚固的;结实的;牢固的
+tray [treɪ]n.盘;托盘;碟
+saucers [ˈsɔsərz]n.茶碟;茶托;碟状物
+pitcher [ˈpɪtʃər] n.投掷者;投球手;(尤指旧时的)带柄的陶罐
+
+
+   Another useful difference to understand between  the British and American ways of life concerns traffic, which is of  the  utmost importance to travelers or visitors  .In London , one takes the underground, whereas in New York it's the subway(whether or not traveling below the ground). Streetcars are taken in American cityes, but trams are found in Britain. Make sure  you fill up with  gas at the gas station in Miami, but in Manchester you should  top up the  tank with petrol  at the petrol station.  Not sure  whether you need oil ? Check  under the bonnet in Bristol but  the hood  in Houston. Check  your wing mirror in Wales but your side  mirror in Rochester, And watch  out  for those traffic circles in Tampa  but those roundabouts in Reading. 
+   
+
+utmost [ˈʌtˌmoʊst]     n.极限；最大限度；最大量；最大可能    adj.最大的；极度的
+concerns  [kənˈsɜːrnz] v.影响，牵涉(某人);与…有关;涉及;让(某人)担忧 n.(尤指许多人共同的)担心，忧虑
+
+petrol [ˈpetrəl] n.汽油 
+tank [tæŋk]n.坦克;(贮放液体或气体的)箱，槽，罐;
+
+  It should not surprise anyone  that  British and American English  are a little different grammatically (Americans say, "I don't have"  and "I have a lot" but the British say "I haven't" and "I have much"  ). Their pronunciation and vocabulary  also differ. These  should  not be sources of consternation when you visit different  Anglo countries; instead they  should be occasions  for  adventure and enjoyment, Just  as Mandarin-speaking  foreigners can   manage  their  way through  the various dialects of Mandarin  spoken in mainland  China, so , too , should anyone versed in conversational English -- for  any strip --  succeed in  having fun with the different worlds of English .
+
+occasions  [əˈkeɪʒnz] n.某次;…的时候;特别的事情(或仪式、庆典);适当的机会;时机  v.使发生;造成;导致
+mandarin  [ˈmændərɪn] n.(中文)普通话;政界要员;(  
+various  [ˈveriəs]adj.各种各样的，不同的;不止一个的
+dialect  [ˈdaɪəlekt] n.地方话;土话;方言
+
+
 **  Lesson  25 Earthquake Precautions 
     17分后没声音了
    Bam! The  bathroom door  slamming against the wall woke me out of a  sound  sleep. Groggily wending my way  in the  dark  to the bathroom, I secured  the door  latch to make sure I would have no  further  interruptions of much-needed  sleep. I  then  lumbered back into  bed  and started to drift off .
