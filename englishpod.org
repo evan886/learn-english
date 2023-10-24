@@ -47,6 +47,16 @@ complimentary [ˌkɑːmplɪˈmentri] : free
 
 
 *  Lesson 2
+A: Hello, Daniel speaking, how may I help you?
+B: Hi, Daniel, Julie here.
+A: Hi, Julie, how are you?
+B: Actually, I’m feeling quite ill today.
+A: I’m sorry to hear that. What’s wrong?
+B: I think I’m coming down with the flu. I have a  headache, a sore throat a runny nose and I’m  feeling slightly feverish.
+A: I see... so you’re calling in sick?
+B: Yes, I was hoping to take the day off to recover.
+A: OK, then. Try and get some rest.
+
 
 feverish [ˈfiv(ə)rɪʃ] adj.激动的；焦虑不安的；发烧的
 sore throat[sɔːr θroʊt]n.嗓子痛
@@ -63,6 +73,18 @@ stomach  [ˈstʌməks]n. 胃;   腹部;
 
 
 * 3 Hotel upgrade
+
+A:Good afternoon. What can I do for you?
+B:I’d like to check in please. I have a reservation  under the name Anthony Roberts.    suite[swiːt]
+A:All right R.O.B.E.R.T.S... Oh, Mr. Roberts we’ve  been expecting you… and here is your keycard to the presidential suite.
+B:But there must be some mistake; my reservation   was for a standard room.
+A:Are you sure? Let me double check .
+B:Yeah…Here, this is my confirmation number.
+A:You’re right Mr. Roberts, there seems to be a mix-up, unfortunately we’re overbooked at the moment .
+B: So
+A:Not to worry. We’re pleased to offer you a complimentary upgrade.
+B:Presidential suite baby!
+
 suite [swit] n.套房
 double check 双重核算制，复查；
 confirmation [ˌkɑnfərˈmeɪʃ(ə)n] n.证实；确认书
@@ -71,7 +93,7 @@ mix-up [ˈmɪks ʌp] 混乱
 expecting[ɪkˈspektɪŋ]v.预料;预期;预计;等待;期待
 sales strategies /ˈseɪlz ˈstrætədʒiz/销售策略;销售战略
 
-* 4
+* 4  I need a assistant 
 A:...like I told you before, we just don’t have the resources to hire you an assistant.
 B:I understand that, but the fact is we’re understaffed.
 A:The timing is just not right. The economy is bad, and it’s too risky to take on new staff.
@@ -84,6 +106,9 @@ B:OK, great! Let’s meet her!
 C:Hi, I’m Adam.
 B:Oh... hi... I’m Tony...
 
+resources  :  money
+understaffed /ˌʌndərˈstæft/ s-->d  : not enough  people   to do the job
+
 assistant /əˈsɪstənt/ s-->d
 hire /ˈhaɪər
 risky  /ˈrɪski/adj.有风险的;
@@ -94,9 +119,6 @@ recent [ˈriːsnt]adj. 最近的;   近来的;   新近的
 literal [ˈlɪt(ə)rəl] adj.字面意义的
 elaborate [ɪˈlæb(ə)rət] v.精心制作；详尽阐述；详细描述
 paperwork 文书工作 ; 全部文件
-
-resources  :  money
-understaffed /ˌʌndərˈstæft/ s-->d  : not enough  people   to do the job
 
 
 * 5 Cut In Line
@@ -126,12 +148,26 @@ C: I do!
 A: So sue me. [suː]v. 控告，控诉 你咬我
 C:Alright...that’s it....
 * 6 Road Trip
+
+A:So, are we all ready to go?
+B:Yup, I think so. The car’s packed; we have munchies and music, and the map’s in the car.
+A:Did you get the camera?
+B:Got it! Did you fill up the tank?
+A:Yup, it’s all set.
+B:You’re sure we’re not forgetting anything?
+A:I’m sure... we’ve got all our bases covered.
+B:Well… let’s get going then! I love road trips!
+B:Um... do you think we can make a pit stop?
+A:But we’ve only been on the road for ten minutes.
+B:I know, but I forgot to go to the bathroom before  we left.
+
 munchies [ˈmʌntʃiz] n.（聚会上提供的）小吃
 pit [pɪt] n.深洞；深坑；矿井；麻子
 pit stop : quick stop for food or
 complicated [ˈkɑmplɪˌkeɪtəd] adj.复杂的；难懂的v.“complicate”的过去分词和过去式
 hurricane [ˈhʌrɪˌkeɪn] n.（尤指西大西洋的）飓风
 let’s get down to business. 开始说正事
+
 * 7  Virus (May 21 真的背起来了 感觉还行)
 A:Oh great! This stupid computer froze again! That’s the third time today! Hey Samuel, can you come take a look at my PC? It’s acting up again. It must have a virus or something.  [ˈvaɪrəs]
 B:Just give me a second; I’ll be right up.
@@ -166,10 +202,7 @@ slip  my mind : been forgotten
 foreign investment [ɪnˈvestmənt] 外国投资；国外投资
 slip [slɪp] v.溜；下降；滑落；摆脱
 
-
-
-
-
+回放--重复--
 
 
 * 9  Silence please 
@@ -178,7 +211,7 @@ sarcastic/sɑːrˈkæstɪk/adj.讽刺的;嘲讽的;挖苦的
 
 
 *  10 Driving Sales
-A: All right, people. We’re holding this meeting today because we’ve got to do something about our sales, and we need to do it NOW! I want concrete solutions. How do you intend to drive sales... Roger?
+A: All right, people. We’re holding this meeting today because we’ve got to do something about our sales, and we need to do it NOW! I want concrete solutions. How do you plan( intend) to drive sales... Roger?
 B: Well, in fact, we’re the most expensive in the market, so maybe we need to lower our prices to match the competitors?
 A: Lower our prices? Not very creative. It’ll never fly with Swan. What kind of thinking is that? Geez. Anybody else have a better plan? Natalie
 
@@ -196,6 +229,8 @@ competitors kəmˈpetɪtər] UK: [kəmˈpetɪtə(r)]n.竞争者
  sales promotion 促销 ; 推销
 competitive [kəmˈpetətɪv] adj.竞争的有竞争力的
  brilliant idea 绝妙的主意  [ˈbrɪliənt]
+
+
 
 *  11  New Guy  in Town
 A:Oh, I don’t know if you heard, but someone moved into that old house down the road
@@ -236,6 +271,11 @@ A:Great! Can you set the table?   set the table 摆放餐具 ; 摆饭桌
 B: Just a sec I’m just gonna vacuum this rug real fast
 A:Wait! Don’t turn it on...
 
+chop wood /tʃɑːp wʊd/劈柴;伐木
+dramatically [drə'mætɪkli]adv. 戏剧性地;   戏剧地;
+kleenex ['kliˌneks]纸巾;   面巾纸;   舒洁
+tissue ˈtɪʃuː]n. (人、动植物细胞的)组织;   (尤指用作手帕的)纸巾，手巾纸
+
 spotless /ˈspɑːtləs/adj.极清洁的;非常洁净的 perfectly clean
 chore US: [tʃɔr] n.杂事；家务活；事务  common house tasks
 sweep  [swiːp]v. 打扫;   扫;
@@ -245,10 +285,6 @@ mall mæl] UK: [mɔːl]n.购物广场；购物商场
 rug [rʌɡ] n. 小地毯;   垫子
 combination [ˌkɑmbɪˈneɪʃ(ə)n] n.组合；【数】组合；
 
-chop wood /tʃɑːp wʊd/劈柴;伐木
-dramatically [drə'mætɪkli]adv. 戏剧性地;   戏剧地;
-kleenex ['kliˌneks]纸巾;   面巾纸;   舒洁
-tissue ˈtɪʃuː]n. (人、动植物细胞的)组织;   (尤指用作手帕的)纸巾，手巾纸
 
 
 
@@ -534,7 +570,7 @@ dramatic[drəˈmætɪk]adj. 戏剧性的;   引人注目的;
 
 
 
-* 23
+* 23  Making an Appointment
 
 Consulting 咨询的，顾问的 /kənˈsʌltɪŋ
 arrange  [əˈreɪndʒ]v. 安排;   筹备;
@@ -548,7 +584,7 @@ investing [ɪnˈvestɪŋ]v. 投资;   投入(时间、精力等);  n. [机]熔�
 
 
 
-* 24
+* 24  Where should we eat 
 check out    na.开支票(提款)；(旅馆)付账后离开；合格；〔美俚〕死    网络结帐；退房；结账退房
 lighter [ˈlaɪtər] n.打火机；驳船adj.“light”的比较级 清淡点
 mood [muːd]n. 情绪;   心情;   气氛
@@ -566,7 +602,7 @@ squeeze [skwiz] v.挤；榨；压；压出n.挤压；
 
 * 25    Aug 23 2023 
 
-*  26
+*  26  New Year Resolution  
 
 resolution [ˌrezəˈluʃ(ə)n] n.解决；分辨；解析；决议    网络分辨率；解析度；决心
 transform [trænsˈfɔrm] v.使改变形态；使改变外观（或性质）；使改观    n.【数】变换式；【化】反式     网络转换；转化；转变，变革
@@ -1011,7 +1047,7 @@ parade [pəˈreɪd] n.游行
 
 *  49  Daddy  Please (May 22 2023 感觉听得明白大部分)
 
-A:Hey daddy!You look great today;I like your tie! By the way, I was wondering can I…
+ A:Hey daddy!You look great today;I like your tie! By the way, I was wondering can I…
 B: NO
 A:I haven’t even told you what it is yet!
 B:Okay, okay, what do you want?
@@ -2042,6 +2078,50 @@ A:Thanks everyone that was my time.
 
 
 
+*  127 I love  That Song
+
+Host: Welcome back, music lovers, to ”I Love That  Song”! The game show where we test your  musical knowledge to the extreme! Let’s get started! Team A... Guess this tune:
+Team A: Carrying Your Love With Me by George  Straight! The genre is country music!
+Host:You are right! one hundred points to team  A! Now, for our next cut.
+Team B:Thong Song by Sisqo! I believe the genre is  R&B?
+Host:One hundred big points for team B! For all our viewers the acronym R&B stands for  Rhythm and Blues. On that note, DJ, play our next song!
+Team B:Superstar by The Carpenters!
+Host:And the genre?
+Team B:Um... Um... Adult Contemporary? 
+Host:That’s right! A hundred points! Uh oh! That  sound means it’s double or nothing! The  songs are more difficult and the points  are  doubled! Let’s hear our next song!
+Team A: Too easy! That song is Kinslayer by the  Finnish power metal group, Nightwish!
+Host: You are correct! Very impressive team A!  And it seems we have a tie! It’s time now for the tie-breaker round! Each team will  be played three songs and they must tell us  the genre of each song in less than five seconds! Team A, are you ready?
+Team A: Ready!
+Host: Let’s hear it!
+Team A: Hip Hop, Classical and Gothic metal!
+Host:You are right! Team B, the pressure is on, if you get all of them right, we will move on  to sudden death. If you miss one, you lose!   DJ, Let’s hear it!
+Team B:Rap, Disco and... and...
+
+
+extreme [ɪkˈstrim] n.极端；极限；极度；
+tune[tun] v.调整；（为乐器）调音；（给收音机、电视等）调谐；使协调 n.曲子；曲调
+acronym [ˈækrəˌnɪm] n.缩写词；缩写字；
+R&B stands for Rhythm and Blues
+rhythm [ˈrɪðəm] n.节奏；节律；韵律；
+genre [ˈʒɑnrə] n.类型 网络流派
+contemporary [kənˈtɛmpəˌrɛri] adj.现代的；当代的；当时
+metal [ˈmet(ə)l] v.(〔英国〕 -ll-)用金属包；用碎石铺(路面) n.金属
+we have a tie  平手
+Gothic [ˈɡɑθɪk] adj.哥特语的；哥特式的；
+pressure [ˈpreʃər] n.压力；压强
+impressive [imˈprɛsiv] adj.令人印象深刻的；引人注目的；可观的
+
+sudden death ：extra ime to determine a winner after a tie  决胜局的加时赛 
+
+twang [twæŋ] n.鼻音（通常指方言）；（乐器等的）拨弦声 v.弹拨；（使）发出弹拨声
+gambling [ˈɡæmblɪŋ] n.赌博；打赌；赌钱 v.“gamble”的现在分词
+recession [rɪˈseʃ(ə)n] n.经济衰退；经济萎缩
+come up with 想出，提出 ; 赶上，
+pump[pʌmp] n.泵；(浅口无带的)轻舞鞋；抽机作用；抽运 v.注入；
+profound [prəˈfaʊnd] adj.巨大的；深切的；深远的
+
+
+
 *  130  Going  TO  The Gym
 A:Hey there, you look a little lost. Are you new here?
 B:Yeah how’d you know?
@@ -2217,6 +2297,45 @@ v. 把……钉牢；（非正式）揭穿（某人）；（花费
 
 
 
+*  137 Getting  Internet Service
+A:Welcome to Galanet. How can I help you?
+B:Hi. I would like to get an internet plan for my  house.
+A:Of course. We have three different plans with different prices you can choose from. The first one  is the cheapest but most  basic plan which is thirty dollars a month. This is for broadband internet  with a download speed of five hundred and twelve kbps.
+B:I have no idea what kbps means. I just want to be able to get online, play games and chat with my  friends. Oh, and watch movies online as well.
+A:Well, this connection might be a bit too slow for  your needs. I suggest you get the premium package for fifty dollars a month  which includes a connection speed of two megabytes. That way you can play games online without any lag. This package also includes a wireless router and a personal firewall absolutely free!
+B:Do I have to pay an installation fee? 
+A:Lucky for you, this month we aren’t charging our normal installation fee. You are saving yourself 100 bucks right there! And we’ll throw in this pen drive!
+B:Awesome!
+
+ plan for 计划 ; 为…作安排 
+broadband 宽带 ; 宽频带
+premium [ˈprimiəm] n.保险费；额外费用；奖金；津贴 adj.优质的；
+megabyte [ˈmeɡəˌbaɪt]  n.【计】兆字节 网络位元组；百万字节
+
+router [ˈrutər]  [ˈruːtə(r)]n.槽刨 路由器
+
+wireless[ˈwaɪərləs] adj.无线的;
+lag [læɡ] n.(锅炉等的)外套；加套；落后；护壁板 v.缓慢移动；发展缓慢；滞后
+installation [ˌɪnstəˈleɪʃ(ə)n] n.安装；设施
+throw in 免费赠送 ; 额外奉送 ;
+pen drive 硬盘 ; 随身碟 ; U盘
+
+term [tɜrm]     n.条款；说法；价钱；措辞      v.把…称为  术语；条件；学期
+
+expand [ɪkˈspænd]     v.扩大；扩张；膨胀；展开     网络扩展；扩展的；扩张的
+distribute [dɪˈstrɪˌbjut] v.分布；分发；分配；颁布 网络散布；
+navigate [ˈnævɪˌɡeɪt] v.导航；航行；驾驶(船舶,飞机等)；(人,船等)航行于  网络航行中；浏览
+
+
+malicious[məˈlɪʃəs] adj.恶意的;
+intruder [ɪnˈtrudər] n.闯入者；爱管闲事的人
+empathize [ˈempəˌθaɪz] v.有同感；产生共
+complimentary [ˌkɑmplɪˈment(ə)ri] adj.免费的；赠送的
+subscription [səbˈskrɪpʃ(ə)n] n.订阅；（向慈善机构的）定期捐款
+device [dɪˈvaɪs] n.装置；设备；
+
+
+
 *  138 Renting A Car
 reservation [ˌrezərˈveɪʃ(ə)n] n.预订；预约
 vehicle [ˈviɪk(ə)l] n.车辆；工具；交通工具   居然没记起
@@ -2306,6 +2425,96 @@ nastiness    US: ['næstɪnəs]     n.污秽    Web惹人厌
 
 
 
+
+*  142 What Do I wear
+
+A: Honey come on! We are going to be late! Honestly, you take longer getting ready than I do!
+B:I was drying my hair and ironing [ˈaɪrnɪŋ] y shirt! Can you come here for a sec? I need your help
+A:What is it? Why are all these clothes on the bed?
+B:I don’t know what to wear! Ok, give me your opinion. Do you like the way this looks? The striped [straɪps]short sleeved[sliːvd]  shirt with this checkered sweater and my lucky sandals. I like the cut and hemline  of these shorts so I think I’ll wear these as well.
+A:Are you joking? What am I going to do with you?  We are going to a dinner party not the beach!  Wear the shirt with the silk tie I bought you and  these corduroy[ˈkɔrdəˌrɔɪ] pants. It’s chilly[ˈtʃɪli]  outside so you can wear this coat.
+B: Thanks honey! You have such great fashion  sense. Now, what am I going to do with my hair?
+
+
+stripes[straɪps] n. 条子布；条纹布（stripe 复数形式）
+ironing [ˈaɪrnɪŋ]     n.熨烫；刚熨好的（或待熨烫的）衣物     v.“iron”的现在分词     Web熨平；熨衣服；引缩加工
+sandal [ˈsænd(ə)l] n.凉鞋；便鞋；
+sleeved[sliːvd] adj. 有袖的
+corduroy[ˈkɔrdəˌrɔɪ] n.灯芯绒
+chilly[ˈtʃɪli] [发音]adj. 阴冷的，寒冷的；有寒意的；不友好的，
+
+lollygag[ˈlɑliˌɡæɡ] v.〈美口〉浪费时间；闲游浪荡
+taking forever 浪费时间  
+procrastination K [prəʊˌkræstɪ'neɪʃ(ə)n]n.拖延 Web拖延症；耽
+wrinkle [ˈriŋk(ə)l]     n.皱纹；褶皱；小问题；妙计     v.皱起…；(把织物,纸张等)弄皱     Web起皱；皱褶；欢乐皱纹
+short-sleeved shirt Web短袖衬衫
+checkerboard [ˈtʃekərˌbɔrd] n.国际跳棋棋盘；西洋跳棋棋盘 v.在…上纵横交错地排列[分布]
+hemline[ˈhemlaɪn] n. 底边，底缘
+
+modeling [ˈmɑd(ə)lɪŋ] n.型；模范；典型；模特儿；模型；原型；设计图；模范
+brick [brɪk] n.砖；砖块；积木；可靠的朋友 v.用砖砌；用
+
+fake [feɪk]n.赝品；假货；冒充者 v.伪造；假装；冒充 adj.假的
+
+
+
+
+
+
+* 143
+
+ground beef 碎牛肉 ; [ɡraʊnd] ground comes from the verb “to grind”.
+lean  [lin] n.	瘦肉 v.	倾斜
+pork [pɔrk] 
+breast [brest] n.	胸；乳房
+pork chops 猪排 ; 猪扒 ; 
+thigh [θaɪ] n.	【解】大腿；【虫】股节 网络	鸡大腿；
+cold cuts 冷盘肉片
+salami [səˈlɑmi] n.	萨拉米香肠（味浓，多切片冷食）  网络	意大利香肠
+bologna  [bəˈloʊni] n.	博洛尼亚大红肠（用各种肉混合制成）
+rib [rɪb] n.	肋骨 肋眼牛排
+sirloin [ˈsɜrˌlɔɪn] n.	牛里脊肉
+slaughter [ˈslɔtər] v.	屠宰；宰杀；杀戮；屠杀 n.	屠宰
+
+Butcher: Hi. What can I get for you?
+Gina: I’d like a half a pound of ground beef,  please.
+Butcher:Good choice! Our ground beef is extra  lean, if you know what I mean.
+Gina:Could I also have half a dozen pork  chops and two pounds of boneless  chicken breasts?
+Butcher:No, no no no chicken breasts at the moment, but we have some nice chicken  thighs.
+Gina: No, that won’t do. I’ll take this smoked ham you have here.
+Butcher:Okay, is there anything else?
+Gina:Do you have any other cold cuts? Is this  salami and bologna you have here?
+Butcher:Yes! It’s very fine meat! Made it myself...
+Gina:Sounds good. Okay, that’s it.
+Butcher:Wait! We have T-bone, rib eye, and sirloin steaks. They are very fresh! Just came from the slaughter house...
+Gina:Mmm... No that’s okay, really. I think that’s all for today. 
+Butcher:Okay. That will be thirty-four dollars and fifty cents.
+
+
+fleet [flit] n.舰队；车队；海军；捕鱼船队 adv.浅
+conception[kənˈsepʃ(ə)n] n.构想；构思；
+deli [ˈdeli] n.〈美口〉熟食店
+treat [trit] v.治疗；处理；对待；招待  n.请客；轮到
+jerky [ˈdʒɜrki] adj.忽动忽停的；颠簸的  n.干肉条；熏肉条
+
+cured meat /kjʊrd miːt/ 腊肉 
+sophisticated [səˈfɪstɪˌkeɪtəd] adj.见多识广的；老练的；见过世面的；复杂巧妙的  网络复杂的；
+tender  [ˈtendər] 嫩的 v.投标；提供；提出；提议  n.投标；（蒸汽机车的）煤水车；交通船  adj.和善的；温柔的；亲切的；慈爱的  嫩的；
+competition [ˌkɑmpəˈtɪʃ(ə)n] n.竞争；比赛；竞赛  
+weird[wɪəd] adj.怪异的；捉摸不
+sarcasm [ˈsɑrˌkæzəm]n.讽刺；嘲讽；挖苦
+insinuate [ɪnˈsɪnjuˌeɪt] v.暗示；钻营；活动；（使）缓慢进入
+subtle [ˈsʌt(ə)l]adj.不易察觉的；不明显的；微妙的；
+idiom [ˈɪdiəm] n.成语；习语；惯用语；
+ home run 本垒打
+ poultry [ˈpoʊltri] n.家禽；禽肉
+crime: [kraɪm] n.罪；罪行
+vegetarian [ˌvedʒəˈteriən] n.素食者；吃素的人 adj.素食主义(者
+
+M: I know, you’ve made me hungry. I think we’ve gotta take off and have some, uh,
+burgers, something like that.
+
+
 *  145 Chicken  Pox
 A: What’s wrong with you? Why are you scratching  so much? [ˈskrætʃɪŋ
 B: I feel itchy! I can’t stand it anymore! I think I may be coming down with something. I feel lightheaded and weak.
@@ -2337,7 +2546,38 @@ filler [ˈfɪlər] n.填充物；充数的东西；
 
 
 
+
+*  147  The Argument
+
+A: Wow, that terrible movie is finally over. Next time  I’m picking the film, because I don’t want to end   up seeing a chick flick.
+B: Well you should have picked, in the end you always complain about everything.
+A:Not everything, just this film. Even the title is ridiculous; and it’s so long, those are the two and a half most wasted hours of my life, so much so  that I’m thinking about asking them to give me my  money back.
+B:I’m thinking of taking you back home. I thought  we could have a nice evening, but you’re always  so negative.
+A:I’m only complaining about a movie that I could have rented or bought and then thrown in the  garbage. 听成坐垃圾堆边
+B: You see, that’s what I’m talking about, I can’t stand  your sarcastic jokes anymore
+A: Next time, go with your gay friend who is more in touch with his feelings.
+B: Well he’s more of a man than you are; at least he  appreciates love stories.
+A: Love? More like one-night-stands.
+B: Don’t criticize Mario or else I’ll start on those fat,  drunk friends of yours; they’re no saints.
+A: My friends? Fat? What about those whales you  call friends?
+B: You’re unbearable; you can walk home, I’m leaving.
+A fine 
+
+
+exaggerate [ɪɡˈzædʒəreɪt]v.夸张；夸大；使过大 Web夸张的
+heated [ˈhitəd] adj.愤怒的；激烈的；十分激动的；（用加热器）加热了的
+encounter [ɪnˈkaʊntər] v.遭遇；偶然碰到；意外地遇见；与…邂逅  n.遭遇；交锋；
+clash [klæʃ] n.冲突；龃龉；不
+
+negative [ˈneɡətɪv] n.否定；底片；负片；拒绝  v.否定
+sarcastic [sɑrˈkæstɪk] : to use of words to show irritation adj.讽刺的；嘲讽的；挖苦的
+irritation: [ˌɪrɪˈteɪʃ(ə)n]     n.愤怒；【医】刺激；刺激物      Web激怒；烦躁；恼怒
+saint [seɪnt]   n.圣人；圣者； 其实在极简中有学，不过又不赢得
+unbearable [ʌnˈberəb(ə)l] adj.难耐的；无法接受的
+
+
 * C 149   Moving
+
 A: Ok, that’s fine. Bye.
 B: What happened?
 A: That’s it, my lease is up. I have to move.
@@ -2375,6 +2615,13 @@ B: We can cover ourselves with beer! That way if they bite us, they’ll get dru
 A: That’s without a doubt, the best idea youve had!  Lets do it!
 B: Run! They are thirsty for more!
 
+boom [bum]  轰鸣 n.繁荣；吊杆；（某种体育运动、音乐等）突然风靡的时期；帆桁v.激增；繁荣昌盛；轰鸣；轰响
+itch[ɪtʃ] n.痒；热望；【医】疥癣；【医】痒 v.痒；极想 Web发痒；
+allergy[ˈælərdʒi] n.变态反应；过敏反应  Web过敏症；
+repellent [rɪˈpelənt] n.防水剂；驱虫剂 adj.使人反感的
+malaria [məˈleriə]n.疟疾Web瘴气；
+
+
 scratch [skrætʃ]n.抓；划痕；抓伤；擦伤 v.抓；抓伤[破]；(用爪,针等)搔；搔(痒)  adj.(船员,球
 spray [spreɪ]n.喷雾；喷剂；浪花；喷雾器 v.喷；喷
 sneaky [ˈsniki] adj.悄悄的；偷偷摸摸的；鬼鬼祟祟的 Web鬼祟的；卑鄙的；狡猾的
@@ -2383,15 +2630,338 @@ thirsty [ˈθɜrsti]adj.渴望；渴求；  我听成30了
 thirty [ˈθɜrti]   30 
 
 
-boom [bum]  轰鸣 n.繁荣；吊杆；（某种体育运动、音乐等）突然风靡的时期；帆桁v.激增；繁荣昌盛；轰鸣；轰响
-itch[ɪtʃ] n.痒；热望；【医】疥癣；【医】痒 v.痒；极想 Web发痒；
-allergy[ˈælərdʒi] n.变态反应；过敏反应  Web过敏症；
-repellent [rɪˈpelənt] n.防水剂；驱虫剂 adj.使人反感的
-malaria [məˈleriə]n.疟疾Web瘴气；
 
 
 
 
+
+
+*  153  homesick
+Sarah:  Tom! How are you? We missed you at the  party last night. Are you ok?
+Tom: I don’t know. I didn’t really feel like going out. I guess I’m feeling a little homesick.
+Sarah: Come on We’ve been through this already! Look, I know the adjustment was hard when  you first got here, but we agreed that you were  gonna try and deal with it.
+Tom: I was. It’s just that the holidays are coming up  and I won’t be able to home because I can’t afford the airfare. I’m just longing for some of the comforts of home, like my mom’s cooking  and being around my family.
+
+Sarah: Yeah, it can get pretty lonely over the holidays. When I first got here, I’d get depressed and nostalgic for anything that reminded me  of home. I almost let it get to me, but then I  started going out, keeping myself busy and before I knew it, I was used to to it.
+Tom:  I see what you mean, but I ’m still bummed out.
+Sarah: Ok how does this sound: let’s get you suited up and hit the dance club tonight. I hear that an awesome DJ is playing and there will be a lot of pretty single girls there!
+Tom: You know, I could really go for that. You don’t mind being my wingman for tonight?
+Sarah: Not at all!  It be fun! It will be like a boys night out... well kinda..
+Tom: Great! I must warn you though, whatever happens, don’t let me go on a drinking binge. Trust  me, it’s not a pretty picture!
+
+
+adjustment:  [əˈdʒʌstmənt] n. 调整，校正；（行为、思想的）调节，适应；调
+
+longing for : showing a strong desire  for something
+desire[dɪˈzaɪr] n.欲望；渴望；
+
+bear  [ber] v.承受；忍受；不适于某事（或做某事）；承担责任  n.熊；
+afford v : bear the cost of
+excess [ˈekˌses] n.过度；超过；过分；过多的量 adj.超额的；额
+
+airfare [ˈerˌfer] n.航空运费
+nostalgic [nɒˈstældʒik] : homesick adj.怀旧的；令人怀念的  Web乡愁的；狐死首丘
+
+
+
+
+
+*  154   Rock Band
+
+A: I’m forming a music band.
+B: Do you already know how to play an instrument?
+A: Uh... Yeah! I’ve told you a thousand times that I’m learning to play the drums. Now that I know how  to play well, I would like to form a rock band.
+B: Aside from yourself, who are the other members of the band?
+A:We have a guy who plays guitar, and another who plays bass. Although we still haven’t found anyone to be our singer. You told me  that you had some musical talent, right?
+B: Yes, I’m a singer.
+A: Perfect. So you can audition this weekend here at  my house.
+B: Great! Wait here? You don’t have enough room for the amplifiers, microphones or even your drums! By the way where do you keep them or practice? 
+A: Dude? What are you talking about? It’s right here! All we need is my Nintendo Wii and we are set!
+
+drum [drʌm] n.鼓；滚筒；
+form  [fɔrm] : create  n.形式；表格；形状；样子  v.组成；建立
+audition[ɔˈdɪʃ(ə)n] : to take part in a trial performance v.试演；试唱；试音
+amplifier [ˈæmplɪˌfaɪr] n.放大器；扩音器；
+trial [ˈtraɪəl] v.试验；试用
+Nintendo [nɪnˈtɛndoʊ] n.〈外〉任天堂
+realize a task : 完成任务   [ˈriəˌlaɪz] v.〈正式〉实现
+
+some metal strings 金属线
+emphasize [ˈemfəˌsaɪz] v.强调；重视
+conjunction [kənˈdʒʌŋkʃ(ə)n] n.连词；同时发生；（恒星、行星等的）合 网络连接词；结合；
+
+
+11：00 有空再听完
+
+
+
+
+*  185 Farm Animals
+A:Isn’t this great? I always wanted to own a farm,  live out in the country, grow my own food!
+B:This is very beautiful. Though I have to confess, I  don’t know the first thing about farming!
+A:That’s fine! Don’t worry about it!
+B:What was that?
+A:Relax, it was just a goat![ɡoʊt]
+B:And that?
+A:It’s just the cows that are grazing over there. We  can milk them later.
+B:What was that?
+A:Honey, seriously, It’s just a sheep. Relax!   [ʃiːp]
+A:Relax, that was just the horses and donkeys that  are in the stable .   [ˈhɔːrsɪz]  [ˈdɑŋki]
+B: You know what? I don’t think I can hack it here  out in the countryside. I’m going back to the city!
+
+
+
+
+grow [ɡroʊ] v.成长；长大；增加；扩大  linkv.逐渐变得；逐渐成为  生长；种植
+confess [kənˈfes] v.忏悔；坦白；告解；
+cow[kaʊ] n.母牛；【动】奶牛
+grazing ['greɪzɪŋ] n.牧场；草场 v.“graze”的现在分词
+ hack it 破解它 ; 容忍 
+
+
+*  C 189 Buying A New Mobile Phone
+
+A:Hello sir, may I help you?
+B:Yeah, I accidentally dropped my phone in the toilet.
+A:I see. Well, you have come to the right place.  We have over one hundred models of more than  twenty leading mobile phone manufacturers.
+B:Sounds good. I don’t want it to be too expensive,  maybe something mid-range.
+ A:We have this new HTC smart phone. It comes  with the Android OS so you can download applications. It also has a built-in   camera, mp3 player and touch screen. It works on the 3G network so  you have fast access to the internet wherever you are.
+ B:What about Wi-fi?
+A:Of course! You can access the internet from any hotspot as well as from home.
+B:One last thing. Is it waterproof?
+
+accidentally [ˌæksɪˈdent(ə)li] adv.意外
+
+manufacturer [ˌmænjəˈfæktʃərər] n.制造商
+hot spot ['hɒtspɒt]     n.危险地带；犯罪的高发地区；闹区；【计】热点      网络无线热点；热区；无线上网据点
+
+model [ˈmɑd(ə)l] n.型；模范；典型；模特儿；模型；原型；设计图；模范  v.设计；仿
+
+
+
+*  190 Family Barbecue
+
+没有主持人文档
+
+A:Is everything ready for the big family barbecue tomorrow?   [ˈbɑːrbɪkjuː]
+B:Yep. The steaks and chicken are marinated and I  also bought hamburger buns.
+A:We should also cook a couple dozen hot dogs and kebabs.
+B:Yeah, good idea. We can put some lawn furniture outside next to the grill. I also set up the tent  outside so we can hide from the sun if it gets too  hot.
+A:Great! I asked Grace to bring cups and serviettes as she is also bringing two big coolers for  the beers.
+B:This is gonna be a great barbecue!
+
+marinate [ˈmerəˌneɪt] v.用腌泡汁泡 网络腌制；卤
+bun [bʌn] n.小圆面包；头
+kebab [kə'bæb] n.烤腌(羊)肉串；(肉串上的)肉块 网络烤肉串；羊肉串儿
+lawn [lɔn] n.草坪；草地
+tent [tent] n.帐篷；帐棚 v.宿营；将塞条
+serviette [ˌsɜrviˈet]     n.餐巾
+grill [ɡril] n.烤架；烧烤店
+lawn furniture  :furniture intended for  use outside in the yard
+hamburger bun : a round bun shaped to hold a hamburger patty
+patty [ˈpæti] n.碎肉饼；鱼肉饼
+
+
+
+*  C 196 Going  To The Tailor
+
+Oct 2023 
+https://archive.org/details/englishpod_0196dg
+
+
+A: Welcome to Bill’s Fabric World. What can I do for  you today?
+B: I was wondering if you guys also tailor clothes? 
+A: Sure we do! We have the best tailors in the country! What is it that you need exactly?
+B: Well, I’m looking to get a custom-made suit.
+A:Excellent! We have the finest cashmeres at affordable prices. How about we get you measured? Let’s start off by measuring the width of your shoulders. Now, let’s measure the length of  your arms and this bit around your neck here.
+B:Can you make sure you leave a little extra space in the collar? My neck gets easily irritated.
+A:No problem! Now for your pants, let me just measure your waist and the inseam.
+B:You might also want to leave a little extra room in the waist area. I tend to gain a few pounds over the holiday
+A: OK. Now you can pick your fabric and pattern design. Please follow me.
+
+fabric [ˈfæbrɪk] n.织物；布料；
+tailor[ˈteɪlər] n. （尤指男装）裁缝；蓝鱼（Tailorfish 的简称）
+cashmere [ˈkæʃmɪr] n.开士米（喀什米尔产细羊毛）；细羊毛绒线、织物或呢子；开士米围巾
+collar [ˈkɑlər] n.衣领；领子
+irritate [ˈɪrɪˌteɪt] v.使烦恼（尤指不断重复的事情）；刺激
+waist [weɪst] n.腰；腰部
+inseam [ˈɪnˌsim] n.下落裆（裤腿内侧长度）网络内缝；
+ tend to 倾向于 ; 有助于
+stomach [ˈstʌmək] n.胃；腹部 v.欣赏；欣然接受；喜欢和…相处；能吃  网络肚子
+
+ 
+#主持人文本 
+Welcome back to English pot. My name is Marco, my name is Catherine and today we're talking about buying clothes. That's right, we're gonna go and get some clothes. But on this occasion we're going to get a suit and we're gonna have it made especially for us. So before we get started, why don't we take a look at one keyword that we have in vocabulary preview.Vocabulary preview.Okay, this word makes me think of things that are very rich and soft.It's a fabric, right? That's right. It's a kind of textiles called cashmere cashmere. So maybe you've heard of cashmere wall, special kind of will. It comes from animals. Ah, so this is A A textile or fabric that is commonly used to make pants, a nice pants or suits for men or scarves or sweaters. You never had a cashmere sweater. You know it's very luxurious, very soft, so it can be a little bit expensive depending on the quality and that's what we're gonna be looking at now. We're gonna be, we're gonna be making a suit out of cashmere. So why don't we listen to our dialogue for the first time.
+
+luxurious[lʌɡˈʒʊriəs] adj. 奢侈的，豪华的；心满意足的，舒适的；辞藻华丽的
+
+Me of something that people used to do a lot more often. So you go to the tailor, you have some clothes made. Most people don't do this anymore. Yeah, well, it's actually really interesting. Maybe because it's more expensive nowadays or tailors are harder to find. That's right. So let's learn about the words first and what they mean. And then maybe we can talk about this at the end of today's show.Language take away. Alright, so today on language takeaway we have a word that is a noun and a verb. So as you mentioned, the person that makes suits is a tailor. That's right, you can say my uncle is a tailor. He makes clothes for famous people but this word is also a verb. That means it's an action word. We can say my uncle the tailor, he tailors clothes. Okay, so to tailor clothes and what does it mean when you say to Taylor well can have two meanings? The first is what we learn about in today's dialogue it means to make.Make clothes, so to make a shirt or to make a pair of pants. But these days we often say Taylor, which means to.Fix something. So, for example, Marco, if you buy a pair of pants.And they're too long right? You can have them tailored have been tailored and that means that I am going to have them fixed so they fit me properly exactly. This is a lot more common right now. Okay? So we're gonna be tailoring close. Now, if any of you have ever been to the tailor what they do is they measure you and what do they measure? Well in this case they get the width of your shoulders. What's really great about these upcoming words is that they're useful in math as well math and basic measurements. So what is how a big something is across cross? How wide something is exactly why with okay. So that's the width. Now your shoulders they are wide and well your legs on the other hand
+
+Your shoulders. They are wide and, well, your legs. On the other hand, your legs and arms, you don't measure the width usually measure.You measure that link, how long they are okay.So with and length, now just throw it in there. This wasn't in the dialogue but won't be the other measure word. So the third word would be height. So you think of a rectangle. Ah, you have the width. How wide? Something is the length, how long it is in the height, how tall? Tall, right?So with length and height, alright, now that we've measured our arms and legs, now we want to measure our waist.Okay, this is the important one, this is also the sensitive.One, if you find that you gained some weight, we measure the waste. Okay, that's how big you are around your stomach. And so usually we measure this in a circle. Okay, okay so you've heard of a 26 inch waist or 32 inch ways, this is the size of your stomach, okay? So it's just above your hips, right? As you say it's your stomach and well we measure the wa and now in men, especially they measure the in insane. Now this is very particular for tailors and having suits me, what is it it seem?Well, think of the word in inside. This is the.The inside of your pants. So from your foot to the middle of your pants where your zippers start. Okay, so that's not the outside length, it's the inside length. Okay, now for example skirts they don't have instinct, right? No, because there's no inside. There's no milk, right? So it's just like a circle, okay, but in pants or shorts you have it in.See, that's where it's a connected in the middle. Alright, so also in short, very interesting so you can measure the of pants or shorts. Alright, so very interesting in particular words for tailors, why don't we listen to our dialogue again and move back shortly
+
+
+Actually, now we have three key phrases that we found in this dialogue. So let's take a look at them now in fluency build.Fluency builder this first phrase is the topic of today's lesson. A, we talked a little bit about measurements for a suit.Suits, but in particular we're getting a custom made suit.So this word custom made well. Custom is important. It means special or unique. There's no other like it. So we could talk about custom cars. That means a car that has been fixed.OK, so a custom made.For your height. For how big thingsc specifically for you?Right, so a suit that I buy at the department store is just a normal suit, but a suit that I have made for me is a custom made.And as you said, you can use it for cars, car or maybe, for example, a custom.Custom made kitchen. That means that you get to pick every single part of the kitchen that you want. Many people do that right? They have custom built or custom made homes? Yeah, that's, that's always something I wanted to do but I hear that it's much more expensive than getting a normal homemade. Alright, so that's the first key phrase now moving on   08:00
+
+First key phrase now moving on, when we talk about measuring, we say I measured, I measured the length of the street.Right. Or let's measure you so we can see how big you are. But if you notice in the dial
+
+So a little bit too short, but when you come to a place like China, and most people can get these.Made for them, they just look.Look fab looks very, very nice.Yeah, so
+
+
+
+
+
+
+* 197 Calling 911 
+A: Alright class, now that we’re all dressed up let’s see what professions you chose. Ah, I see a fireman, a police officer, a medic, and a lifeguard! Can anyone tell me what these people have in  common?
+B:They save people from bad things?
+A: That’s right! Now class, if something bad happened and you had to get help, do you know what  phone number you would call?
+C: 911!
+A: Yes, you would pick up the phone and dial 911. What are some emergency situations where you would need to dial 911?
+B: If my grandpa has a heart attack!
+C: If there is an accident!
+B: If a robber breaks into the house!
+C: If the fire alarm goes off!
+B: Pff! I wouldn’t call 911 if the fire alarm went off in my house. The only time that ever happens is when we’re having spaghetti for supper, and Mom burns the garlic bread, as usual.
+
+
+ dressed up 穿上盛装的;装扮成…的 ; 伪装成…的 
+garlic [ˈɡɑrlɪk] n.【植】大蒜
+spaghetti [spəˈɡeti] n.意大利细面条
+
+plural[ˈplʊrəl]n. 复数（形式） adj. 复数的，
+official capacity /əˈfɪʃl kəˈpæsəti/  正式身份;公职权力，官方权力；法定资格 
+medic [ˈmedɪk] n.救护人员
+bruise [bruz]     v.擦伤；使成瘀伤[暗伤]；碰伤    n.擦伤；(感情受到的)伤害    网络青肿；击痕；瘀青
+protect [prəˈtekt] v.保护；防护；
+ends up 最终 ; 结束 ; 下首
+veterinarian [ˌvet(ə)rɪˈneriən] adj.同“veterinary” n.兽医
+astronaut [ˈæstrənɔːt] n.航天员；【天】宇航员；太空人
+
+
+*  199 Learning About Aid
+
+
+
+
+*  200 Junk Food
+
+A: I’m hungry, let’s grab a bite to eat.
+B: Sure! How about we go home and prepare a couple of sandwiches?
+A:Nah! Let’s go get a burger and fries.
+B:All you ever do is have unhealthy fast food Pizza,  fries, burgers and hot dogs! You have to start eating better!
+A:What are you talking about? I have salads sometimes.
+B: Yeah right! I’m serious! You should also cut down on your sugar intake as well. You drink carbonated drinks that are high in fructose syrup! It’s  really not healthy!
+A:Fine! I’ll start drinking and having home cooked meals that are low in fat. Are you happy now?
+B:It’s a start, but I’ll be happy when I see you stick to your promise!
+
+carbonated[ˈkɑːrbəneɪtɪd]adj.碳化的;   含二氧化碳的
+syrup [ˈsɪrəp] n.糖水（罐头水果常用）；糖浆
+fructose [ˈfrʌkˌtoʊs] n.果糖
+stick [stɪk] v.粘贴；刺；忍受；戳 n.条；枯枝；
+intake [ˈɪnˌteɪk] n.吸收；吸
+
+combination [ˌkɑmbɪˈneɪʃ(ə)n] n.组合；【数】组合；【化】化合(物)；【矿】聚形    网络结合；联合；混合
+greasy [ˈɡrisi] adj.多油的；油污的；沾
+mustard [ˈmʌstərd] n.芥；芥菜；芥末酱；芥菜叶 网络芥茉
+ketchup [ˈketʃəp] n.番茄酱 网络蕃茄酱；
+relish [ˈrelɪʃ] v.喜欢；享受；从…获得乐趣；渴望 n.享受；乐趣；风味佐料（用水果和蔬菜煮后制成的冷稠酱汁） 网络意味；调味品
+
+announcement[əˈnaʊnsmənt]n.通告；宣告 网络公告；通知
+nonetheless[ˌnʌnðəˈles]adv.尽管如此;  
+in general what are we talking about?
+opposed[əˈpoʊzd] adj. 反对的，敌对的；相反的，对立的 v. 反抗，阻
+proper [ˈprɑpər]adv.非常；好好地；完完全全地；彻底地 adj.正确的；恰当的
+fizzy [ˈfɪzi] adj.起泡的 网络嘶嘶的；泡沫腾涌的；有气泡的
+ingredient [ɪnˈɡridiənt] n.成分；要素；（尤指烹饪）材料
+ a small amount 少量 ; 少量的 ; 很小的量
+ lessen [ˈles(ə)n]     v.减轻    网络减少；缩小；变小
+
+
+
+*  201 At The Post Office
+
+priority [praɪˈɔrəti] n.优先；优先权
+up to  : at least 
+via[ˈviə] prep.通过；经由 n.道路；【
+fragile [ˈfrædʒəl] adj.易碎的；
+
+
+
+
+A: Welcome to the National Post. How may I help you?
+B: Hi, I would like to send this package to China, and these postcards as well.
+A: Very well. You will need some stamps for the postcards and I need to weigh that package, too.
+B: Great. How much is this going to cost?
+A: Well, it depends. Do you want to send it via priority, express or standard mail?
+B:What’s the difference?
+A:Well, standard mail can take up to fifteen working  days . Priority is a bit faster and will arrive in about five to eight working days. Express is the fastest, but it’s also the most expensive. It only takes three  days and you can track your package online.
+B:I see. Well, there’s no rush. Please send it via priority mail. Please be extra careful, the contents of the package are fragile.
+
+
+prove[pruːv]v. 证实，证明；证明是，结果是；显示（自己的）才干（或勇气）（prove oneself）；<法律> 检验，认证（遗嘱）
+feathers[ˈfeðər] n. 羽毛（feather 的复数）；翅膀；羽状裂缝 v. 为……装上羽毛
+
+circumstance[ˈsɜːrkəmstæns] n. 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇
+indication[ˌɪndɪˈkeɪʃ(ə)n] n. 指示，标示；象征，暗示，迹象
+
+
+acid[ˈæsɪd]adj.酸的;   酸性的
+apparently [əˈperəntli] adv.显然；可见；
+
+
+
+
+
+
+
+*  206  Talking To Your Roommate
+
+B:Well, while we are at it, stop bringing your friends over for drinks every weekend. You always leave a mess and keep me up all night!
+
+
+torrent [ˈtɔrənt] n.急流；激流；洪流；湍流 网络种子；种子文
+
+what I  am getting at  :what I am trying to say
+way more : much more, a lot more
+ in the sense of 在某种意义上 ; 从…意义上说
+
+ dread [ˈdredəd] v.害怕；担心；〔古语〕敬畏；预感到 n.害怕；
+ fear [fɪr] v.害怕；担心
+  amount of money 金额 ; 款额
+colloquial [kəˈloʊkwiəl] adj.会话的；口语的
+Right, like a hint. tips
+attractive [əˈtræktɪv] adj.迷人的；楚楚动人的；吸引人的
+
+
+*  207 Shopping Online
+
+A: What are you doing?
+ I'm just looking for  a nice pillow on ebay.
+A:You are shopping for a pillow online? That’s absurd!
+B: Why? I don’t have to leave the house or browse a dozen stores to find what I’m looking for. This  way, I just search for it online quick and easy.
+A:I see, but how do you pay for it? How do you know you aren’t going to be ripped off by the seller?
+B:Well, the website handles a point system where if the seller does something wrong, people comment negatively and then you know that he or she may not be trustworthy.
+A:Wow, that sounds pretty safe. So how do you pay? Do you need a credit card?
+B:You can use a credit card or your debit card. They  also let you use the PayPal system which is really safe and fast. I have never had any problems with someone hacking my information or anything.
+A:Do you think I can find a sweater for my dog online?
+B:You can find anything! Are you sure you want to start shopping online though? Once you step into this world, there is no turning back!
+ A:Let’s do it!
+
+
+absurd [əbˈzɜrd] adj.荒唐；不合理的
+
+ripped off[rɪpt ɔːf] 敲竹杠;   被敲竹杠;   被宰
+point system 系统 ; 积分制 ; 点制 ; 
+ debit card 借记卡 ; 借方卡   [ˈdebɪt]
+leisurely [ˈliʒərli] adv.悠闲地；慢悠悠地
+casually [ˈkæʒjʊəlɪ] adv.偶然；临时 随意地
+trustworthy [ˈtrʌs(t)ˌwɜrði] adj.值得信任的；
+used 适应 ; 习惯于 ; 用过的 ; 旧的 ; 二手的 
+So we don't say in the Internet, we say we are on the Internet
+purchase books  [ˈpɜrtʃəs] n.购买；采购；购买的东西；购买项目 v.购买；采购
+practical [ˈpræktɪk(ə)l] adj.实际的；真实的
+haggle [ˈhæɡ(ə)l] n.讨价还价；争论 v.争辩
+negotiate [nəˈɡoʊʃiˌeɪt] v.谈判；〈口〉通过；议定
 
 *   235  没主持人文本
 
@@ -2411,6 +2981,20 @@ refreshments[rɪˈfreʃmənts]: drinks  n. 点心；[食品] 茶点；小吃
 filled [fɪld] adj.满的；充气的；加载的
 fill me in give me more information
 interviewee [ˌintəvjuːˈiː] n.被面试者；被采访者网络被接见者
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *  238 Interview Skills Part2 - Discussing Your Background
 
@@ -2575,6 +3159,30 @@ hesitate 犹豫 ; 迟疑不决 /ˈhezɪteɪt/
 expect to 期待
 decision [dɪˈsɪʒn]n. (作出的)决定，抉择
  
+
+
+
+
+
+
+
+*  357 Making A Dinner Reservation
+
+A: Bruno Bistro, how may I help you?
+B: Yes hello, I would like to make a reservation [ˌrezərˈveɪʃn]
+A:Certainly sir, For which day and time please?
+B:Tonight at seven.
+A:I’m sorry sir, but we are fully booked tonight until  eight.
+B:In that case, eight o’clock is fine.
+A:Very well, and how many people will attend  tonight? /əˈtend/
+B:Four people.
+A:Lastly, may I please know what name I should  make the reservation under?
+A:Mark.
+
+
+
+bistro[ˈbiːstroʊ]    n. 小酒馆
+
 
 
 
