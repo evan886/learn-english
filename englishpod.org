@@ -1,5 +1,11 @@
 *  Pre
-    PDF：是对话和单词的文本
+
+Nov 04 2023   learned  147 lessons 
+
+最后读一句就录音一下 看一下自己同不同 apps 就是我常常用的audacity 
+
+
+PDF：是对话和单词的文本
     文件名以dg后缀：一分钟左右的对话音频
     文件名以pb后缀：对话和讲解的连续音频
     文件名以rv后缀：对话中生词的讲解回顾
@@ -752,6 +758,8 @@ ref /ref/
 throw [θroʊ] v.扔；抛；丢；投
 referee [ˌrefəˈriː] n.裁判
 
+
+
 *  35  He’s not a Good Fit
 A:So, Lauren, I just wanted to talk to you quickly about our new customer support representative, Jason Huntley.
 B:Sure, what’s up?
@@ -1340,6 +1348,40 @@ series [ˈsɪriz] n.串联；一系列；连续；接连
 scuba divers /ˈskuː.bə ˌdaɪ.vɚ/ 水肺潜水员
 
 
+*  62  Job Interview II
+
+A:Thanks for coming in today, did you have any trouble finding us? Please take a seat.
+B:Thank you.
+A:So, let’s get started; tell me a bit about your educational background. B:Sure! Well, I graduated with honors from Chesterton University with a major in Business Administration, with a specialization in Information Management, and I minored in psychology. I chose this course of study for two reasons: I wanted to gain some practical, marketable skills, which the information management track provided, and I also feel that interpersonal skills are essential for professional success, hence the minor in psychology.
+A:Interesting. And, your postgraduate studies?
+B:Well, I am really passionate about consumer behavior, so I pursued a master’s in that area. I also strive to keep my professional skills current, so I continuously attend seminars and conferences related management and customer service.
+A:Very good. Now, tell me a little bit about your work experience. I see here that you previously worked at Oracle.
+B:Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management. I supervised and coordinated the customer support team as well as implemented new strategies to achieve better customer satisfaction.
+
+
+
+educational background  美 [ˌedʒuˈkeɪʃənl  
+honor    美: [ˈɑnərz]
+specialization [ˌspeʃ(ə)lɪˈzeɪʃ(ə)n] n.专门化；特化
+minor [ˈmaɪnər] adj.少数的；【
+psychology [saɪˈkɑːlədʒɪ] n.【心】心理学；
+track [træk]
+provided [prəˈvaɪdəd] conj.如果；假如；在
+hence [hens] adv.因此；由此
+postgraduate [ˌpoʊs(t)ˈɡrædʒʊət] adj.大学毕业后的；大学研究院的 n.研究生
+passionate [ˈpæʃ(ə)nət] adj.拥有（或表现出）强烈性爱的；情意绵绵的；怒不可遏的；热诚的  网络热情的；
+pursue [pərˈsu] v.追求；追赶
+
+strive[straɪv]vi.努力;   力
+current  [ˈkɜːrənt]
+seminar [ˈsemɪˌnɑr] n.(专家)研讨会；
+oracle [ˈɔrək(ə)l]
+breadth [bredθ] n.宽度；（知识、兴趣等）广泛  网络广度；幅面
+
+
+
+
+
 *  63  receptionist 
  A: Good afternoon. May I help you?
  B: Yes,I'm here to  see Joanna Stevens. I have an appointment  at four.
@@ -1388,6 +1430,65 @@ swearword [ˈswerˌwɜrd] n.骂人话
 
 
 *  66  Calling The Office
+
+*  70  Buy Underwear
+
+A:This sucks; I hate buying lingerie. Okay, just find  something and get out of here. Alright, these are  fine. Oh, no, don’t come over here, don’t come  over here.
+B:You look a little lost, can I help you?
+A:Um, I’m just having a look around. It’s my girlfriend’s birthday tomorrow. I’m trying to find her  something.
+B:Well, you can’t give her granny panties. Have  you thought about getting her some sleepwear?  We’ve got these lovely, silky nighties. Or, how about a nice panty-and and-bra set. Look, here’s a nice satin push-up bra, and you can choose a few different styles of undies to go with it.
+A:Sure that’s fine.
+A:This is so awkward...what ones do I pick? What  size is she?
+B:Well, do you want a thong, some bikini briefs, maybe this nice pair of lacy boy shorts?
+A:Just pick something and get the hell out of here.
+A:Um, I’ll go with these two.
+A:This is mortifying; I just want to get this over with.  She better thank me for this...
+B: Here you are, sir. I’m sure she’ll enjoy them.
+B:Finally!
+A:I’m sorry, sir. I’m going to have to take a look   inside your bag.
+
+sucks[sʌks]    n. 吸，吮 糟糕
+lingerie[ˈlɑnʒəri] n.女内衣
+
+panties [ˈpæntiz] n.女式内裤网络女短内裤
+undies[ˈʌndiz]n. （妇女或小孩的）内衣
+nightie [ˈnaɪti] n.〈口〉小睡衣
+ awkward    美: [ˈɔkwərd] 
+thong [θɔŋ] n.（用以系物或做皮鞭的）皮条；（背后为绳子一样窄条的）内裤  v.装皮带；用皮带系结；用皮带(鞭)打 丁字裤
+briefs [brifs] n.（男子或女子的）内裤
+lacy [ˈleɪsi] adj.网眼状的；蕾丝的；似蕾丝的
+
+mortify [ˈmɔrtəˌfaɪɪŋ]     v.抑制(情欲等)；【医学】(使)患脱疽；【植物；植物学】生枯斑；屈辱      网络令人悔恨；令人悔恨的；痛心的
+
+
+
+
+*  71 Happy Hour
+
+A:Hey man, what do you have on tap?[tæp]
+B:Heineken and Budweiser. We have a two-for-one  happy hour special.
+A:Cool, give  me a pint of Heineken and half a pint of Bud.
+B:Okay...A pint of Heineken and and half a pint of bud for table six! And what about some appetizers?
+A:Sure! Let’s have some nachos and mozzarella sticks.
+B:Okay. That’ll be 80 bucks.
+A:Wait... What!
+
+Heineken[ˈhaɪnəkən]喜力啤酒
+pint [paɪnt] n.品脱（容量单位，为 D 加仑，在英国等国家约合 0.568 升，在美国约合 0.473 升）
+bud [bʌd] n.芽；萌芽；
+nachos [ˈnɑtʃoʊz] n.墨西哥玉米片
+stick [stɪk] v.粘贴；刺；忍受；戳 n.条；
+mozzarella [ˌmɑtsəˈrelə] n.莫泽雷勒干酪（
+crime [kraɪm] n.罪；罪行
+liter [ˈlitər] n.〈美〉同“litre” 网络升；公升
+
+What about some appetizers : can be used to make a suggestion
+blender [ˈblendər] n.（电动）食物搅拌器网络搅拌机
+shake [ʃeɪk]  奶昔 v.摆脱；动摇；摇动；摇头 n.摇动
+
+
+
+
 * 72 You Are Fired
 
 preoccupied[priˈɑkjəˌpaɪd]    adj.心事重重；专注；一门心思
@@ -1500,6 +1601,38 @@ offensive  [əˈfensɪv]adj. 无礼的;   进攻性的;
 
 
 
+
+
+
+
+*  79 Funky Galaxy Battles
+A:They are breaking through! Set your blasters to  full power!
+B:Excellent job. Search the ship, she’s gotta be in here somewhere... bring her to me!
+C:Lord Hater, we have a survivor here...
+B:Where is she? Don’t make me destroy you, tell me where she is!
+D: Not so fast! She will no longer be your prisoner! It’s time you and I settled this once and for all!
+B: You are unwise to think you can defeat me. You  know nothing of the power of the obscure side!
+D: We will stop you...
+C:Lord Hater! We have an unidentified spacecraft taking off from the rear dock! They somehow managed to escape our tractor beam!
+B:After them!
+C:They are accelerating towards the speed of light We lost them, sir...
+
+funky [ˈfʌŋki] adj.节奏强适宜跳舞的；时髦独特的；恶臭的 网络胆战心惊的
+galaxy [ˈɡæləksi]
+blaster 英[ˈblɑːstə(r)] [发音] n. 导火线，爆裂药；爆破工
+
+prisoner [ˈprɪz(ə)nər] n.囚犯；犯人；
+obscure [əbˈskjʊr] n.朦胧；黑夜
+rear rɪr]adj.后面的，后部的，背部的;   （与前线相对而言的）后方的
+beam [bim] n.梁；光线
+accelerate [əkˈseləˌreɪt] v.加速；促进；速度增加
+
+sci-fi science fiction 的缩约形式 ; 同“science fiction”
+science fiction 科幻小说
+inspiration [ˌɪnspɪˈreɪʃ(ə)n] n.灵感；妙计；
+unidentified [ˌʌnaɪˈdentɪfaɪd] adj.未知的；不明的
+impenetrable [ɪmˈpenətrəb(ə)l] adj.不可进入的；穿不过的；无法透视的；不可理解的 网络不能穿透的
+poetic [poʊˈetɪk]    adj. 诗的，诗歌的；充
 
 
 
@@ -1643,6 +1776,23 @@ confess [kənˈfes] v.忏悔；坦白
 claim [kleɪm] n.索赔；宣称；声明
 whereabouts Kind of unknown location [ˈhwerəˌbaʊts] n.下落；行踪；
 tragedy [ˈtrædʒədi] n.悲剧；【文】(文学)悲剧 灾难
+
+
+*  95  Talking About A Past Event
+
+A: Mike! What's going on/Hey, how are you, man! Long time no see!
+B:Hey, Pat! Yeah, I haven’t seen you in ages! How are you?
+A:I’m doing great! It’s funny running into you like  this. Just last week I ran into Matt as well.
+B:Yeah? How’s he doing?
+A:He’s doing well. We went out for a couple of beers and the funniest thing happened.
+B:Oh yeah?
+A:Well, we were talking and catching up on what  we’ve been doing, talking about work and family,  when all of a sudden, Matt saw a mouse run under his chair and he completely lost it! He started freaking out, and screaming...
+B:Ha ha, really?
+A:Yeah, and the funniest thing was, that he jumped on to his chair and started shrieking like a girl.  You should have been there! Everyone was staring and laughing... it was hilarious!
+
+screaming( screaming, screamed, screams )  [ˈskriːmɪŋ]    adj. 尖叫的；使人惊叹的；
+shriek [ʃrik] v.惊喊；引人注意；令人
+hilarious [hɪˈleriəs] adj.令人捧腹的
 
 
 *  100  Where  are you from
@@ -1936,6 +2086,41 @@ everything was cool :  everything  was okay
 
 
 
+*  117 I'm Sorry I Love You IX
+06:00 主持
+Steven:  Veronica wait! Come on honey, get back in  the car. Let’s talk it over, okay?
+Veronica: No! I’m tired of your lies! I don’t know who you are anymore!
+Steven:Veronica. It’s me, the man that has and always will love you. I’m sorry that I’ve lied to you. Believe me, it’s been so hard for me as well, and time and again, I’ve thought of  coming clean. But, I couldn’t put you, or my mission at risk. It’s all over now. My assignment is complete and now I have to go back to India.
+Veronica: What? Are you kidding? Is there anything  else I should know before I never see you  again? How could you deceive me like that?
+Steven: Yes... Veronica... I know that this isn’t the best time and that you probably hate  me right now but, I want to be completely forthright with you. I know deep in my heart  that you are the best thing that has ever happened to me. Veronica... will you marry me? Come with me to India baby, I can’t make up for everything that’s happened, but I can promise you my undying love. I will be the most devoted husband, and I will cherish you always.
+Veronica:  Steven... I can’t just leave everything at the drop of a hat! With everything that has happened between us, I just don’t know you any more. I just can’t build a relationship on a foundation of lies. I do love you but... I can’t go with you. I’m sorry... I love you... 
+AIRPORT:This is the last call for flight eight one five from Los Angeles to Hyderabad.
+Airline worker:  I’m sorry sir we can’t wait any longer you  must board the plane. Are you waiting for  someone?
+S: I was but, I don’t think she is coming...
+
+
+time and again 反复 ; 再三
+coming clean 坦白；未来清洁
+risk [rɪsk] n.风险；危险
+assignment [əˈsaɪnmənt] n.任务；布置 
+deceive [dɪˈsiv] v.欺骗；蒙骗
+forthright [ˈfɔrθˌraɪt] adj.直率的；直截了当的；坦诚的  direct 
+undying [ʌnˈdaɪɪŋ] adj.永恒的；永久的；
+devoted [dɪˈvoʊtəd] adj.挚爱的；忠诚的；全心全意的
+cherish [ˈtʃerɪʃ] v.珍爱；爱护；
+ at the drop of a hat 毫不犹豫地;非常乐意地 
+drop[drɑp] n.滴；水珠；少量；微量 v.使落下；（故意）降下；累倒；累垮 网络丢弃；
+penultimate [pəˈnʌltɪmət] adj.倒数第二的
+why don’t we go straight into the dialogue
+
+proposed [prə'poʊzd] adj.建议的；提出的；推荐的 v.propose（建议、提出、求婚）的过去式和过去分词
+realistic [ˌriəˈlɪstɪk] adj.现实的；实际的；实事求是的；明智的
+
+debate[dɪˈbeɪt]n.(在公共集会上或议会里就某问题进行的、常以表决结束的)辩论;   (各自发表不同意见的)争论，讨论
+
+
+
+
 *  118
 
 A: Honey, the baby is up again.
@@ -2120,6 +2305,35 @@ come up with 想出，提出 ; 赶上，
 pump[pʌmp] n.泵；(浅口无带的)轻舞鞋；抽机作用；抽运 v.注入；
 profound [prəˈfaʊnd] adj.巨大的；深切的；深远的
 
+
+
+
+*  128  I'm Sorry I Love You X
+
+Gulam: Steven! Good to see you brother! How are you? How was your trip?
+Steven: It was fine. I’ve been better but, it’s great to  be home, I’ve missed you all! How’s mom?
+Gulam:She’s great! All she ever does is talk about you -her little boy that went to the United States. You’re her pride and joy, you know that?
+Steven:Can’t wait to see her. And you? What’s new  with you?
+Gulam:Well, Nisha and I are expecting! You’ll have  another nephew or niece soon!
+Steven:That’s great! Wow! Congrats! You two are great together, ya know. You have such a beautiful family. I hope one day I can have that.
+Gulam:Of course, man! Come on! I mean, everything was set here for you to marry Shalini! You know, she’s still pining after you. I don’t think she’ll ever get over you.
+Steven:What are you talking about? I hardly knew  her! How could she be in love with me? I  couldn’t go through with it even though she  is a great woman. No, I left my heart in the  United States. I just hope Veronica is happy.
+Gulam:Get over it! You’re home now. Everyone  here thinks so highly of you; there’ll be girls  throwing themselves at you. You can marry anyone you want!
+Steven:I don’t want to marry anyone! I want to  marry her! Don’t you understand?
+Gulam:You are incorrigible.
+Liliana:Steven! My baby how are you! I’ve missed  you so much!
+Steven:Hey, mom! Great to see you!
+Liliana:You look so thin! Didn’t those Americans  feed you? Come come, let’s have some  chai. By the way... There is a girl here waiting for you.
+Veronica: Hi Steven.
+Steven: Veronica! How did you get here? How did  you know where I live? I waited for you at  the airport but you never showed...
+Veronica: I also have some little secrets that I haven’t  told you about, but we can discuss that later. I realized that I was just scared. Scared of how much I love you and of the commitment  that marriage requires. I’m here now. Now  there is something I wanna ask you. Steven, will you marry me?
+Priest: I now declare you, husband and wife. You  may kiss the bride.  [dɪˈkler]
+
+pine ['paɪnɪŋ] v.渴望；消瘦；憔悴；郁郁寡欢 n.【植】松树；松木；菠萝
+incorrigible [ɪnˈkɔrɪdʒəb(ə)l] adj.无法改正的；屡教不改的 n.不改悔的人  无药可救的
+ chai 茶 
+commitment [kəˈmɪtmənt] n.承诺；投入
+desire[dɪˈzaɪr] n.欲望；渴望；愿望；情欲 v.渴望；期望；
 
 
 *  130  Going  TO  The Gym
@@ -2629,13 +2843,6 @@ jerk [dʒɜrk] v.使(某人或某物)猛的一动  混蛋
 thirsty [ˈθɜrsti]adj.渴望；渴求；  我听成30了
 thirty [ˈθɜrti]   30 
 
-
-
-
-
-
-
-
 *  153  homesick
 Sarah:  Tom! How are you? We missed you at the  party last night. Are you ok?
 Tom: I don’t know. I didn’t really feel like going out. I guess I’m feeling a little homesick.
@@ -2695,6 +2902,50 @@ conjunction [kənˈdʒʌŋkʃ(ə)n] n.连词；同时发生；（恒星、行星
 
 
 
+
+*  172 Dry Cleaners
+
+A:Thank god you are open! I have an emergency!
+B:Hello Mr. Henderson what can I do for you?
+A:I need this dress and this suit dry cleaned ASAP!
+B:OK, I can have it ready by the end of the week.
+A:No you don’t understand, I need this tomorrow morning! I accidentally spilled beer all over my wife’s dress and we have a wedding to attend tomorrow! She’s gonna kill me!
+B:Ok, I can have it ready tomorrow afternoon, but this suit is also very stained. I can’t guarantee we can remove it completely.
+A:Fine! Can you also iron and starch this shirt?
+B:Certainly.
+A:Great! This is our secret! If you see my wife, say
+nothing to her about this!
+
+spill [spɪl] v.溢出；涌出
+suit [sut] v.适合；合适；讨好(某人)；使适宜 n.诉讼；花色；一套衣服
+stained [steɪnd] adj.沾污的；有瑕疵或污点
+iron [ˈaɪrn] n.铁；熨斗；铁器；金属工具 adj.坚强的；强硬坚定的  v.（用熨斗）熨
+starch [stɑrtʃ] n.淀粉；含淀粉的食物；（浆衣服、床单等用的）淀粉浆 v.把（衣服、床单等）浆一浆
+
+
+
+* 181 Christmas Day  Oct 29
+
+grouch [ɡraʊtʃ] n.牢骚；好抱怨（或发牢骚）的人 v.发牢骚
+
+
+A:Dad, dad, dad! Wake up! It’s Christmas!
+B:Timmy. It’s too early for this. Look, it’s six in the  morning! Go back[bæk]  to bed![bed]
+A:No way! Santa already came and left all our presents! Can we go open them? Please! Please!
+C: Of course we can honey. Bill,come on, get dressed.
+B:Fine! Not like Santa brought me any gifts!
+C:Bill! Honestly, you can be such a grouch sometimes.
+A:Look at all these presents under the Christmas tree! Awesome
+B:Alright Timmy, knock yourself out. We should get  ready and head to the market to buy everything for the Christmas dinner tonight.
+C:Yeah you’re right. It’s the first time we are hosting Christmas dinner at our house so everything has to be perfect.
+B:I got the list right here. Ham, turkey, mashed potatoes, ingredients for the gravy and of course, yams!
+C:My dad offered to bring the eggnog so we should  be set!
+
+grouch [ɡraʊtʃ] n.牢骚；好抱怨（或发牢骚）的人 v.发牢骚
+yam [jæm] n.【植】薯蓣属植物；〈英〉马铃薯；〈美〉甘薯 网络山药；
+mash [mæʃ] n.麦芽浆；(喂牛马的)面粉[米糠]浆；捣成糊状的东西
+gravy [ˈɡreɪvi] n.（调味）肉汁；
+ingredients [ɪnˈgridiənts]
 
 *  185 Farm Animals
 A:Isn’t this great? I always wanted to own a farm,  live out in the country, grow my own food!
@@ -2914,6 +3165,36 @@ apparently [əˈperəntli] adv.显然；可见；
 
 
 
+*  203 Calling Tech Support        Oct 28 
+
+Tech: Hello, thanks for calling 123TechHelp, I’m Todd. How can I help you?
+Client: Hello? Can you help me? My computer! Oh man...
+Todd:It’s okay sir, calm down. What happened?
+Client:I turned on my laptop and it broke! I mean,  the monitor went black!
+Todd:Ok, sir, it sounds like you might have a virus.
+Client:I don’t feel sick,...let me check... Nope! No  fever, I’m fine.
+Todd:No, your computer might have a virus, I mean, it has a bad program on it. Maybe  that’s why it crashed. I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
+Client:Phew! . . . . . . Wait a minute, CRASH??!!  Spyware? Trojans! What? where? when?!
+
+
+tech[tek]n. 技校
+fever [ˈfivər] n.发热；发烧；狂热
+unwanted [ʌnˈwɑntəd] adj.不需要的；多余的
+spyware [ˈspaɪˌwer] 网络间谍软件
+Trojan [ˈtroʊdʒən] n.〈口〉勤勉的人；拳击家；酒友；特洛伊人  adj.特洛伊 城[人]的 木马；
+freeze [friz] n.冻结；停止；
+anguished [ˈæŋɡwɪʃt] adj.悲痛的
+interjection [ˌɪntərˈdʒekʃ(ə)n] n.感叹词；感叹语
+further [ˈfɜrðər] adv.进一步；此外
+explain [ɪkˈspleɪn] v.解释；说明；
+fable [ˈfeɪb(ə)l] n.寓言；〈集合词〉神话
+ancient [ˈeɪnʃənt] adj.古代的；古老的；很老的
+n.（尤指古埃及
+
+
+
+
+
 *  206  Talking To Your Roommate
 
 B:Well, while we are at it, stop bringing your friends over for drinks every weekend. You always leave a mess and keep me up all night!
@@ -2994,6 +3275,34 @@ interviewee [ˌintəvjuːˈiː] n.被面试者；被采访者网络被接见者
 
 
 
+
+
+*  236 Trying  To Sleep
+Jill: Alex, what’s up with you? You look dreadful!
+Alex: Hey Jill, I don’t know. I’ve been having trouble sleeping these past few weeks. I usually lie in bed for hours trying to get to sleep . I’ve tried  stretching and different breathing techniques before going to bed . I’ve tried eating and not eating different foods. I’ve even tried counting  sheep! And then when I finally get to sleep , I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep .
+ill: Wow, maybe you should get that checked out. Maybe you’re stressed?  [strest]
+C:Just take some sedatives! Works for me! Every  so often having some melatonin on hand helps  me when I have trouble sleeping .It works on all kinds of sleeping disorders . It’s the stuff pilots use to regulate their sleeping patterns .
+Jill:I heard of that. But does that apply to Alex’s situation?
+C:Ya sure, why not ? Sounds like he only has  transient insomnia since it’s a recent thing so  taking melatonin do the trick.
+Jill:But shouldn’t he be looking into WHY it’s been happening?
+C:Well aren’t youthe little psychologist? Our  buddy’s having trouble sleeping , it’s easy and curable. It’s not something freakish like if he  was a sleepwalker.
+Alex:Well, there’s that too.
+
+stretch [stretʃ] v.伸展；伸长；绷；展开 n.延伸
+breathing [ˈbriðɪŋ] n.呼吸
+technique [tekˈnik] n.方法；技能
+disturbing [dɪˈstɜrbɪŋ] adj.引起烦恼的；令人不安的
+sedative [ˈsedətɪv] adj.镇静的；镇定的；止痛的 n.【医】镇静剂；止痛药
+melatonin [ˌmeləˈtoʊnɪn] n.退黑激素
+disorder [dɪsˈɔrdər] n.混乱；骚乱；(身心机能的)失调；不合手续 v.使混乱；使(身心等)失调 网络障碍；
+pattern [ˈpætərn] n.模式；方式
+transient [ˈtrænziənt] adj.短暂的；转瞬即逝的
+ do the trick 获得成功[trɪk]
+
+ insomnia [ɪnˈsɑmniə] n.失眠（症
+psychologist [saɪˈkɑlədʒɪst] n.心理学家；
+curable [ˈkjʊrəb(ə)l] adj.可医治的(don)
+freakish [ˈfrikɪʃ] adj.怪异的；反常的；
 
 
 *  238 Interview Skills Part2 - Discussing Your Background
@@ -3130,6 +3439,19 @@ opportunity /ˌɑːpərˈtuːnəti/ 机会
 
 
 
+* 262 Interview Skills Part10 - Concluding the Interview
+
+concluding [kənˈkludɪŋ] v.“conclude”的现在分词 网络结论；结束的；终决的
+ main points 要点，大意
+  status [ˈstætəs] n.地位；身份；情形；法律地位（或身份
+contract [ˈkɑnˌtrækt] v.收缩；订约；感染n.【法】合同
+spring to mind : be remembered; comes to mind
+hesitate 犹豫 ; 迟疑不决 /ˈhezɪteɪt/
+expect to 期待
+decision [dɪˈsɪʒn]n. (作出的)决定，抉择
+
+
+
 * C0259
 文本有错 有人说没错 the organization, for example, how big is your office here?
 
@@ -3148,21 +3470,243 @@ ideal aɪˈdiːəl] adj. 完美的;理想的;不切实际的;  n. 理想;
 How about  --> what do you think  ,so   don't ever ask  how about your weekend , how was  your weekend  that is right. 
 
 
-* 262 Interview Skills Part10 - Concluding the Interview
+* 327 Buying A Pair of jeans
 
-concluding [kənˈkludɪŋ] v.“conclude”的现在分词 网络结论；结束的；终决的
- main points 要点，大意
-  status [ˈstætəs] n.地位；身份；情形；法律地位（或身份
-contract [ˈkɑnˌtrækt] v.收缩；订约；感染n.【法】合同
-spring to mind : be remembered; comes to mind
-hesitate 犹豫 ; 迟疑不决 /ˈhezɪteɪt/
-expect to 期待
-decision [dɪˈsɪʒn]n. (作出的)决定，抉择
- 
+A:Excuse me, can I try on this pair of jeans?
+B:Sure. Let me see... I’m afraid we don’t have any  size eights left.
+A:What are you talking about? I’m always a size  four. Here, I’ll try these.
+B:They seem a bit too tight. Shall I find you a larger size?
+A:No, they fit fine! They show off my curves perfectly!
+B:Yeah, your love handles. Yeah, they sure do, although... here, you forgot to close this button.
+A:Yeah right, I’ll do it now...
+
+curve [kɜrv] n.曲线；弯曲；弯曲物；曲线规 v.弄弯
+jeans [dʒinz] n.牛仔裤
+love handles [ˈlʌv hændlz]n.腰部赘肉;
 
 
 
 
+
+
+
+*  288  Getting A Tattoo
+
+A:I have made up my mind. I am getting a tattoo.
+B:Really? Are you sure?
+A:Yeah! Why not? They are trendy and look great! I want to get a dragon on my arm or maybe a tiger  on my back.
+B:Yeah but, it is something that you will have forever! They use indelible ink that can only be removed with laser treatment. On top of all that, I have  heard it hurts a lot!
+A:Really?
+B:Of course! They use this machine with a needle  that pokes your skin and inserts the ink.
+A:Oh, I didn’t know that! I thought they just paint it  on your skin or something.
+B:I think you should reconsider and do some more research about tattoos. Also, find out where the nearest tattoo parlor is and make sure they used sterilized needles, and that the place is hygienic.
+A: Maybe I should just get a tongue piercing!
+
+trendy [ˈtrendi] adj.时髦的；赶时髦的
+indelible [ɪnˈdelɪb(ə)l] adj.无法忘记的；不可磨灭的；（笔迹）无法消除的
+laser [ˈleɪzər] n.激光器
+treatment [ˈtritmənt] n.治疗；处理；待遇；疗法
+poke [poʊk] n.钱袋；钱包；(鱼的)鳔；同“pokeweed” v.伸出(头,指等)；把…指向
+paint [peɪnt] n.油漆；绘画颜料；油漆涂层  v.在…上刷油漆；
+tattoo parlor [tæˈtuː ˈpɑrlər]纹身店纹身店
+sterilize    美: [ˈsterəˌlaɪz]  v.消毒；
+hygienic [haɪˈdʒenɪk] adj.卫生的
+piercing [ˈpɪrsɪŋ] adj.锐利的；逼人的；尖利的；刺耳的 n.（耳朵、鼻子或其他身体部位为戴首饰打的）穿孔
+temporary [ˈtempəreri]    adj. 暂时的，临时的；
+
+*  289 Presentation Series 7  Handling Technical Problems
+
+Mr. Ford:Okay, so if we could dim the lights  Jonathan, we can kick-off with the first  TV advert. Please note that we are still in the early days with this advert, so it might seem a bit rough round the edges. Okay, so. just need to click this and the advert should pop up on the screen...
+Mr. Ford:Hmmmmmm. Sorry about this. Bear  with me me a second. There seems to  be a problem with the projector. Let me see. could you lend a hand a second?
+
+Jonathan:It looks like the projector is not recognizing the computer. Let me check the connection a second... Well the connection seems okay, and the computer is running normally.
+Mr. Ford: Okay. Sorry guys. Obviously a problem with the system. Let’s just reboot and start over. Let’s see if this resolves the issue.
+Jonathan: Right, lets try again. No, still nothing Michael. There might be a technical issue with the projector. I think maybe the  projector has overheated. We might need to cool it down for ten minutes and start again. I’ll call IT support to come over right now.
+Mr. Ford:Okay guys.  Unfortunately technical  problems do crop up from time to time, don’t they? But it’s not a huge problem. In   the meantime while the IT guys get to work on that I can talk a little bit more about the advertising concept and what we are looking to achieve overall with  this campaign.
+
+presentation [ˌprez(ə)nˈteɪʃ(ə)n] n.演出；发布会；
+
+dim[dɪm] adj.微暗的；暗淡的；悲观的；渺茫的v.把…得暗然失色
+advert [ˈædˌvɜrt] v.留意；提到 n.〈英口〉同“advertisement”
+rough [rʌf] v.虐待；(铁蹄上)装防滑钉；粗暴地说；惹怒 n.草稿
+projector [prəˈdʒektər] n.投影仪；放映机
+crop up 出现，发生  [krɑːp]
+concept   [ˈkɑːnsept]
+    n. 概念，观念
+achieve [əˈtʃiv] v.完成；（凭长期努力）达到
+
+campaign [kæmˈpeɪn] n.战役；运动
+reboot [ˌriˈbut] v.重新启动
+
+    
+*  322  Small Talk   Talking About Yourself
+
+Michelle: Excuse me, is this seat taken?
+Stranger: No, please feel free.
+Michelle: Thanks a lot.
+Stranger: Do you work in Shanghai?
+Michelle: Yes I do. How about you?
+Stranger: No, I’m a tourist. This place is amazing! It’s much bigger than I imagined, and much more exciting! There’s so much  to see here.
+Michelle: You can say that again! It’s much more modern than people imagine. Where  are you from? [ˈmɑːdərn]
+Stranger: Um, well let’s see.....I’m from Kansas originally. A much quieter and more peaceful place than here, that’s for sure!
+Michelle: Uh huh....
+Stranger: But I’m living in Paris right now.
+Michelle: Oh Paris! Wonderful, I’d love to visit some time!
+
+originally [əˈrɪdʒən(ə)li] adv.原来；起初 网络本来；
+tourist [ˈtʊrɪst] n.游客；
+small talk[ˈsmɔːl tɔːk]    闲聊：指在社交场合中进行的简短
+
+*  325  Talking About  A Trip
+
+Europe[ˈjʊrəp]    n. 欧洲；欧盟；（除英国以外的）全欧洲
+sight [saɪt] n.名胜；风景；瞄准；视觉v.瞄准
+floor uk/flɔːr/ us/flɔːr/
+
+
+Jim:Hey Michelle. Good to see you. Are you  at lunch?
+Michelle:Oh hi Jim. No I just got back. I thought  you were on vacation now.
+Jim:No, I wish I was! I just got back from Spain actually.
+Michelle:Oh wonderful! Have you been there before or was it your first time?
+Jim:My first time. I’ve traveled around Europe a lot, but this was my first time to Spain. It was amazing, and the weather was just beautiful! No rain, and just sun, sun, sun....
+Michelle:I’m so jealous of you. I’ve never been anywhere in Europe. I’ve always  dreamed of traveling around and seeing the sights.
+Jim:Well, I really recommend Spain. You really should go.Anyway, it’s been great to catch up, but I must be going, this is my floor. Speak again soon I hope.
+Michelle: For sure. Take care.
+
+
+*  332  Setting Up Your Voice mail Message
+
+A: Can you help me set up my voicemail message? I  just got this service and I am not really sure what  I am supposed to say.
+B:Sure! You just basically gotta let the caller know  who they called, and ask them for their contact  information so you can call them back.
+A:Ok, so can I say, “ This is Abby’s voicemail. I will call you later, so leave me your name and number”.
+B:That’s more or less the idea, but try something that sounds more friendly.
+A:Ok, so how about this, “ This is Abby and I am really happy you called! I promise I will give you  a ring as soon as I can, so please leave me your  name and number. Talk to you soon!”.
+B:A little too friendly Abby. Just say this, “ Hi, you have reached Abby. I am unable to answer your  call right now, but if you leave me your name and  phone number, I will get back to you as soon as  possible. Thanks”.
+A: That’s perfect! Can you say that again and record  it for me?
+
+
+* 336 Christmas Traditions
+A:What are you doing awake?
+B:I can’t sleep...
+A:But it’s almost midnight!
+B:Exactly. I’m too excited for Christmas morning.  Also, I thought I heard Santa.
+A:Really? How do you know it was Santa?
+B:Well I heard that naughty boys and girls get coal in  their stockings, so I thought I’d be nice and make  Santa cookies. I even left out some milk. I heard someone in the kitchen eating the cookies, so I  came downstairs!
+A:Hmm... well I know that Santa won’t come down  the chimney with you hiding behind the tree, spying on him!
+B:Really?
+A:Really! Let’s go back upstairs and get back to  bed. That way, we can let Santa do his job. Then  when you wake up, it will be Christmas already!
+B:O-K...
+A:Hey, honey! Is that you? Don’t eat all the cookies - I want some, too! #最后这句终于在最后没看文本前听清了
+
+chimney[ˈtʃɪmni] n. 烟囱，烟道；
+coal [koʊl] n.煤；煤炭
+stocking[ˈstɑkɪŋ] n.长袜；
+ left out 遗漏 ; 省去 ; 不考虑 ; 没有考虑 
+
+*  341  Baking A Cake
+
+A:Ok, so are you ready to learn how to bake a cake?
+B:Almost, let me just put my apron on. 
+A:Ok, so the first thing we are going to do is preheat the oven, that way we have it at the desired temperature once we finish preparing everything.  Set it to three hundred and seventy five degrees Fahrenheit.
+B:Got it.
+A:No we are gonna make the batter. Take some  butter and sugar and mix it lightly until you have a nice consistency. Then add some vanilla extract  and eggs and continue mixing.
+B:Do I have to use a whisk or can I use the electric  mixer?
+A:Go ahead and use the mixer, but put it on medium  speed. I’m gonna sift the flour and baking powder  separately and then we can mix it with milk and  the rest of the ingredients.
+B:Ok, so now we need a baking pan right?
+A:Yeah, but grease and flour it first so the cake won’t  stick to it when it bakes.
+B:Done. So how long do we bake it for?
+A:We can leave it in there for about twenty five minutes. Then we let it cool for ten minutes before we remove the cake from the pan.
+B:Wow! This was a lot easier than I thought!
+
+
+apron [ˈeɪprən] n.围裙；（机场的）停机坪
+desired [dɪˈzaɪrd] v.“desire”的过去分词和过去式
+fahrenheit [ˈferənˌhaɪt] n.沸点为212°；Gabriel Daniel  adj.华氏温标的
+batter [ˈbætər] n.击球手；面糊（
+butter [ˈbʌtər] n.黄油；奶油
+consistency [kənˈsɪstənsi] n.一致性；连贯性；黏稠度；密
+vanilla [vəˈnɪlə] adj.有香子兰香味的；香草味
+extract [ˈekˌstrækt] n.提取物；摘录；精；节录 v.提取；
+whisk [wisk] v.搅拌；拂；迅速送走 n.搅拌器
+medium [ˈmidiəm] n.（传播信息的）媒介；手段；工具；方法 adj.中等的
+sift [sɪft] v.筛（面粉或颗粒较细的物质）；细查
+ baking powder 发酵粉
+ separately ['seprətli] adv.单独地；分别地
+ingredient [ɪnˈɡridiənt]     n.成分；【化】拼份    网络成份；材料；配料
+grease [ɡris] n.油脂；润滑脂；（炼过的）动物油脂 v.给…加润滑油；在…上涂油（
+
+
+
+* 342 At The Library
+
+A:Wow! Look at all these books! I bet I can find a book about anything here!
+B:Shhh!! Please keep your voice down. There are people reading and studying here.
+A:Ok, I’m sorry. Are you the librarian? Maybe you can help me, I am looking for a book.
+B:Yes I am. You can check our online catalog to  search the book you want based on the genre,  title or if you know the author, I can point you towards the right direction.
+A:I am looking for a book that has nursery rhymes.
+B:That would be in our children’s section. That book  shelf there on the right.
+A:Ok, I would like to check out these books.
+B:Do you have a library card?
+A:No. How do I get one?
+B:I just need to see your drivers license or utility bill  to prove that you a resident of this state.
+A:Here you go.
+B:So you are all set. You can have these books for  two weeks. If you need to have them longer, you  can bring them here to renew them. If you don’t,  you get charged ten cents a day for each book.
+A:Ok, thanks!
+
+
+
+librarian  us/laɪˈbrer.i.ən/ someone who works in a library, is
+catalog [ˈkætəlɔːɡ]    n. [图情][计]目录；登记     vt. 登记；为……编目录
+genre [ˈʒɑːnrə]
+    n. 体裁，类型；风俗画
+
+nursery rhymes 童谣 ; 儿歌 ;[ˈnɜːrsəri raɪmz]
+shelf 英 [ʃelf] 美 [ʃelf]     n. 搁板，架子；
+
+utility  [juːˈtɪləti] 美 [juːˈtɪləti]     n. （煤气、水、电等的）公共服务，公用事业；
+
+
+*  347 Immigration  and Customs
+
+A:Good afternoon, passport and arrival card please.
+B:Here you are.
+A:Where are you coming from?
+B:China.
+A:Is this your country of birth or residence.
+B:I just work there.
+A:What is the purpose of your visit to the United  States?
+B:I’m here on vacation.
+A:How long do you plan to stay in the United States?
+B:Almost three weeks.
+A:Sir, you didn’t fill out the information on your arrival card of where you will be staying. (stay not states)
+B:Oh, I’m sorry, but there are a couple of different  places I will travel to within the United States, so I  wasn’t sure what to put.
+A:You must specify an address of the place where you will spend most of your time.
+B:Ok, here you are.
+A:Do you have enough means to support yourself  while you are here?
+B:Yes. I have some travellers cheques and two  credit cards.
+A:Very good. Do you have anything to declare?
+B:Nope. I only have my clothes and camera!
+A:Very well sir, welcome to the United States, enjoy  your visit.
+
+specify  [ˈspesɪˌfaɪ] v.具体说明；明确规定；详述
+residence [ˈrezɪdəns] n.居住；住所
+cheque  [tʃek] n.支票
+declare [dɪˈkler] v.宣布；宣告；宣称；表明 网络声明；申报；
+
+
+*  355 Lending Money
+
+A:Can I borrow five bucks?  [bʌks]
+B:No!
+A:Come on! I’ll pay you back on Tuesday.
+B:Last time I lent you money, you never paid me  back.
+A:I promise if you lend me five dollars today, I will repay you in full next week.  [fʊl]   
+B:Ok, but I’m taking your skateboard as collateral.
+A:Fine! I can’t believe you don’t trust me.
+B:It’s nothing personal, just business.
+
+skateboard [ˈskeɪtˌbɔrd] n.滑板
+collateral    美: [kəˈlæt(ə)rəl] n.抵押物；担保品
 
 
 
@@ -3186,3 +3730,78 @@ bistro[ˈbiːstroʊ]    n. 小酒馆
 
 
 
+
+
+
+* 358 Text Me
+
+credit [ˈkredɪt] n.信用；信贷；功劳；声望 v.信用 amount of money that you have available tomake ca
+
+A: Why didn’t you text me last night?
+B:What? I sent you three or four messages!
+A:I didn’t get any of them. I was waiting for you to  text me the address of where the party was and I  never got your message.
+B:Why didn’t you just call? I hate sending SMS messages.
+A:Well, because I didn’t have any credit on my phone. I used it all up this month.
+B:I thought you had an unlimited SMS plan? [ʌnˈlɪmɪtəd]
+A:I do, but if I don’t have any credit in my phone, it  won’t let me call or send messages.
+B:No wonder you didn’t get my texts!
+
+
+
+
+
+*  359 E-mail Scam
+
+A:I got an urgent email from Tom! He says he is in  London and got robbed and needs us to wire him  some money for his hotel.
+B:What? That sounds really dodgy to me.
+A:No way, Tom is an honest person, he wouldn’t lie  to me.
+B:No I mean, it seems like someone may have  hacked his email account and sent that out. I mean think about it, why would he email you instead of calling you. 
+A:Do you really think someone is trying to scam  people into sending money?
+B:For sure! There are so many con artists: [ˈɑrtɪst]  out there,  you never really know.
+
+urgent [ˈɜrdʒənt] adj.紧急的；紧迫的
+rob [rɑb] v.抢劫；抢夺；掠夺
+wire [waɪr] 电汇 n.电线；导线
+dodgy [ˈdɑdʒi] adj.狡猾的；狡诈的；可疑的；有毛病的
+
+hacked[hækt]v.砍;   劈;   非法侵入(他人计算机系统
+scam [skæm] n.欺诈；诈财骗局
+con [kɑn] v.蒙 欺骗
+
+
+*  361  Fast Food
+A: I’m hungry, let’s order up something to eat.
+B: Ok, maybe we can order a soup and a salad from  the restaurant down the street.
+A: I was thinking of getting a hamburger, fries and a  chocolate sundae. [ˈsʌnˌdeɪ]
+B:You eat too much junk food. That sort of stuff clogs up your arteries and is very high in cholesterol.
+A:Well I never seem to gain weight so I don’t mind.
+B:It’s not only about getting fat or not, it’s about being healthy. You could really have some health problems later on.
+A:How about pizza or maybe some fried chicken!  Better yet, let’s order some hot dogs!
+B:You are a lost cause.  和你真说不通
+
+That sort of stuff 诸如此类的东西
+clog up   [klɑːɡz]      完全物理阻塞
+cholesterol [kəˈlestərɑl] n.胆固醇
+artery    美: [ˈɑrtəri] n.干线；【解】动脉
+
+
+
+
+* 363 Living With Your Parents
+
+A: Why did your girlfriend break up with you?
+B:I don’t know, she said she was tired of me not manning up and being more independent, which I think is all a bunch of crap.
+A:Well, you still live with your parents, so she does  have a point.
+B:What do you mean? Lots of people live with their parents, especially when rent is so expensive and the slump in the economy.
+A:Yeah, but you are almost forty! Plus, you make  good money so there is really no excuse. It’s simply because you are a momma’s boy.
+B:Whatever dude, I have everything I need, why would I move out! Have a great roof over my head, my mom does my laundry and cooks for me, what else could a guy ask for!
+A:Let’s agree to disagree.
+
+ tired of 厌烦
+ manning up 人情味 take responsibility for your actions  
+ a bunch of  一束 [bʌntʃ]
+ crap [kræp] n.废话；胡说；
+ slump [slʌmp] n.衰退；锐减；萧条期 v.猛跌；
+rent [rent]
+roof [ruf] n.屋顶；车顶；顶部；有…顶的 v.给…
+ 
