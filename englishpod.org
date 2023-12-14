@@ -1,7 +1,7 @@
 *  Pre
 最后读一句就录音一下 看一下自己同不同 apps 就是我常常用的audacity 
 
-Dec 07 2023 learned  179 or 176 lessons 
+Dec 14 2023 learned  180  or 176 lessons 
 Nov 28 2023 learned  178 lessons  最好能学到 200并review 
 Nov 04 2023   learned  150 lessons 
 
@@ -3351,10 +3351,10 @@ grazing ['greɪzɪŋ] n.牧场；草场 v.“graze”的现在分词
 
 *  188  Asking For A raise
 
-A:Well sir, as you know, I have been an employee of this prestigious firm for over ten years.
-
-
 prestigious    美: [preˈstidʒəs] adj.有威望的；声誉高的
+
+
+A:Well sir, as you know, I have been an employee of this prestigious firm for over ten years.
 
 firm [fɜːrm]
 
@@ -3403,6 +3403,53 @@ patty [ˈpæti] n.碎肉饼；鱼肉饼
 
 
 
+*  191
+
+A:Did you set your clock forward for daylight savings  time?
+B: What? Why do we have to do that?
+A:Well, at the start of the spring we usually have more daylight in the mornings and less in the  afternoon. This is basically due to our position on the planet and the rotation of the earth. In  any case, to take better advantage of the daylight available, we compensate by moving our clocks forward one hour.
+B:I see. That’s convenient! I never understood things like this, such as GMT. I never know what time zone we are in or when to change my clock!
+A:That just stands for Greenwich Mean Time. Here  in California, we are in Pacific Standard Time, that is eight time zones west of Greenwich. Remember when we were in Beijing? Well, then we were in China Standard Time, and that’s eight time zones east of Greenwich!
+
+B:  That’s why it was so weird traveling from Beijing  to LA! Because of the huge time difference, even  though we left Beijing at noon and flew for more than eight hours, we still arrived in LA the same day at noon! It’s like we went back in time!
+
+
+rotation  自转  [roʊˈteɪʃ(ə)n]    n. 旋转，转动；旋转一周（一圈）；轮流，交替；轮班
+advantage    美: [ədˈvæntɪdʒ] n.优势；优点；有利条件；有利因素 v.有利于
+advanced    美: [ədˈvænst] adj.先进的；高级的；高等的；（发展）晚期的 v.“advance”的过去分词和过去式
+compensate     美: [ˈkɑmpənˌseɪt] v.补偿；弥补
+
+region 美[ˈriːdʒən] [发音]n. 地区，区域；行政区；<英>（首都以外的）地方（the regions）；身体部
+
+
+*  192 Natural Disasters  [dɪˈzæstər]
+
+Bob: Those are the headlines for today, and now for the international weather report with Mike Sanderson.
+Mike: Thank you, Bob! This past week has been  the beginning of Armageddon for many, a series of unprecedented meteorological  events occurred around the world. In Switzerland, a major avalanche was reported in the Alps. Fortunately, no one was injured.
+Due to to the extreme cold this winter, a blizzard has struck the  US Midwest, causing classes in schools and universities to be temporarily canceled.
+
+Moving to to Latin American, Ecuador has suffered a six month drought that has not only affected farming, but has also forced the closure of the hydroelectric power plant that provides electricity for the entire country. In Chile, a major earthquake that registered seven point five on the Richter scale struck the southern region. Authorities have not yet released an official statement.
+Bob: Not a great week for the world!  Any good news?
+Mike: I’m afraid not, Bob. One of the major volcanoes in Mexico has erupted, causing major floods and landslides in the region.
+Meanwhile, Mexico ’s coast has been hit by hurricane Liliana and officials say that all the seismic activity leads them to believe that a tsunami may hit Central America, affecting Honduras,  Guatemala and Panama. That’s all the news we have for today, but stay tuned for updates  on the six o’clock news. Back to you Bob.
+
+ Armageddon     美: [ˌɑrməˈɡed(ə)n] n.世界末日的善恶大决战
+ a series of 一系列，一连串
+unprecedented     美: [ʌnˈpresɪdentəd] adj.前所未有的
+meteorological    美: [ˌmitɪərə'lɒdʒɪkl] adj.气象的
+avalanche    美: [ˈævəˌlæntʃ] n.雪崩；崩塌
+extreme     美: [ɪkˈstrim] n.极端；极限；极度 
+blizzard    美: [ˈblɪzərd] n.【气】暴风雪
+authorities 美 [əˈθɔːrətiz]    n. 当局，官方；
+latin    美: [ˈlætɪn] adj.拉丁语的；用拉丁语写成的n.拉丁语
+ hydroelectric power plant 水力发电厂 ; 水利发电站 [ˌhaɪdroʊɪˈlektrɪk]
+ drought    美: [draʊt] n.旱灾
+ Richter scale 里氏震级
+landslides [ˈlændˌslaɪd]  崩塌，塌方，滑坡
+ seismic activity 地震活动 ; 地震活动性  [ˈsaɪzmɪk]
+ tsunami 海啸 ; 海震  [tsuːˈnɑːmi] 
+stay tuned 敬请期待 ; 敬请关注
+ 
 *  C 196 Going  To The Tailor
 
 Oct 2023 
