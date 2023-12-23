@@ -2262,6 +2262,8 @@ everything was cool :  everything  was okay
 
 
 
+*  116 
+
 *  117 I'm Sorry I Love You IX
 06:00 主持
 Steven:  Veronica wait! Come on honey, get back in  the car. Let’s talk it over, okay?
@@ -2616,6 +2618,35 @@ involuntary [ɪnˈvɑːlənteri]adj. 无意识的;   不自觉的;   非自愿�
  simple past tense 一般过去式
 
 stuck [stʌk]adj. 动不了;   无法移动;   卡住;   陷住
+
+
+
+
+*  132 Mechanic  [məˈkænɪk]
+
+A:Howdy! Nice car! What seems to be the problem?
+B:I don’t know! This stupid old car started spewing white smoke and it just died on me. Luckily, I managed to start it up and drive it here. What do you think it is?
+A:Not sure yet. How about you pop the hood and we can take a look. Hmmm, it doesn’t look good.
+B:What do you mean? My daddy gave me this car for my birthday last month. It’s brand new!
+A:Well missy, the white smoke that you saw is steam from the radiator. You overheated your engine so now the pistons are busted and so is your transmission. You should have called us and we could have towed you over here when your car died.
+B:Ugh... So how long is this going to take? An hour?
+A:I’m afraid a bit more than that.We need to order the spare parts, take apart your electrical system, fuel pump and engine and then put it back together again. You are going to have to leave it here for at least two weeks.
+B:What! How am I supposed to get to school or go shopping? This is not happening!
+
+spew    美: [spju] v.喷；呕吐；涌出；渗出n.吐[呕]出物
+die on : to stop working or running while in use by someone
+steam    美: [stim] n.蒸汽；水蒸气；水汽；蒸汽动力v.蒸发
+radiator    美: [ˈreɪdiˌeɪtər] n.散热器；水箱
+piston    美: [ˈpɪstən] n.【机】活塞
+busted    美: [ˈbʌstɪd] adj.被当场逮住
+spare parts 备件 ; 配件 ; 零件 ;
+spare    美: [sper] v.抽出； 空闲
+ fuel pump 燃油泵
+ fuel    美: [ˈfjuːəl] n.燃料
+supposed    美: [səˈpoʊzəd] adj.误以为的；误信的；所谓的v.“suppose”的过去式和过去分词网络假定的
+spring    美: [sprɪŋ] n.春天；春季；弹簧；发条v.跳；跃
+neutral    美: [ˈnutrəl] n.中立国；（汽车排挡）空挡
+maybe a little bit reluctant to 也许有点不情愿 [rɪˈlʌktənt] 
 
 
 
@@ -3035,6 +3066,30 @@ alternative[ɔːlˈtɜːrnətɪv] n. 可供选择的事物，替代物 adj. 可�
 
 
 
+*   C 150  Bug  Spray
+
+A: The mosquitos are biting me!
+B: Me too, I can’t stop scratching. They are everywhere! Sneaky little jerks.
+A: Do you have any bug spray?
+B: No, I forgot to buy some.
+A: Then we’ll have to put up with it.
+B: We can cover ourselves with beer! That way if they bite us, they’ll get drunk and fall asleep
+A: That’s without a doubt, the best idea youve had!  Lets do it!
+B: Run! They are thirsty for more!
+
+boom [bum]  轰鸣 n.繁荣；吊杆；（某种体育运动、音乐等）突然风靡的时期；帆桁v.激增；繁荣昌盛；轰鸣；轰响
+itch[ɪtʃ] n.痒；热望；【医】疥癣；【医】痒 v.痒；极想 Web发痒；
+allergy[ˈælərdʒi] n.变态反应；过敏反应  Web过敏症；
+repellent [rɪˈpelənt] n.防水剂；驱虫剂 adj.使人反感的
+malaria [məˈleriə]n.疟疾Web瘴气；
+
+
+scratch [skrætʃ]n.抓；划痕；抓伤；擦伤 v.抓；抓伤[破]；(用爪,针等)搔；搔(痒)  adj.(船员,球
+spray [spreɪ]n.喷雾；喷剂；浪花；喷雾器 v.喷；喷
+sneaky [ˈsniki] adj.悄悄的；偷偷摸摸的；鬼鬼祟祟的 Web鬼祟的；卑鄙的；狡猾的
+jerk [dʒɜrk] v.使(某人或某物)猛的一动  混蛋
+thirsty [ˈθɜrsti]adj.渴望；渴求；  我听成30了
+thirty [ˈθɜrti]   30 
 
 *  152 Cut It Out
 
@@ -3061,30 +3116,6 @@ clip    美: [klɪp] v.剪辑；修剪；削减；固定 n.夹；
 
 
 
-*   C 150  Bug  Spray
-
-A: The mosquitos are biting me!
-B: Me too, I can’t stop scratching. They are everywhere! Sneaky little jerks.
-A: Do you have any bug spray?
-B: No, I forgot to buy some.
-A: Then we’ll have to put up with it.
-B: We can cover ourselves with beer! That way if they bite us, they’ll get drunk and fall asleep
-A: That’s without a doubt, the best idea youve had!  Lets do it!
-B: Run! They are thirsty for more!
-
-boom [bum]  轰鸣 n.繁荣；吊杆；（某种体育运动、音乐等）突然风靡的时期；帆桁v.激增；繁荣昌盛；轰鸣；轰响
-itch[ɪtʃ] n.痒；热望；【医】疥癣；【医】痒 v.痒；极想 Web发痒；
-allergy[ˈælərdʒi] n.变态反应；过敏反应  Web过敏症；
-repellent [rɪˈpelənt] n.防水剂；驱虫剂 adj.使人反感的
-malaria [məˈleriə]n.疟疾Web瘴气；
-
-
-scratch [skrætʃ]n.抓；划痕；抓伤；擦伤 v.抓；抓伤[破]；(用爪,针等)搔；搔(痒)  adj.(船员,球
-spray [spreɪ]n.喷雾；喷剂；浪花；喷雾器 v.喷；喷
-sneaky [ˈsniki] adj.悄悄的；偷偷摸摸的；鬼鬼祟祟的 Web鬼祟的；卑鄙的；狡猾的
-jerk [dʒɜrk] v.使(某人或某物)猛的一动  混蛋
-thirsty [ˈθɜrsti]adj.渴望；渴求；  我听成30了
-thirty [ˈθɜrti]   30 
 
 
 *  153  homesick
@@ -3857,6 +3888,9 @@ impressed /ɪmˈprest印象深刻 ; 钦佩
 pressure[ˈpreʃər] n.压力；压强
 press [pres] n.按；出版社
 
+Rebecca: yes of course. Well  as you can see  from the resume, I'm twenty-seven and grew up in    ...  young, at around sixteen. 
+
+
 feel free to 可以随便  feel relaxed
 a little bit 一点点 ; 一点
 Saudi Arabia   [ˌsaʊdi əˈreɪbiə]n. 沙特阿拉伯
@@ -3864,11 +3898,27 @@ adventurous [ədˈventʃərəs]adj. 冒险惊险的;   有冒险精神的 新奇
 precisely [prɪˈsaɪsli] adv.精确地；准确地；
 
 
-Rebecca: yes of course. Well  as you can see  from the resume, I'm twenty-seven and grew up in    ...  young, at around sixteen. 
 
 
 
 
+*  240   Getting A Pet
+
+breed : a particular kind of dog
+Shepard美 [ˈʃepərd] 牧羊犬
+hamster    美: [ˈhæmstər] n.【动】仓鼠
+parrot    美: [ˈperət] n.鹦鹉
+
+A: We have been over this a hundred times ! We are not getting a pet!
+B: Why not? Come on! Just a cute little puppy. or a kitty!
+A: Who is going to look after a dog or a cat?
+B: I will! I’ll feed it, bathe it and walk it every day! We  can get a Labrador or a German Shepard !
+A: What if we want to take a vacation ? Who will we leave it with? Plus, our apartment is too small for that breed of dog.
+B: Ok. How about we get a cat or a ferret! ˈferɪt]     n. 雪貂；白鼬；
+A: We’re planning on having children soon, I don’t think those animals are a good idea with a baby in the house.
+B: Fine! Let’s get a bird then! We can keep it in its cage and teach it to talk! A parrot would be awesome!
+A:I’ll tell you what, I can get you some hamsters and we’ll take it from there .
+B:Yay!
 
 
 * C0241  Education Background
@@ -3918,6 +3968,26 @@ adj.复杂的；详尽的；精心制作的 网络精心设计的；
 
 why we are using the verb to be in the pass was promoted and this is because it is  ed adjective  it is  and djjective that is ednds in ed so you may think it is  verb but it is not it is actually and adje the verb here is to be
 verb + ed  可能是 adjective 
+
+
+*  248   Dinnerware
+
+A:Honey can you set the table?
+B:Um, sure. What are we having for dinner? Do I need to put out anything in particular? [pərˈtɪkjələr]
+A:Well, make sure to put out the pepper and salt shakers. I don’t know if your brother is coming tonight so set an extra place mat just in case.
+B:Ok, should I use the fancy silverware?
+A:Yeah go ahead, forks, spoons and knives.  I roasted some meat so be sure to put out some steak knives as well.
+B:I’ll also set some cups and saucers for some coffee after dinner.
+A:Honey? Have you seen our soup bowls?
+B:They are in the cupboard where you keep the  gravy boat and serving dishes. Just be careful because the wine glasses are also there.
+
+salt shakers 小盐瓶[ˈʃeɪkər]
+extra    美: [ˈekstrə] adv.额外；特别；另外；格外adj.额外的
+mat     美: [mæt] n.垫子；簇
+
+roast    美: [roʊst] v.烤；炒；烘；(在火上)烤n.烤
+saucer    美: [ˈsɔsər] n.茶碟；(放花盆的)垫盘(等)
+ gravy boat 船形肉汁盘   [ˈɡreɪvi]
 
 *  250 Interview Skills Part 6 - Describing One's Strengths
  If you work hard you don't  say I work hard your can't say that but if you want  to use it as an adjective you say.  I am  hard working . 
