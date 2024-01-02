@@ -1431,9 +1431,6 @@ swearword [ˈswerˌwɜrd] n.骂人话
 
 *  66  Calling The Office
 
-
-
-
 *  68 Ground breaking Research  [ɡraʊnd]   [ˈbreɪkɪŋ]
 
 A:We’ve been over this a thousand times. The data is irrefutable! Look, we’ve done extensive research, built studies, and read the literature, and  there is conclusive evidence to support my theory!
@@ -1853,6 +1850,9 @@ A:Sure. Darn condoms aren’t registered in our system. ˈredʒ.ə.stɚd/
 B:Oh, well that’s okay, I’ll get some later, thanks... Really it’s no problem.
 A:Just hang on there a sec. Can I get a price check on ” Fun Times Ribbed Condoms” please!
 
+abbreviation [əˌbriviˈeɪʃ(ə)n]n.缩写；
+circumstance [ˈsɜrkəmstəns] n.环境；境况
+
 pharmacy [ˈfɑrməsi] n.药房；药店
 prescription prɪˈskrɪpʃn]n.  a list of drugs written by doctor  规定 处方,药方; 
 capsule 胶囊 ˈkæpsl]  contained in a plastic container /ˈplæstɪk/
@@ -1861,12 +1861,62 @@ overdose : take more drugs  that suggested
 condom [ˈkɑndəm] n.保险套
 milligram [ˈmɪlɪˌɡræm] n.毫克；
 
-abbreviation [əˌbriviˈeɪʃ(ə)n]n.缩写；
-circumstance [ˈsɜrkəmstəns] n.环境；境况
-
-
 *  85 
 
+*  86  Looking for an Apartment
+
+A:Hi! We are the Christianson’s! We are here to see  the apartment.
+B:Oh, hi! Sure, come on in! Well, as you can see,  the place has just been renovated. The previous  tenants left a huge mess here, so the landlord has redone everything.
+A:It looks great. It’s so bright and airy! What great  light! I really like these hardwood floors. What’s the square footage of this place?
+B:Well, it’s about 120 square meters, or 1300 ( thirteen hundred ) square feet, more or less. Oh, the landlord has also installed new kitchen appliances. There’s  a new dishwasher, and a professional-grade gas  range. Really, at this price, this place is an amazing deal! 
+A:I love it! But what are the payment terms? 
+B:First and last month rent as deposit and rent is  due on the 1st of every month. Considering the amount of money invested into the apartment, it’s  a very good deal!
+A:Yes, it is! Too good to be true...
+B:The living room and dinning room are quite spacious as you can see, and down this hall, here’s the master bedroom. It has a huge walk-in closet and an en suit bathroom. We can’t go in there yet as the police... I mean the clean up crew hasn’t finished.
+A:What do you mean? What’s in here?
+
+renovate    美: [ˈrenəˌveɪt] v.翻新；修理；革新；重做adj.恢复的
+tenant     美: [ˈtenənt] n.租户；房客；住户；佃户 v.租借
+appliance     美: [əˈplaɪəns]  n.（家用）电器
+ gas range 煤气灶 
+
+deposit    美: [dɪˈpɑzɪt] n.存款；押金；订金；订钱v.存储
+invest     美: [ɪnˈvest]  v.投资；授与；
+crew     美: [kru]  n.（轮船、飞机等上面的）全体工作人员 v.当（尤指船上的）工作人员
+other aspects of real estate.   [ɪˈsteɪt] 房地产的其他方面。
+ in advance 提前 ; 事先，预先 
+
+
+
+*  87 Start Trek The lost   Generation
+A:Captain, we’re under attack by an unidentified  ship.
+B:Damage report.
+A:We’ve sustained heavy damage to the engines. We’ve lost our warp drive.
+B:We’ll have to attempt to make contact  [ˈkɑːntækt] . This is  Captain Picard of the Starship Enterprise.We  don’t wish to engage. What is the nature of this attack?
+C:I am Captain Kor of the ship Klothos. Your ship attacked our search party...
+B:No! You’re not doing it right! Kor doesn’t sound like that. His voice is deeper!
+C:I am Captain Kor of the ship Klothos. Your sh...
+B:No! If you can’t do a Klingon voice, I’ll have to find  a more serious Star Trek fan  who can actually act,OK? [ˈæktʃuəli]
+C:But... but... I already bought the Klingon suit! And the wig...
+
+trek    美: [trek] n.长途跋涉；远距离行走 v.（尤指徒步）长途跋涉
+generation    美: [ˌdʒenəˈreɪʃ(ə)n] n.代；（统称）一代人
+unidentified    美: [ˌʌnaɪˈdentɪfaɪd] adj.未知的；不明的
+sustained    美: [səˈsteɪnd] adj.持续的；持久(不变)的；被支持的
+
+warp drive     美: [wɔrp] n.经纱v.弯曲 ,曲速驱动器
+warp -- bend [bend]    v. 弯曲（身体关节）
+
+ attempt to 企图  [əˈtempt]
+ 
+engage  [ɪnˈɡeɪdʒ]    v. 雇用，聘请；参加，从事；
+wig   artificial hair  [wɪɡ] 
+
+find relating to science fiction. 与科幻小说有关的发现。
+ fatal injury 致命伤害 ; 致命伤   ˈfeɪtl]  ˈɪndʒəri]
+第一次听的时候  以为是电影 ，以为有人假借名来搞坏，没想到是game
+
+ 
 *  88   Will  You  Be My Girlfriend
 
 A: Hey, you’re early! Where’s everyone?
@@ -1884,8 +1934,6 @@ pros proʊ] and cons [kɑn]  利弊，优缺点 ; 正反两方面
 guts [ɡʌts] n to let  sb. have a  try 肠道；直觉；消化道；勇气
 tolerate [ˈtɑləˌreɪt] v.容忍；忍受
 skydiving [ˈskaɪˌdaɪviŋ] n.【体】高空跳伞；跳伞运动
-
-
 
 *  90  I'm  Sorry  I love you  VIII 
 
@@ -3196,6 +3244,31 @@ conjunction [kənˈdʒʌŋkʃ(ə)n] n.连词；同时发生；（恒星、行星
 
 
 
+
+*  155    Bachelor  party  [ˈbætʃələr]
+
+A: Hi honey! You’ll never guess what! My friends Julie and Alex are getting married!
+B: Wow that’s great news! They’re a great couple!
+A:I know! Anyways I just talked to Alex’s best man and he is organizing the bachelor party It’s gonna  be gonna be so much fun!
+All the groomsmen are thinking up all the wacky and crazythings we are  going to do that night.
+B:You aren’t going to a strip club are you? I don’t want you getting a lap dance from some stripper  with the excuse that it’s your friends party.
+A:Aw come on! It’s just some innocent fun! You know how these things are! We are gonna play  drinking games, get him some gag gifts and just  have a good time.Nothing too over the top .
+B:Well, I don’t know.
+A:Come on! If one of your friends was getting married I wouldn’t mind you going to her bachelorette party!
+B:Good,because my friend Wendy is getting married and I’m organizing her party!
+A:What!
+
+innocent[ˈɪnəs(ə)nt] adj.无辜的；清白的；无罪的；无辜受害的 n.单纯的人（尤指天真无邪的孩子） 网络天真的
+gag [ɡæɡ] v. 塞住……的口；钳制……的言论；使窒息，使作呕；（非正式）插科打诨，讲笑话
+ bachelorette 单身女郎 ; 单身女子   [ˌbætʃələˈret] 
+wacky    美: [ˈwæki] adj.古怪的；滑稽可笑的
+
+a little bit too excessive  [ɪkˈsesɪv] 有点太过分了
+electric shocker 电击器[ˈʃɑkər] 
+cushion     美: [ˈkʊʃ(ə)n]  n.靠垫；软垫；坐垫
+
+prank     美: [præŋk]  n.恶作剧；玩笑 v.盛装
+mud wrestling  [mʌd] ˈres(ə)lɪŋ]  泥地摔跤
 
 *  157 Trick Or Treat
 
