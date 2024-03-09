@@ -207,6 +207,11 @@ slip [slɪp] v.溜；下降；滑落；摆脱
 回放--重复--
 
 
+* 9  Silence please 
+inconsiderate  [ˌɪnkənˈsɪdərət] not thinking of the feelings of  other people  adj.不为别人着想的；不体谅别
+sarcastic/sɑːrˈkæstɪk/adj.讽刺的;嘲讽的;挖苦的
+
+
 *  10 Driving Sales
 A: All right, people. We’re holding this meeting today because we’ve got to do something about our sales, and we need to do it NOW! I want concrete solutions. How do you plan( intend) to drive sales... Roger?
 B: Well, in fact, we’re the most expensive in the market, so maybe we need to lower our prices to match the competitors?
@@ -227,11 +232,6 @@ competitors kəmˈpetɪtər] UK: [kəmˈpetɪtə(r)]n.竞争者
 competitive [kəmˈpetətɪv] adj.竞争的有竞争力的
  brilliant idea 绝妙的主意  [ˈbrɪliənt]
 
-
-
-* 9  Silence please 
-inconsiderate  [ˌɪnkənˈsɪdərət] not thinking of the feelings of  other people  adj.不为别人着想的；不体谅别
-sarcastic/sɑːrˈkæstɪk/adj.讽刺的;嘲讽的;挖苦的
 
 
 *  11  New Guy  in Town
@@ -1332,6 +1332,33 @@ smooth [smuð] adj.平整的；平坦的
 dirt road 土路
 gerund [ˈdʒerənd] n.动名词
 
+*  59 Job Interview I
+A:Okay, so let’s go over everything one more time. I really want you to get this job!
+B:I know! It’s an amazing growth opportunity! They’re true industry leaders,and it would be so interesting to be part of an organization that is the undisputed leader in business process platform development.
+A:So, let’s see, you did your research on the company, right?
+B:Well, I visited their website and read up on what they do. They’re an IT service company that offers comprehensive business solutions for large corporations.They provide services such as CRM development, and they also offer customdesigned applications.
+A:So what would your role in the company?
+B:Well, the position is for an account manager. That basically means that I would be the link between our and our development team.
+A:Sounds good, and so, why do you want to work with them?
+B:Well, as I said they’re the industry leaders, they have a really great growth strategy, amazing development opportunities for employees,and it seems like they have strong corporate governance. They’re all about helping companies grow and unleashing potential.I guess their core values and mission really resonated with me. Oh, and they offer six weeks’ vacation, stock options and bonuses... I’m totally going to cash in on that.
+A:You idiot! Don’t say that! Do you want this job, or not?
+
+undisputed     美: [ˌʌndɪˈspjutəd]     adj.不容置疑的；毫无疑问的
+comprehensive  [ˌkɑːmprɪˈhensɪv]     adj. 综合性的
+
+account manager 客户经理 ;
+resonate    美: [ˈrezəˌneɪt]     v.共鸣
+
+The undisputed truth is that unemployment is rising, no one doubts that.
+
+up side down
+
+overlook    美: [ˌoʊvərˈlʊk]     v.忽略；俯视；
+pretend    美: [prɪˈtend]    v.假装；佯装
+posture    美: [ˈpɑstʃər]    n.态度；（坐立的）姿势；
+squeeze [skwiz]n.挤压；勒索；〈口〉压力；贿赂     v.挤；
+firm    美: [fɜrm]     n.公司；企业；事务所；商行     adj.坚固的；稳固的
+
 
 *  60  New Guy  in  Town  IV
 
@@ -1356,7 +1383,6 @@ scary [ˈskeri] adj.恐怖的
 thriller [ˈθrɪlər] n.（尤指关于罪案或间谍的）惊险小说（或戏剧、电影）
 vampire[ˈvæmpaɪər]n.吸血鬼
 twist [twɪst] v.捻；扭转；曲折；扭动n.捻；拧；扭动；搓网络扭曲
-
 
 
 
@@ -1461,7 +1487,59 @@ swearword [ˈswerˌwɜrd] n.骂人话
 
 
 
+* 65 Job Interview III
+A:Very good. Now, I have a couple of final questions.
+B:I hope they’re not too hard!
+A:Well, why should we hire you?
+B:I think that I would be a perfect fit in this company. I have a unique combination of strong technical acumen, and outstanding soft skills; you know, I excel at building  strong, long-term customer relationships.For example, when I headed the customer support department in my previous company, our team solved about seventy percent of our customers’ problems.I decided that we needed better information and technical preparation on our products,so after I implemented a series of training sessions in  coordination with our technical department,we were able to solve ninety percent of our customers’ issues. Given the opportunity, I could bring this kind of success to this company.
+A:Impressive! So, what would you consider to be your greatest weakness?
+B:To be honest, I struggle with organization and time management. Punctuality has never been a strength of mine.
+I find it hard to organize my time efficiently. I have actually addressed this weakness recently, by attending a workshop on efficient time management. It helped me a lot, by providing me with great insights on how to get organized and use my time efficiently, so I think I’m getting better now.
+A:Great... Well, let me tell you that I am very pleased with this interview.We are short-listing our candidates this week,and next week we will inform our short listed candidates of the day and time for a second interview with our CEO.
+B:Great, thanks a lot! I hope to hear from you! Good bye.
+
+implement    美: [ˈɪmpləmənt]    v.实施；执行
+strength    美: [streŋθ]    n.强度
+workshop [ˈwɜːrkʃɑːp]    n. 车间，工场，作坊；研讨会，讲习班
+efficiently 英 [ɪˈfɪʃ(ə)ntli]     adv. 高效地
+short-list 美 [ˈʃɔːrt lɪst]     v. 将（某人）列入决选（或入围）名单，使通过初审
+ candidate    美: [ˈkændiˌdeɪt]    n.候选人；理想对象；
+controversy    美: [ˈkɑntrəˌvɜrsi]    n.争议
+acumen    美: [ˈækjəmən]    n.精明；敏锐
+
+I was the main person in charge. [NOTE: in charge = responsible; “call the shots”]
+E: Yeah, the manager.
+Okay, and now I struggle with Chinese.
+M: Hehe. Exactly, so, to have a hard time.
+fart    美: [fɑrt]    n.傻老头；屁    v.放(屁)
+he stress on the second syllable.
+Given the opportunity, I could bring this kind of success to this company 
+
+
+
+
+
 *  66  Calling The Office
+
+*  67 Soccer
+A:Welcome back, soccer fans. My name is Rick Fields and, as always, I am joined by my commentating wingman, Bob Copeland.
+B:And we’re on the brink of soccer history today, as Ecuador and Brazil are tied one-one as we begin the second half of the 2022 World Cup!
+A:The ref calls the players for the kick off, and here we go! Ecuador quickly passes the ball to the midfield, but, ohhh, it’s out of bounds.
+B:That will be a throw in for Brazil. Adriano has the ball and makes a long pass to Robinho, and the ref has called him offside.
+A:No question about it. He was offside by a mile! We have a goal kick for Ecuador. Edison Mendez heads it to Valenica, he shoots! Deflected by the defender and we have a corner kick.
+B:Delgado takes the corner. We have a foul! Oh no, Dida, the goalkeeper, has fouled the Ecuadorian player! He gets a yellow card and that will be a penalty kick!
+A:This is the perfect opportunity for Ecuador to get ahead in this match and become World Champions! He gets ready for the kick. He shoots! and he...
+
+commentate     美: ['kɑmən.teɪt]     v.给(文章等)作注解；连续地口头评述(比赛等
+on the brink of 边缘 ; 濒临 ; 濒于
+kick off    na.(足球)中线开球；开始(某种活动)；死；踢脱(鞋等)网络开始干某事；启动
+critical [ˈkrɪtɪk(ə)l]    adj.批评的；批判性的；挑剔的；极重要的     网络临界的；危急的；关键的
+committed    美: [kəˈmɪtɪd]     adj.忠诚的 犯(罪或错等);做出(错或非法的事);
+
+exaggerate     美: [ɪɡˈzædʒəˌreɪt]    v.夸大；夸张；
+
+
+
 
 *  68 Ground breaking Research  [ɡraʊnd]   [ˈbreɪkɪŋ]
 
@@ -2021,6 +2099,9 @@ claim [kleɪm] n.索赔；宣称；声明
 whereabouts Kind of unknown location [ˈhwerəˌbaʊts] n.下落；行踪；
 tragedy [ˈtrædʒədi] n.悲剧；【文】(文学)悲剧 灾难
 
+
+*  91
+07-
 
 *  92
 A: Heya, Tracy. How are you doin’?
@@ -3229,6 +3310,46 @@ saint [seɪnt]   n.圣人；圣者； 其实在极简中有学，不过又不赢
 unbearable [ʌnˈberəb(ə)l] adj.难耐的；无法接受的
 
 
+*  148 Paranoid 
+
+A:Dan, Dan dude. You have to come over to my house right now!
+B:Is everything Ok?
+A:Just get over here!
+A:Come in! Quickly!
+B:So, since when is your house a bank?
+A:What do you mean?
+B:I mean, what’s up with the and locks and iron bars on your windows.
+A:Security Dan, security! You can never be too safe you know! A lot of sickos out there. Just the other day they caught that peeping tom red handed!Had a high power telescope and binoculars by his window.
+B:Whats the matter with you? Why are you acting all paranoid?
+A:Paranoid? I’m not paranoid! I’m cautious [ˈkɔːʃəs] ! You see Dan, we have to be on guard at all time!
+People just invade your privacy as if they knew you! Telemarketers, solicitors, even your bank! They have way too much information! I like to keep everything on a need to know basis.
+B:OK, well, what did you want to see me about?
+A:You are being watched! Be careful Dan! Be careful!
+
+paranoid  [ˈpærənɔɪd] 偏执狂 ; 妄想症患者 ; 多疑的
+sicko     美: [ˈsɪkəʊ]  n.精神失常的人
+peeping tom 偷窥狂 ; 偷窥者
+telescope 望远镜 /ˈtelɪskoʊp/
+binoculars 双筒望远镜 /bɪˈnɑːkjələrz/
+invade     美: [ɪnˈveɪd] v.侵犯；侵略
+telemarketers/ˈtelɪˌmɑːkɪtər/
+solicitor     美: [səˈlɪsɪtər] go to your house  knock on your   door  ,在门外想卖东西给你  保险
+ go so far as to 甚至 ; 竟然；至于 
+
+ synonym     美: [ˈsɪnənɪm]  n.同义词
+ voyeur 窥淫癖者   [vwɑːˈjɜːr] 
+
+conspiracy     美: [kənˈspɪrəsi] n.密谋策划；阴谋
+
+ 
+That’s right, we heard this a little bit earlier in the dialogue
+
+err on the side of caution 谨慎行事 ; 宁求稳妥，
+
+subsequent     美: [ˈsʌbsɪkwənt] adj.随后的；后来的
+
+
+ 
 * C 149   Moving
 
 A: Ok, that’s fine. Bye.
@@ -4092,6 +4213,41 @@ n.（尤指古埃及
 
 
 
+*  204 Understanding a Trial
+Lawyer:Your honor, ladies and gentlemen of the jury, My client, Robert Malone, has been accused of a crime [kraɪm] he did not commit. The prosecution has accused my client of being a pickpocket! I know we have heard the testimony of many people here today, . . . .people who claim the defendant, my client,stole their wallets.I feel sorry for these victims, I really do. . . . . . . . . but my client is innocent!
+Let’s look at the facts. . .one: These ’so-called’ witnesses did not actually see the defendant steal anything....two: When the    police stopped him, he did not have any of the stolen wallets. There is no evidence.Therefore, Ladies and Gentlemen of the jury, I ask you to think carefully before giving your verdict. look at the face, look at the evidence. My client is innocent! 
+Judge:Ladies and Gentlemen of the jury, have you reached a verdict?
+Jury: Yes, your honor.our verdict is. . . . . . not  guilty!
+Robert:Thank you so much! You were great! Thank you for all your hard work!
+Lawyer:You’re welcome Robert! I knew you were innocent so my job was easy. Take care of yourself, okay?
+Robert:Thanks once again...
+Lawyer:Hey! Where’s my wallet?
+
+jury    美: [ˈdʒʊri] n.陪审团
+accuse     美: [əˈkjuz] v.谴责；控诉；n.（刑事）被告
+commit 承诺，保证 英: [kə'mɪt]
+
+prosecution  [ˌprɒsɪˈkjuːʃ(ə)n] 起诉 ; 进行 ; 诉讼 ; 控方
+defendant 被告 ; 被告人 [dɪˈfendənt]
+
+innocent [ˈɪnəs(ə)nt] adj.无辜的；清白的；无罪的
+guilty opposite
+
+verbal     美: [ˈvɜrb(ə)l]  adj.文字的；言语的；词语的；口头
+
+verdict     美: [ˈvɜrdɪkt]  n.裁决；结论
+
+So let's take a listen and find out what's going on
+
+match  [mætʃ] n.比赛；(一根)火柴；导火线；【电】匹配
+
+proof     美: [pruf] n.证明；证据；检验；证实 adj.能抵御；能防范；可防护；防…的 v.给（织物等）做防护处理；使防水（
+
+So he's being sarcastic adj[sɑːˈkæstɪk] 
+sarcasm    美: [ˈsɑrˌkæzəm]  n.讽刺；嘲讽
+
+deliberate    美: [dɪˈlɪb(ə)rət]  v.考虑；商议；思考 (on, over)
+
 *  206  Talking To Your Roommate
 
 B:Well, while we are at it, stop bringing your friends over for drinks every weekend. You always leave a mess and keep me up all night!
@@ -4099,16 +4255,16 @@ B:Well, while we are at it, stop bringing your friends over for drinks every wee
 
 torrent [ˈtɔrənt] n.急流；激流；洪流；湍流 网络种子；种子文
 
-what I  am getting at  :what I am trying to say
-way more : much more, a lot more
- in the sense of 在某种意义上 ; 从…意义上说
-
  dread [ˈdredəd] v.害怕；担心；〔古语〕敬畏；预感到 n.害怕；
  fear [fɪr] v.害怕；担心
   amount of money 金额 ; 款额
 colloquial [kəˈloʊkwiəl] adj.会话的；口语的
 Right, like a hint. tips
 attractive [əˈtræktɪv] adj.迷人的；楚楚动人的；吸引人的
+
+what I  am getting at  :what I am trying to say
+way more : much more, a lot more
+ in the sense of 在某种意义上 ; 从…意义上说
 
 
 *  207 Shopping Online
@@ -4142,6 +4298,33 @@ haggle [ˈhæɡ(ə)l] n.讨价还价；争论 v.争辩
 negotiate [nəˈɡoʊʃiˌeɪt] v.谈判；〈口〉通过；议定
 
 
+* 208 Understanding The Stock Market
+
+A:Sorry to bother you sir, but I have some bad news.
+B:What is it?
+A:Well, the stock market just took a huge plunge and we’ve lost a lot of money! 
+B:What do you mean? What happened?
+A:There are many factors that weigh in, but NASDAQ is down 200 points, the DOW JONES indicator also suffered!Our portfolio is worth half of what it was worth points week ago.
+B:How is this possible? You are supposed to be talking to our stockbrokers and making sure that our securities and investments are safe and making a profitable return!
+A:I know sir! We didn’t expect a bull market to become a bear market all of a sudden. On the other hand you still have some high yield trash bonds and government bonds that will give us enough liquidity to cut our loses and reinvest in emerging markets. We could potentially make this tragedy work for us and make us think outside the box.
+B: Do what you have to do! One other thing, don’t tell the rest of the stockholders about this. If they find out, it’s the end of this company!
+
+plunge     美: [plʌndʒ]     v.暴跌；使突然前冲（或下落）；骤降；突降     n.跳水；突然跌落
+indicator     美: [ˈɪndɪˌkeɪtər]    n.指示器；标志
+portfolio 美: [pɔrtˈfoʊlioʊ] 投资组合 所有产品东西    n.文件夹；职务；
+profitable     美: [ˈprɑfɪtəb(ə)l]     adj.有利润的；赢利的
+bull [bʊl]
+liquidity     美: [lɪˈkwɪdəti] 流通性；流动资金
+yield     美: [jild]    n.产量；产出；利润     v.屈服
+acronym     美: [ˈækrəˌnɪm]     n.首字母缩略词
+liquidity The opposite of credit.
+potentially 美 [pəˈtenʃəli]     adv. 可能地，潜在地
+tragedy     美: [ˈtrædʒədi]    n.悲剧
+
+
+
+
+
 *  209  Office Gossip  [ˈɡɑːsɪp]
 
 Pam: Psssst! Pssssssssst! Hey! Eric, have you heard?
@@ -4155,6 +4338,60 @@ Pam:Congratulations! Eric and I were just saying that you are the best person fo
 Eric:Yes! You’re the best!
 
 rumor    美: [ˈrumər] n.谣言v.谣传
+
+
+*  210  meeting the  In-laws
+
+Cindy: Mother, father, I’d like to introduce you to my fiancé, Bob.
+Miranda: Hello, Bob. Welcome.
+Bob: Thanks for having me. Nice to meet the both of you. I’ve heard so much!
+Thurston: So Cindy told you about bringing home her last boyfriend, then? Hah, that idiot...
+Miranda:Shhh! Thurston, you’re going to scare the poor boy. Come in and have a drink. Dinner will be on in just a bit.
+Thurston: What’ll you be having? Whiskey? Bourbon? Pick your poison!
+Bob: If you have a lemonade that’d be great.
+Thurston: Lemona...?
+Miranda:Why sure, there’s some in the fridge!
+Cindy: Mother makes her own lemonade from scratch. It’s the best!
+Thurston: So what are your hobbies, son? If you want,we can do some hunting tomorrow. I’ve just picked up a new rifle I’ve been meaning to try out. Should be a real hoot!
+Bob: Um. I’m not really. eh. I don’t really hunt.
+Thurston:You don’t hunt? Well I’ll be...
+Cindy: Bob is an animal rights activist. He doesn’t believe in harming animals.
+Miranda:Dinner’s ready! Let’s go out to the patio where the pig is roasting.
+Bob: Roast [rəʊst] pig? I’m a vegetarian. [ˌvedʒəˈteəriən]
+
+fiancé     美: [ˌfiɑnˈseɪ]  n.未婚夫
+patio    美: [ˈpætioʊ]  英: [ˈpætiəʊ] n.天井；院子；庭院
+
+
+from scratch 美 [frəm skrætʃ]     从零开始：指从最基础的、没有任何准备或基础的状态开始做某事
+
+racking    美: [ˈrækɪŋ] adj.拷问的；难忍受的 v.“rack”的现在分词
+
+A hoot,it should be a really good time. Real fun. Hoot.
+
+cement  [sɪˈment], or brick [brɪk]. 水泥或砖
+
+以前还以这个是见law 没细听 现在能明白好多了
+
+
+*  211  Playing Board Games 
+
+Jim: Hey- Why did you take that money? You are such a cheater! I should send you to jail!
+Karen: I am not cheating. When you pass go, you collect $200, Everyone knows that!
+Jim: Well you can’t just take the money. You have to ask the bank for money. And I’m the banker.
+Karen: Banker?
+Jim: Yes. . .
+Karen: Can I have my $200 please?
+Jim: Sure. Here you are, $200, Thank you, please come again! Now it’s my turn to roll the dice.
+
+pass go    通过起点：在棋类游戏（如大富翁）中
+roll the dice 掷骰子 [daɪs] 
+
+device     美: [dɪˈvaɪs]    n.装置；设备
+
+generally speaking, a person who gives you money
+
+adverb [ˈædvɜːrb]     n. 副词
 
 
 *  214 Describing Personalities
@@ -4202,6 +4439,42 @@ extraverted, too hard working. We call this person a type A personality. Type A
 irritate ( irritating, irritated, irritates ) 英 [ˈɪrɪteɪt] 美 [ˈɪrɪteɪt]     v. 使不耐烦，激
 
 
+
+*  215  At the Deli
+
+A:Honey, we are all out of wine and cheese. Do you mind running to the deli and picking up a few things?
+B:Can’t it wait? I’m watching the game right now!
+:Your friends and family are coming over tonight and we still need to get a lot of things.
+B:Fine! What do you need?
+A:Ok, pick up some cured meats to go with the wine. Maybe a pound of polish sausages, ham, liverwurst, salami and any other cold cuts that are on sale. I think I saw a promotion for pastrami. Also get some cole slaw and a jar of olives.
+B:Whoa wait a minute! Isn’t that a bit too much? I mean, how much is all of this going to cost!
+A:Never mind that. Get some dips as well. Get a jar [dʒɑː(r)]  of spinach and blue cheese dip and also some Tzatziki. If they have bean dip get that as well. Last but not least, get some pickles.
+B:Is that all, your majesty?
+A:Very funny! Get a move on! People will be here any minute.
+
+deli 英 [ˈdeli]    n. 熟食店
+olive/ˈɒl.ɪv/
+
+pastrami     美: [pəˈstrɑmi] n.五香熏牛肉
+spinach英: ['spɪnɪdʒ]n.菠菜
+
+raw pork 生猪肉 [rɔ] 英: [rɔː]
+
+they can last for a long time.
+
+literal     美: [ˈlɪt(ə)rəl] adj.字面意义的；完全按原文的；缺乏想象力的
+
+bitter 
+sour uk/saʊər
+crisp [krɪsp] adj. 脆的
+
+
+05-
+cook ka 面包里一小个的 那些
+kuer
+dig 和其它一起吃的
+
+
 *  216 Health Food
 
 Kelly:Well, healthy food , of course! I got some whole wheat bread, skimmed milk, fresh fish and organic carrots. . . .
@@ -4234,6 +4507,47 @@ bolster    美: [ˈboʊlstər]  英: [ˈbəʊlstə(r)] v.加强；改善 n.垫�
 
 divorce 英 [dɪˈvɔːs] 美 [dɪˈvɔːrs]     n. 离婚；离婚判决；分开，脱离     v. 与（某人）离婚
 
+I mean is there the divorce rate similar?
+tabu 美 [tæˈbʊ]     n. 禁忌    adj. 禁忌的    vt. 禁止（等于 taboo
+valid美: [ˈvælɪd] adj.（法律上）有效的；（正式）认可的
+
+
+
+
+*  218 Divorce
+Jeff:Joanne, let’s not make this divorce any more acrimonious than it already is, okay? Let’s just get down to business and start dividing this stuff up fairly, so we can go our  separate ways, alright?
+Joanne: Fine with me. I just want to get this over with. It’s important we make a clean break. I should have signed a pre-nup.
+Jeff: What was that?
+Joanne: Nothing! Anyway, you’re right, there’s no reason this has to be nasty.My lawyer tells me you’ve accepted our alimony proposal and the division of property, as well as the custody agreement- I keep the cat and you get the dog.So that’s done. . . . finally.
+Jeff: Let’s not go there, Joanne! Ok, so let’s startwith the record collection, I’ll take the albums I contributed and you can have your cheesy disco albums back.
+Joanne: Fine, but I’m keeping the antique gramophone as my grandfather gave it to me.
+Jeff: I believe that was a wedding present to both of us, Joanne. And you hardly ever use it!
+Joanne: He’s my grandfather, and he never really liked you anyway!
+Jeff: Whatever! Alright, I’ll concede the silly gramophone, if you’ll agree that I get the silver tea set.
+Joanne: How typical, when are you ever going to use a silver tea set? Fine! I don’t want to drag this out any longer than necessary. What’s next? What about these old photographs?
+Jeff: Which ones? Let me have a look. Wow, look at that! That brings back memories. . . . That?
+Joanne: Our trip to Italy! I remember that day. We were going to visit the Trevi fountain, and we got caught in the rain. . . .
+Jeff: . . and you looked so adorable with your hair all wet. I had to take a picture of you standing there in that little alley, smiling and laughing in the rain. . . .
+Joanne: Oh, we really did have fun back then didn’t we?
+Jeff: Oh, Joanne, are we making a big mistake? I know our relationship has been on the rocks for sometime but are you sure we can’t reconcile and try again? I still love you.
+Joanne: Oh Jeff! I love you too! I’m so glad we didn’t have to decide who keeps the motorcycle.
+Jeff: The motorcycle? But that’s mine!
+
+ make a clean break 一刀两断 ; 突变 
+get down to business 开始谈正事 ; 言归正传 
+acrimonious     美: [ˌækrɪˈmoʊniəs]     adj.尖刻的；讥讽的
+dividing     美: [də'vaɪdɪŋ]     adj.起划分[区分,分割]作用的    v.“divide”的现在分词
+nasty     美: [ˈnæsti]     adj.极差的；令人厌恶的；令 人不悦的；不友好的    n.〈口〉恐怖电影；讨厌的人
+alimony 美 [ˈælɪmoʊni]     n. 离婚扶养费；生活费
+custody [ˈkʌstədi]n.羁押；保管；保护；【法】抚养权
+
+cheesy    美: [ˈtʃizi] 俗气的
+antique     美: [ænˈtiːk]     n.古董；古风     adj.古老的
+concede     美: [kənˈsid]     v.让步；允许
+alley     美: [ˈæli]     n.小巷；（网球或羽毛球球场两侧的）双打边线
+reconcile     美: [ˈrekənˌsaɪl]     v.调和；使和谐一致；使配合；使和解     网络使和好
+
+delay     美: [dɪˈleɪ]     v.延迟；耽搁     n.延迟 拖延型
 
 
 
@@ -4306,16 +4620,6 @@ interviewee [ˌintəvjuːˈiː] n.被面试者；被采访者网络被接见者
 
 
 *  236 Trying  To Sleep
-Jill: Alex, what’s up with you? You look dreadful!
-Alex: Hey Jill, I don’t know. I’ve been having trouble sleeping these past few weeks. I usually lie in bed for hours trying to get to sleep . I’ve tried  stretching and different breathing techniques before going to bed . I’ve tried eating and not eating different foods. I’ve even tried counting  sheep! And then when I finally get to sleep , I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep .
-ill: Wow, maybe you should get that checked out. Maybe you’re stressed?  [strest]
-C:Just take some sedatives! Works for me! Every  so often having some melatonin on hand helps  me when I have trouble sleeping .It works on all kinds of sleeping disorders . It’s the stuff pilots use to regulate their sleeping patterns .
-Jill:I heard of that. But does that apply to Alex’s situation?
-C:Ya sure, why not ? Sounds like he only has  transient insomnia since it’s a recent thing so  taking melatonin do the trick.
-Jill:But shouldn’t he be looking into WHY it’s been happening?
-C:Well aren’t youthe little psychologist? Our  buddy’s having trouble sleeping , it’s easy and curable. It’s not something freakish like if he  was a sleepwalker.
-Alex:Well, there’s that too.
-
 stretch [stretʃ] v.伸展；伸长；绷；展开 n.延伸
 breathing [ˈbriðɪŋ] n.呼吸
 technique [tekˈnik] n.方法；技能
@@ -4326,6 +4630,16 @@ disorder [dɪsˈɔrdər] n.混乱；骚乱；(身心机能的)失调；不合手
 pattern [ˈpætərn] n.模式；方式
 transient [ˈtrænziənt] adj.短暂的；转瞬即逝的
  do the trick 获得成功[trɪk]
+
+Jill: Alex, what’s up with you? You look dreadful!
+Alex: Hey Jill, I don’t know. I’ve been having trouble sleeping these past few weeks. I usually lie in bed for hours trying to get to sleep . I’ve tried  stretching and different breathing techniques before going to bed . I’ve tried eating and not eating different foods. I’ve even tried counting  sheep! And then when I finally get to sleep , I have these really disturbing nightmares, so I usually wake up in a panic and more tired than before I went to sleep .
+ill: Wow, maybe you should get that checked out. Maybe you’re stressed?  [strest]
+C:Just take some sedatives! Works for me! Every  so often having some melatonin on hand helps  me when I have trouble sleeping .It works on all kinds of sleeping disorders . It’s the stuff pilots use to regulate their sleeping patterns .
+Jill:I heard of that. But does that apply to Alex’s situation?
+C:Ya sure, why not ? Sounds like he only has  transient insomnia since it’s a recent thing so  taking melatonin do the trick.
+Jill:But shouldn’t he be looking into WHY it’s been happening?
+C:Well aren’t youthe little psychologist? Our  buddy’s having trouble sleeping , it’s easy and curable. It’s not something freakish like if he  was a sleepwalker.
+Alex:Well, there’s that too.
 
  insomnia [ɪnˈsɑmniə] n.失眠（症
 psychologist [saɪˈkɑlədʒɪst] n.心理学家；
