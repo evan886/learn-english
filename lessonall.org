@@ -2894,9 +2894,9 @@ Interpretation:  This parag raph points out that the city population is 8 millio
                                                                                                                                                                              
  addicted [əˈdɪktəd] adj.上瘾了的；入了迷的；沉迷于…的  网络上瘾的；成瘾；中毒
 
-addiction  [ə'dɪkʃ(ə)n] n.瘾；嗜好；入迷   网络上瘾；成瘾；沉溺                                                                                                                                                    
-     
  present   美: [ˈprezənt]   n.目前；现在；礼物；礼品   adj.存在；出席；在场；出现   v.出现；提出；显示；提交                                                                                                                                                
+     
+addiction  [ə'dɪkʃ(ə)n] n.瘾；嗜好；入迷   网络上瘾；成瘾；沉溺                                                                                                                                                    
                                                                                                                                                 
                                                                                                                                                                              
  take office  入职                                                                                                                                                           
@@ -4078,8 +4078,6 @@ substantial  [səbˈstænʃl]adj.大量的;价值巨大的;重大的;大而坚�
 tray [treɪ]n.盘;托盘;碟      saucers [ˈsɔsərz]n.茶碟;茶托;碟状物
 pitcher [ˈpɪtʃər] n.投掷者;投球手;(尤指旧时的)带柄的陶罐
 
-   Another useful difference to understand between  the British and American ways of life concerns traffic, which is of  the  utmost importance to travelers or visitors  .In London , one takes the underground, whereas in New York it's the subway(whether or not traveling below the ground). Streetcars are taken in American cityes, but trams are found in Britain. Make sure  you fill up with  gas at the gas station in Miami, but in Manchester you should  top up the  tank with petrol  at the petrol station.  Not sure  whether you need oil ? Check  under the bonnet in Bristol but  the hood  in Houston. Check  your wing mirror in Wales but your side  mirror in Rochester, And watch  out  for those traffic circles in Tampa  but those roundabouts in Reading. 
-   
 utmost [ˈʌtˌmoʊst]     n.极限；最大限度；最大量；最大可能    adj.最大的；极度的
 concerns  [kənˈsɜːrnz] v.影响，牵涉(某人);与…有关;涉及;让(某人)担忧 n.(尤指许多人共同的)担心，忧虑
 petrol [ˈpetrəl] n.汽油      tank [tæŋk]n.坦克;(贮放液体或气体的)箱，槽，罐;
@@ -4089,6 +4087,8 @@ consternation [ˌkɑnstərˈneɪʃ(ə)n] n.惊愕；惊恐Web惊惶失措
 mandarin  [ˈmændərɪn] n.(中文)普通话;政界要员  
 various  [ˈveriəs]adj.各种各样的，不同的;不止一个的
 dialect  [ˈdaɪəlekt] n.地方话;土话;方言
+   
+   Another useful difference to understand between  the British and American ways of life concerns traffic, which is of  the  utmost importance to travelers or visitors  .In London , one takes the underground, whereas in New York it's the subway(whether or not traveling below the ground). Streetcars are taken in American cityes, but trams are found in Britain. Make sure  you fill up with  gas at the gas station in Miami, but in Manchester you should  top up the  tank with petrol  at the petrol station.  Not sure  whether you need oil ? Check  under the bonnet in Bristol but  the hood  in Houston. Check  your wing mirror in Wales but your side  mirror in Rochester, And watch  out  for those traffic circles in Tampa  but those roundabouts in Reading. 
 
   It should not surprise anyone  that  British and American English  are a little different grammatically (Americans say, "I don't have"  and "I have a lot" but the British say "I haven't" and "I have much"  ). Their pronunciation and vocabulary  also differ. These  should  not be sources of consternation when you visit different  Anglo countries; instead they  should be occasions  for  adventure and enjoyment, Just  as Mandarin-speaking  foreigners can   manage  their  way through  the various dialects of Mandarin  spoken in mainland  China, so , too , should anyone versed in conversational English -- for  any strip --  succeed in  having fun with the different worlds of English .
 
