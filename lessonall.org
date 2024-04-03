@@ -3502,7 +3502,7 @@ grade [ɡreɪd]n.品级；水平
 compound  [ˈkɑmˌpaʊnd]a.混合；混合的；复合物合成的  form  [fɔrm]  v.形成；成立；产生；；组织；格式；形态
 abbreviation [əˌbriviˈeɪʃ(ə)n]  n.缩写         situated [ˈsɪtʃuˌeɪtɪd] adj.位于；坐落在；处于…状况；处境…      
 ascinate  [ˈfæsɪˌneɪt]   adj.极有吸引力的；迷人的 
-various [ˈveriəs]      adj.各种不同的；各种各样的；具有多种特征的；多姿多彩的     网络各种的；多方面的；多样的
+various [ˈveriəs] adj.各种不同的；各种各样的
 a wide array of  各式各样的
 entertaining  [ˌentərˈteɪnɪŋ]n.招待 adj.有趣的；娱乐的 activity   [ækˈtɪvəti]   n.活动；活性；动作；功能
 rave  [reɪv] n.(人,风,浪的)狂闹；怒吼v.(狂人一般)说胡话；咆哮；发狂似地讲；狂喜 (about of)
@@ -3511,8 +3511,8 @@ sinister  [ˈsɪnɪstər] adj.邪恶的；险恶的 implication  [ˌɪmplɪˈke�
 unobtrusively  /ˌʌn.əbˈtruː.sɪv.li/  不引人注目地；悄悄地 rapid  [ˈræpɪd] adj.瞬间的；；迅速的；快速的
 acoustics  [əˈkustɪks] n.声学；音响效果   lens  [lenz]  n.透镜；镜片；网络镜头
 sci-fi  [ˈsaɪ faɪ] adj.同“science fiction”网络科幻频道  reality  [riˈæləti] n.现实；事实
-legitimate      美: [ləˈdʒɪtəmət]       adj.正当合理的；合情合理的；合法的；法律认可的  v.使合法；认为正当；认为正统；承认(庶子)为嫡出      网络正当的；正统的；正当性
-doomsayer  [ˈdumseɪər]  n.预言灾难者   doomsayers
+legitimate  [ləˈdʒɪtəmət]adj.正当合理的；合情合理的；合法的；法律认可的  v.使合法；认为正当；认为正统；承认(庶子)为嫡出      
+ doomsayer  [ˈdumseɪər]  n.预言灾难者   doomsayers
 charge  [tʃɑrdʒ]  n.收费；主管；指控；掌管 v.收费；充电；冲锋；指责网络费用；电荷；控告
 legitimate  [ləˈdʒɪtəmət] adj.正当合理的；合情合理的；合法的；法律认可的 v.使合法；认为正当；
 
@@ -3522,6 +3522,8 @@ large  [lɑrdʒ]  adj.大的；大规模的
 
 The pen is mightier than the sword.   笔比sword 更加有力
 Multitude 多数 
+
+If you don't stop smoking ,your days are numbered.
 
 洗澡完 21：30 升级一下 freebsd  应该是22:20 开始 搞到现在 23:24 学了一段 和完了lesson all 
 
@@ -3558,8 +3560,7 @@ side effects   副作用
 opponent: [əˈpoʊnənt] n.对手 adj.对立的反对者   sleazy  [ˈslizi]  adj.（尤指涉及性行为）肮脏的
 commercial 美: [kəˈmɜrʃ(ə)l] adj.贸易的；商业的；赢利的；以获利为目的的 n.（电台或电视播放的）广告
 
-controversial [ˌkɑntrəˈvɜrʃ(ə)l] adj.有争议的  intimate [ˈɪntɪmət] n.知己；密友；至交 v.暗示；透露；（间接）表示
-adj.亲密的；密切的；个人隐私的
+controversial [ˌkɑntrəˈvɜrʃ(ə)l] adj.有争议的  intimate [ˈɪntɪmət] n.知己；密友；至交 v.暗示；透露；（间接）表示adj.亲密的；密切的；个人隐私的
 instinct [ˈɪnstɪŋkt] n.本能；  unleash  [ʌnˈliʃ] v.〈比喻〉解放；放纵；发动
 certain [ˈsɜrt(ə)n] adj.肯定；确
 voyeur [vwaɪˈər] n.有窥淫癖的人 
@@ -3567,11 +3568,11 @@ installation    美: [ˌɪnstəˈleɪʃ(ə)n] n.安装；install  [ɪnˈstɔl]  
 anonymous [əˈnɑnɪməs] adj.匿名的   sinister  [ˈsɪnɪstər]adj.邪恶的；险恶的
 capacity [kəˈpæsəti]n.容量；生产能力 espionage  [ˈespiəˌnɑʒ]n.间谍活动；
 surreptitiously  [ˌsʌrəpˈtɪʃəsli]adv.偷偷地；  reveal  [rɪˈvil]    v.透露；揭示；显示；展示
-bug  [bʌɡ]    n.缺陷；虫子  paranoid [ˈperəˌnɔɪd]    n.偏执狂；妄想症患者    adj.多疑的；恐惧的；
+bug  [bʌɡ]n.缺陷；虫子  paranoid [ˈperəˌnɔɪd]    n.偏执狂；妄想症患者    adj.多疑的；恐惧的；
    
     The human mind is as devious as the many progressive  devices it produces. No matter what technology mankind  develops in the future, we can be sure that it will offer and  opportunity to exercise the dark side of our potential. On balance, we must move forward and allow these new technologies.  Only by practicing them -- for good or bad --can we realize our human potential. On  balance, too, despite   the horrific deadly or sinister potential in  technology,  the world offers a more productive, comfortable, and progressive  environment today that in our previous low-tech centuries. At the end of the day, it is not our technology that we must learn  to control so much as ourselves.
 
-cunning [ˈkʌnɪŋ] n.狡猾；诡诈    
+cunning [ˈkʌnɪŋ]n.狡猾,诡诈 As cunning as a Fox . As angry as a bear. As busy as a bee 
 devious [ˈdiviəs] adj.不诚实的  狡诈的 progressive [prəˈɡresɪv] adj.进步的；
 opportunity [ˌɑpərˈtunəti] n.机会；时机  potential [pəˈtenʃ(ə)l] n.潜力；电位
 balance [ˈbæləns] n.平衡；均衡  on balance 总的来说
