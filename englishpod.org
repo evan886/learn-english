@@ -1170,6 +1170,29 @@ variety[vəˈraɪəti]n. (同一事物的)不同种类
 Chili [ˈtʃɪli]n. 辣椒 智利
 Argentina.[ˌɑrdʒənˈtinə]n. 阿根廷; 
 
+*  52  Pizza Delivary [dɪˈlɪv(ə)ri]
+pepperoni [ˌpepəˈroʊni] n.意大利辣肉肠
+olive [ˈɑlɪv] n.橄榄树；【植】齐墩果；橄榄树枝；(橄榄枝叶做的)橄榄冠adj.橄榄的
+extra [ˈekstrə]
+thin crust [krʌst] 薄皮
+pepper [ˈpepər]n.胡椒,胡椒粉,胡椒属；精力 v.加胡椒粉于；撒(胡椒)；乱发(质问,子弹)；〈美〉【拳】接连速击 网络辣椒；甜椒；椒类
+delivery [dɪˈlɪv(ə)ri] n.分娩；交付；传送；递送网络交货；
+centimeter [ˈsentɪˌmitər] na.“centimetre”的变体网络厘米；公分
+ingredient [ɪnˈɡridiənt] n.成分；【化】拼份网络成份；
+tropical [ˈtrɑpɪk(ə)l] adj.热带的；
+palm [pɑlm, pɑm] n.手掌；手心；棕榈树
+
+A:Good evening, Pizza House. This is Marty speaking. May I take your order?
+B:Um yes… I’d like a medium pizza with pepperoni, olives, and extra cheese.
+A:We have a two-for-one special on large pizzas. Would you like a large pizza instead? 买一送一
+B:Sure, that sounds good.
+A:Great! Would you like your second pizza to be the same as the first?
+B:No, make the second one with ham, pineapple and green peppers. Oh, and make it thin crust.
+A:Okay, thin crust. Your total is $21.50 and your order will arrive in thirty minutes or it’s free!
+B:Perfect. Thank you. Bye..
+A:Sir, wait!! I need your address!
+
+
 *  51 What a Bargain!
 
 A:Hello. May I help you?
@@ -1193,29 +1216,6 @@ B:Great! You’ve got a deal!
 negotiate [nəˈɡoʊʃiˌeɪt]     v.谈判；协商；磋商；商定    网络交涉；商议；议定 
 
 
-
-
-*  52  Pizza Delivary [dɪˈlɪv(ə)ri]
-pepperoni [ˌpepəˈroʊni] n.意大利辣肉肠
-olive [ˈɑlɪv] n.橄榄树；【植】齐墩果；橄榄树枝；(橄榄枝叶做的)橄榄冠adj.橄榄的
-extra [ˈekstrə]
-thin crust [krʌst] 薄皮
-pepper [ˈpepər]n.胡椒,胡椒粉,胡椒属；精力 v.加胡椒粉于；撒(胡椒)；乱发(质问,子弹)；〈美〉【拳】接连速击 网络辣椒；甜椒；椒类
-delivery [dɪˈlɪv(ə)ri] n.分娩；交付；传送；递送网络交货；
-centimeter [ˈsentɪˌmitər] na.“centimetre”的变体网络厘米；公分
-ingredient [ɪnˈɡridiənt] n.成分；【化】拼份网络成份；
-tropical [ˈtrɑpɪk(ə)l] adj.热带的；
-palm [pɑlm, pɑm] n.手掌；手心；棕榈树
-
-A:Good evening, Pizza House. This is Marty speaking. May I take your order?
-B:Um yes… I’d like a medium pizza with pepperoni, olives, and extra cheese.
-A:We have a two-for-one special on large pizzas. Would you like a large pizza instead? 买一送一
-B:Sure, that sounds good.
-A:Great! Would you like your second pizza to be the same as the first?
-B:No, make the second one with ham, pineapple and green peppers. Oh, and make it thin crust.
-A:Okay, thin crust. Your total is $21.50 and your order will arrive in thirty minutes or it’s free!
-B:Perfect. Thank you. Bye..
-A:Sir, wait!! I need your address!
 
 
 *  53  Head Chef      (cuisine 没有听出)
@@ -1268,7 +1268,6 @@ cheat [tʃit] v.作弊；欺骗；消除(疲劳)；逃脱(法网)n.欺骗；骗�
 
 
 * 55  Hockey
-
 A: Hello everyone! I’m Rick Fields, and here with me  is Bob Copeland.
 B: Howdy folks, and welcome to today’s game! You know, Rick, today is a key game between Russia  and Canada. As you know, the winner will move  on to the finals.
 A:That’s right, and it looks like we’re just about ready to start the match. The ref is calling the players for the face-off... and here we go! The Russians win possession and immediately set up their attack! Federov gets checked hard into the boards!
@@ -1323,7 +1322,6 @@ ASAP :as soon as possible
 practical [ˈpræktɪk(ə)l] adj.实际的；
 advantage [ədˈvæntɪdʒ] n.优势；优点；有利条件；有利因素v.有利于；使处于有利地位；有助于
 Taking advantage 利用 
-
 
 A: Hey Carl, can you make a copy of this contract for me please? When you have it ready, send it out ASAP to our subbranch.
 B: Sure! Um... I think I broke this thing. Maxine, can  you help me out here? I’m not really a tech guy.
@@ -1437,8 +1435,6 @@ B:Well, I am really passionate about consumer behavior, so I pursued a master’
 A:Very good. Now, tell me a little bit about your work experience. I see here that you previously worked at Oracle.
 B:Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care, and process management. I supervised and coordinated the customer support team as well as implemented new strategies to achieve better customer satisfaction.
 
-
-
 educational background  美 [ˌedʒuˈkeɪʃənl  
 honor    美: [ˈɑnərz]
 specialization [ˌspeʃ(ə)lɪˈzeɪʃ(ə)n] n.专门化；特化
@@ -1540,7 +1536,7 @@ Given the opportunity, I could bring this kind of success to this company
 
 
 
-*  66  Calling The Office
+*  66  Calling The Office  pass 
 
 *  67 Soccer
 A:Welcome back, soccer fans. My name is Rick Fields and, as always, I am joined by my commentating wingman, Bob Copeland.
@@ -1556,11 +1552,7 @@ on the brink of 边缘 ; 濒临 ; 濒于
 kick off    na.(足球)中线开球；开始(某种活动)；死；踢脱(鞋等)网络开始干某事；启动
 critical [ˈkrɪtɪk(ə)l]    adj.批评的；批判性的；挑剔的；极重要的     网络临界的；危急的；关键的
 committed    美: [kəˈmɪtɪd]     adj.忠诚的 犯(罪或错等);做出(错或非法的事);
-
 exaggerate     美: [ɪɡˈzædʒəˌreɪt]    v.夸大；夸张；
-
-
-
 
 *  68 Ground breaking Research  [ɡraʊnd]   [ˈbreɪkɪŋ]
 
@@ -1570,7 +1562,6 @@ A:That is preposterous!
 B:You are trying to single-handedly solve  [sɑːlv]  one of the world’s greatest mysteries, and yet you are oblivious to the fact that you are wrong!
 A:I am not wrong! The chicken came first!
 B: No! The egg came first!
-
 
 irrefutable美 [ˌɪrɪˈfjuːtəb(ə)l]    adj. 无可辩驳的 correct;
 extensive    美: [ɪkˈstensɪv] adj.广阔的；广大的；大量的
@@ -1673,13 +1664,23 @@ shake [ʃeɪk]  奶昔 v.摆脱；动摇；摇动；摇头 n.摇动
 
 * 72 You Are Fired
 
+A:Hi Isabel! You wanted to see me?
+B:Yes Anthony, come on in. Have a seat.
+A:Is everything okay? You seem a bit preoccupied.
+B:Well, Anthony, this is not going to be an easy conversation. The company has made some decisions which will have a direct impact on your employment.
+A:Okay...
+B:I don’t want to beat around the bush so I’m just gonna come out with it. We are going to have to let you go.
+A:What? Why? I mean... just like that? I’m fired?
+B:I’m sorry but, to be honest, you are a terrible employee!
+A:What! I resent that!
+B:Anthony, you were caught making international calls from the office phone, you called in sick in eight times this month and you smell like alcohol!
+
 preoccupied[priˈɑkjəˌpaɪd]    adj.心事重重；专注；一门心思
 employment 工作 ; 职业 ; 受雇 ;
 direct impact [ɪmˈpækt]直接影响
 beat around the bush 旁敲侧击 拐弯抹角
 come out with 说出，提出
 resent [rɪˈzent] v.愤恨；感到气愤愤愤不平 find something very insulting [ɪnˈsʌltɪŋ]adj. 侮辱的;
-
 
 idiomatic phrase /ˌɪdiəˈmætɪk freɪz 熟语;惯用语
 specifically [spəˈsɪfɪkli] adv.具体来说；明确地；具体地；特意网络特别地
@@ -1690,7 +1691,7 @@ get laid off/ɡet leɪd ɔːf/下岗;裁掉;被解雇
 感觉容易很多
 A:...The rings please. May this ring be blessed so he who gives it and she who wears it may abide in peace, and continue in love until life’s end
 B:With this ring I thee wed. Wear it as a symbol of our love and commitment.
-A:Honey, that’s my pinkie. The ring goes on the ring finger!
+A:Honey, that’s my pinkie.(the smallest finger ) The ring goes on the ring finger!
 B:This one?
 A:That’s my index finger! 食指
 B:Oh, right. This one, right?
@@ -1734,9 +1735,7 @@ C:Oh, yes... it’s delicious...
 
 positively    美: [ˈpɑzətɪvli] adv.积极地；肯定地；
 famished美 [ˈfæmɪʃt]    adj. 极饥饿的
-
 emphasis    美: [ˈemfəsɪs] n.强调；重视
-
 scream at 尖叫 ; 朝…大叫大嚷， [skriːm]
 moron美 [ˈmɔːrɑːn]    n. 傻瓜；痴愚者；笨人
  self talk 
@@ -1769,8 +1768,6 @@ impede[ɪmˈpiːd]v. 妨碍，阻碍
  obsessed[əbˈsest] [发音]adj. （对……）着迷的
 rays  ˈreɪz] [发音]n. 射线
 Cambodia[kæmˈboʊdiə] n. 柬埔寨
-
-
 
 *  76   Learning Simple Math
 
@@ -1881,21 +1878,16 @@ B:I’m so happy to hear that! I knew we belong together. I love you so much.
 The tire could have popped
 tire ( tiring, tired, tires )   [ˈtaɪər]     v. （使）感到累，（使）感到疲劳；厌倦，厌烦      n. <美>轮胎
 pop     美: [pɑp] adv.突然；砰地(一声) 爆裂
-
-
 show up : appear; come to a place
-
 insane    美: [ɪnˈseɪn] adj.精神失常的；
 stalking    美: [ˈstɔkɪŋ] n.跟踪罪 v.“stalk”
 on purposep : hrasewith intention
 intention     美: [ɪnˈtenʃ(ə)n] n.意图；打算
-
 pregnant    美: [ˈpreɡnənt] adj.妊娠的；怀孕的
  worked up 异常兴奋 ; 十分生气 
  thought     美: [θɔːt] n.思想；思考
  tackle    美: [ˈtæk(ə)l] v.处理；阻截
  throw    美: [θroʊ] v.扔；抛；丢；投n.扔
-
  complement    美: [ˈkɑmpləˌment] v.补充；补足
 
 *  81  Getting A Hair Cut
@@ -2267,6 +2259,22 @@ A:  Yeah man, I’m starving!
 
 
 * 103 Baby, I'm Sorry
+A:Can we talk?
+B:Sure, honey, we’re talking now, aren’t we?
+A:You know what I mean.
+B:Yeah. I know.
+A:I want to know where this relationship is going. I’m in love with you and I need to know... 
+B:You know, I think you’re awesome.
+A:I’m awesome. Well, I guess that’s my answer, isn’t it.
+B:Honey...
+A:Look, if you don’t love me, it’s not a thing, alright, we’ve had our laughs, but I don’t appreciate... maybe it’s just time we...
+B:Baby, I love you so much.
+A:You do?
+B:I love you. And I think you’re awesome.
+A:Oh, I love you too!
+B:Come on. Put the gun down.
+A:Oh baby, I’m so sorry.
+
 appreciate [əˈpriːʃieɪt]v. 欣赏;   赏识;   重视
 don't appreciate :  don't like
 pet names:pet name is a special name that you use for a close friend
@@ -2325,7 +2333,6 @@ rollover :allow unused minutes  to be used the next  month
 annoying [əˈnɔɪɪŋ] adj.使恼怒的；使生气的；使烦恼的
 
 *  107 Complaining at a restaurant
-
 A: Excuse me, waiter? Waiter!
 B: Yes, sir? What can I do for you?
 A: I’ve been sitting here for the past twenty minutes and no one has offered me a glass of water,  brought any bread to the table and our appetizers  haven’t been served yet! You know, in this kind of  establishment, I’d expect much better service.
@@ -2354,8 +2361,7 @@ rare [rer] adv.极adj.稀少的；稀罕的；珍贵的；半熟的
 
 reluctant [rɪˈlʌktənt]     adj.不情愿的；勉强的    网络难得到的；不愿意；难处理
 
-*  108
-
+*  108 Bad news,boss 
 A: ... Now that we have been over the gory details  of our disastrous first quarter, Ed! Give us some  good news. How are things looking for us in terms  of sales this month?
 B: Uh well...would you like the bad news first or the  really bad news?
 A: What? Ed, don’t tell me you only have bad news!
@@ -2395,7 +2401,6 @@ metaphor [ˈmetəˌfɔr] n.隐喻；暗喻
 
 
 *  109 Breaking Up
-
 A: Honey,  do you have a second?
 B: Sure! Are you okay? You seem a bit worried. What's on your mind?
 B: We need  to talk.       B: Okay...
@@ -2444,20 +2449,17 @@ assist [əˈsɪst] v.协助；帮助
 A:Good morning golf aficionados! My name is Rick Fields, and you guessed it, I am here with my main man, Bob Copeland.
 B:Thank you, Rick! As you can see, ladies and gentleman, we are here in beautiful Pebble Beach where the top golfers in the world are trying to win the grand prize of one million dollars!
 A:Whoa, that’s a lot of cash! Let’s go to the course  and see how Tiger Woods is doing.
-
 B:All right, were’re here at the eighth hole. It’s a par four, and has some very difficult hazards which many golfers find difficult to avoid.  Although, I did  see Jack Nicklaus hit a hole in one on this very  same hole!
 A:Tiger Woods is about to tee off, and let’s see if  he has the same luck as Jack. Tiger is asking his caddie for his driver and, he seems to be very  nervous.
 B:Oh no! Not a good swing at all! It’s definitely not his day today.On the seventh hole he got a bogey and before that he barely made par. He will  definitely not get a birdie on this shot.
 A:It seems that his ball has flown somewhere deep in the trees. He is having a hard time finding it  and even his caddie has climbed a tree to try and  spot it.
 B:Oh no! A bear! Run, Tiger, run! Somebody call  animal control!
 
-
 aficionado     美: [əˌfɪʃiəˈnʌdəʊ]  n.迷网络爱好者
 hazard     美: [ˈhæzərd]  n.危险；冒险；公害；意外  v.使遭受危险
 avoid     美: [əˈvɔɪd] v.避免
 tee     美: [ti]  n.开球处；（高尔夫球）球座 v.放(球)
 caddie     美: ['kædi] n.球童
-
  swing at 摆动 ; 对着......挥舞 [swɪŋ]
  bogey 超一击 ; 鼻屎 ; 使人害怕的事物  [ˈboʊɡi] 柏忌球
  barely 美: [ˈberli] adv.仅仅；几乎不
@@ -2467,7 +2469,6 @@ caddie     美: ['kædi] n.球童
 negotiate    美: [nəˈɡoʊʃiˌeɪt] v.谈判；协商
 
 *  112   Dr.Plumber
-
 A: Good afternoon! Did you call for a plumber
 B:Yes, yes I did. Please come in! I’m so glad you came! This old house is falling apart! Come on into the bathroom. See, here, there’s water leaking everywhere!
 A: I see. Let me have a look. It seems that your toilet is clogged, and that’s why it won’t flush. Let me just get my plunger. No, that’s not working either. I suspect that there’s some sort of foreign object in  the pipes that’s causing a blockage. That’s what’s  making your toilet overflow.
@@ -2487,7 +2488,6 @@ overflow: to flow over the edge of  something
 
 
 *  113  Sorry  I'm  Late
-
 A:Where is everyone? We were supposed to start fifteen minutes ago!
 B:Jo called and said she’d be here in a sec. She said she got tied up with a client.
 C:Sorry I’m late everyone. There was a huge traffic jam on the highway this morning.
@@ -2502,12 +2502,6 @@ get tied up : became busy; unable to leave
 backed up : blocked so you can’t move forward
 
 avoid [əˈvɔɪd]vt. 避免;   防止
-
-
-
-
-
-
 
 *  114  1980's
 A:Jim! What’s up man!
@@ -2625,8 +2619,6 @@ Scruffy:Shabby is a scaredy cat!
 Wilma:That laugh came from this room. Let’s go  and check it out.
 Eddie:Look! A ghost! Run!
 
-
-
 mansion  [ˈmænʃ(ə)n] [发音]n.公馆；宅第
 investigate[ɪnˈvestɪˌɡeɪt] [发音]v.调查；研究；调查（某人）
 adventure [ədˈventʃər] [发音]n.冒险；奇遇；经历；冒险游戏v.探险；以…冒险
@@ -2693,7 +2685,6 @@ go postal :  go crazy
 
 
 *  124 Tools
-
 A:Alright, ladies and gentlemen. We’ve been hired to build a deck on this here house, and turn this boring and drab lawn into a backyard oasis.  There is one catch, though. We’ve only got one day to finish this, so I’m gonna need everyone to give one hundred and ten percent today.  It’s going to be tough, but we’ve got a great team here, and I know that together we can tackle this project. That being said, let’s get to work! 
 B:That’s right. Now, remember, we’ve been over the  plans, but we really need to make sure that everything is up to code. The home inspectors here are pretty thorough, so please make sure you follow the plans exactly.  And remember the carpenter’s rule of thumb: measure twice and cut once. 
 A:Okay, guys. Let’s get at it. Bob! Pass me that hammer! The nails won’t go in; the wood is too hard. I think I’m gonna need the nail gun. That  did it!
@@ -2780,7 +2771,6 @@ A:Thanks everyone that was my time.
 
 
 *  127 I love  That Song
-
 Host: Welcome back, music lovers, to ”I Love That  Song”! The game show where we test your  musical knowledge to the extreme! Let’s get started! Team A... Guess this tune:
 Team A: Carrying Your Love With Me by George  Straight! The genre is country music!
 Host:You are right! one hundred points to team  A! Now, for our next cut.
@@ -2797,7 +2787,6 @@ Host: Let’s hear it!
 Team A: Hip Hop, Classical and Gothic metal!
 Host:You are right! Team B, the pressure is on, if you get all of them right, we will move on  to sudden death. If you miss one, you lose!   DJ, Let’s hear it!
 Team B:Rap, Disco and... and...
-
 
 extreme [ɪkˈstrim] n.极端；极限；极度；
 tune[tun] v.调整；（为乐器）调音；（给收音机、电视等）调谐；使协调 n.曲子；曲调
@@ -3034,23 +3023,16 @@ A:I guess you are right. What do you think I should do? He wasn’t always this 
 B:Talk to him, try to cheer him up when he is down and if that doesn’t work, I say get rid of him and get a new one!
 A:You are something else you know that? ==I can’tbelieve you
 
-
 没看文本前听就听懂的真的就直接记得很清楚了 ，忘记不了的感觉
-
 wrack [ræk] n.一片飞云；雾气；破坏；波浪打到岸上的海草 v.毁坏；(使)破灭
  stressed out 极度焦虑的;心力交瘁的
-
 aggressiveness [ə'ɡresɪvnəs]n.咄咄逼人；进取心；攻击者；雄心勃勃 Web进取性；侵略性；
-
 grouchy [ˈɡraʊtʃi] adj.脾气不好并常发牢骚的；好抱怨的
 Web小牢骚；不高兴的；爱发牢
-
 cheer  [tʃɪr]v.欢呼；加油；喝彩；鼓舞 n.欢呼声；
 anxious [ˈæŋkʃəs] adj.焦虑；渴望；担心；忧虑 Web忧虑的；渴望
-
 skydiving [ˈskaɪˌdaɪviŋ] n.【体】高空跳伞；跳伞运动
 mocking [ˈmɑkɪŋ] adj.嘲弄的 v.mock的现在分词
-
 nails[neɪlz] n. 钉子；指甲；（动物的）爪；（一些软喙鸟类）上喙的硬甲壳（nail 的复数）
 v. 把……钉牢；（非正式）揭穿（某人）；（花费
 
@@ -3070,9 +3052,7 @@ B:Awesome!
 broadband 宽带 ; 宽频带
 premium [ˈprimiəm] n.保险费；额外费用；奖金；津贴 adj.优质的；
 megabyte [ˈmeɡəˌbaɪt]  n.【计】兆字节 网络位元组；百万字节
-
 router [ˈrutər]  [ˈruːtə(r)]n.槽刨 路由器
-
 wireless[ˈwaɪərləs] adj.无线的;
 lag [læɡ] n.(锅炉等的)外套；加套；落后；护壁板 v.缓慢移动；发展缓慢；滞后
 installation [ˌɪnstəˈleɪʃ(ə)n] n.安装；设施
@@ -3080,7 +3060,6 @@ throw in 免费赠送 ; 额外奉送 ;
 pen drive 硬盘 ; 随身碟 ; U盘
 
 term [tɜrm]     n.条款；说法；价钱；措辞      v.把…称为  术语；条件；学期
-
 expand [ɪkˈspænd]     v.扩大；扩张；膨胀；展开     网络扩展；扩展的；扩张的
 distribute [dɪˈstrɪˌbjut] v.分布；分发；分配；颁布 网络散布；
 navigate [ˈnævɪˌɡeɪt] v.导航；航行；驾驶(船舶,飞机等)；(人,船等)航行于  网络航行中；浏览
@@ -3183,7 +3162,7 @@ nastiness    US: ['næstɪnəs]     n.污秽    Web惹人厌
 
 
 
-
+ 
 
 *  141  What if ? Part 2
 A:This is the good life! We have it good don’t you  think?
@@ -3214,7 +3193,6 @@ B:I don’t know what to wear! Ok, give me your opinion. Do you like the way thi
 A:Are you joking? What am I going to do with you?  We are going to a dinner party not the beach!  Wear the shirt with the silk tie I bought you and  these corduroy[ˈkɔrdəˌrɔɪ] pants. It’s chilly[ˈtʃɪli]  outside so you can wear this coat.
 B: Thanks honey! You have such great fashion  sense. Now, what am I going to do with my hair?
 
-
 stripes[straɪps] n. 条子布；条纹布（stripe 复数形式）
 ironing [ˈaɪrnɪŋ]     n.熨烫；刚熨好的（或待熨烫的）衣物     v.“iron”的现在分词     Web熨平；熨衣服；引缩加工
 sandal [ˈsænd(ə)l] n.凉鞋；便鞋；
@@ -3240,7 +3218,7 @@ fake [feɪk]n.赝品；假货；冒充者 v.伪造；假装；冒充 adj.假的
 
 
 
-* 143
+* 143 The Butcher 
 
 ground beef 碎牛肉 ; [ɡraʊnd] ground comes from the verb “to grind”.
 lean  [lin] n.	瘦肉 v.	倾斜
@@ -3326,6 +3304,47 @@ filler [ˈfɪlər] n.填充物；充数的东西；
 
 
 
+*  146  Animal Right
+A:You should have seen the T.V. show that was on last night, the topic it covered was really interesting; animal rights.
+B:Do you really believe in that? If they are going to focus on something, they should do it on civil rights.
+A:Yes, but we can’t deny that animals are vulnerable, defenseless, and are completely at the mercy of human beings.
+B:I understand your point, but we continue to have transgressions against human rights.  If so much attention weren’t devoted to the topic of animals, we would then concentrate more on saving a human being instead of protecting a koala.
+A:You can’t compare apples and oranges; I believe that both topics are important and that we can’t ignore them, the mistreatment of animals can cause a great environmental imbalance. I believe that governments should prohibit activities like poaching.
+B:Well, you are right on that point. This is the reason that I don’t buy leather and I try to buy synthetic products.
+B:At least you’re doing your part. My contribution is to have a pet in the house that I treat like a member of the family.
+A:As long as you don’t treat it better than your wife, it’s fine.
+
+civil 公民的 ; 民事的 ; 国家的/ˈsɪvl/
+vulnerable 脆弱的 ; 易受…伤害的 /ˈvʌlnərəbl/
+transgressions /trænzˈgrɛʃənz/违反，侵犯  n. do again something 。negative ,not  positive 
+devoted to 贡献给  /dɪˈvoʊtɪd tu/
+concentrate 集中 ; 使…集中 ; 浓缩 /ˈkɑːnsntreɪt/
+ mistreatment 虐待 
+
+poaching: kill animal sell skin. illegal 
+prohibit /prəˈhɪbɪt/ 
+leather [ˈleðər]    n.皮革；皮外套
+synthetic    美: [sɪnˈθetɪk]    英: [sɪn'θetɪk]     adj.人造的； man-made
+
+at the mercy : 任由摆布 the animal  does not have control 
+
+apple or orange : too diff thing
+
+you're doing you part : you're contributing  为了env bike
+
+emotionally [ɪˈmoʃənlɪ]    adj.感情上；激动地
+
+tusk [tʌsk]    n.(象,猪等的)长牙；
+rhino  [ˈraɪnoʊ]    n.〈口〉同“rhinoceros” 犀牛
+nylon [ˈnaɪˌlɑn]    n.尼龙
+
+circumstances 环境 ; 条件[ˈsɜːrkəmstænsɪz] 
+hypocrite 英 [ˈhɪpəkrɪt]美 [ˈhɪpəkrɪt] n. 伪君子，伪善者
+wipe out 消灭 ; 摧毁，英 /waɪp aʊt/
+
+
+
+
 *  147  The Argument
 
 A: Wow, that terrible movie is finally over. Next time  I’m picking the film, because I don’t want to end   up seeing a chick flick.
@@ -3342,12 +3361,10 @@ A: My friends? Fat? What about those whales you  call friends?
 B: You’re unbearable; you can walk home, I’m leaving.
 A fine 
 
-
 exaggerate [ɪɡˈzædʒəreɪt]v.夸张；夸大；使过大 Web夸张的
 heated [ˈhitəd] adj.愤怒的；激烈的；十分激动的；（用加热器）加热了的
 encounter [ɪnˈkaʊntər] v.遭遇；偶然碰到；意外地遇见；与…邂逅  n.遭遇；交锋；
 clash [klæʃ] n.冲突；龃龉；不
-
 negative [ˈneɡətɪv] n.否定；底片；负片；拒绝  v.否定
 sarcastic [sɑrˈkæstɪk] : to use of words to show irritation adj.讽刺的；嘲讽的；挖苦的
 irritation: [ˌɪrɪˈteɪʃ(ə)n]     n.愤怒；【医】刺激；刺激物      Web激怒；烦躁；恼怒
@@ -3408,18 +3425,14 @@ B: Well, let me know if there’s anything I can do to  help out.
 A: Actually, would you mind looking after my pet tarantula and snake for a couple of weeks?
 B: hehe.. sure
 
-
 lease [lis] n.租约；租借矿区；
 apparently [əˈperəntli]adv.显然；可见
 lot [lɑt] adv.非常；
 decent [ˈdis(ə)nt]adj.像样的；相当不错的
 tarantula [təˈræntʃələ] n.捕鸟蛛Web狼蛛；  我完全听不出来 
-
 negotiate [nəˈɡoʊʃiˌeɪt] v.谈判；〈口〉通过；议定；〈口〉处置 Web协商；议
 expire [ɪkˈspaɪr] v.断气；届满；吐气；消灭Web过期；
-
 alternative[ɔːlˈtɜːrnətɪv] n. 可供选择的事物，替代物 adj. 可替代的，备选的；非传统的，另类的；（两者）互不相容的，非此即彼
-
 
 
 *   C 150  Bug  Spray
@@ -3438,7 +3451,6 @@ itch[ɪtʃ] n.痒；热望；【医】疥癣；【医】痒 v.痒；极想 Web�
 allergy[ˈælərdʒi] n.变态反应；过敏反应  Web过敏症；
 repellent [rɪˈpelənt] n.防水剂；驱虫剂 adj.使人反感的
 malaria [məˈleriə]n.疟疾Web瘴气；
-
 
 scratch [skrætʃ]n.抓；划痕；抓伤；擦伤 v.抓；抓伤[破]；(用爪,针等)搔；搔(痒)  adj.(船员,球
 spray [spreɪ]n.喷雾；喷剂；浪花；喷雾器 v.喷；喷
@@ -3479,7 +3491,6 @@ Sarah:  Tom! How are you? We missed you at the  party last night. Are you ok?
 Tom: I don’t know. I didn’t really feel like going out. I guess I’m feeling a little homesick.
 Sarah: Come on We’ve been through this already! Look, I know the adjustment was hard when  you first got here, but we agreed that you were  gonna try and deal with it.
 Tom: I was. It’s just that the holidays are coming up  and I won’t be able to home because I can’t afford the airfare. I’m just longing for some of the comforts of home, like my mom’s cooking  and being around my family.
-
 Sarah: Yeah, it can get pretty lonely over the holidays. When I first got here, I’d get depressed and nostalgic for anything that reminded me  of home. I almost let it get to me, but then I  started going out, keeping myself busy and before I knew it, I was used to to it.
 Tom:  I see what you mean, but I ’m still bummed out.
 Sarah: Ok how does this sound: let’s get you suited up and hit the dance club tonight. I hear that an awesome DJ is playing and there will be a lot of pretty single girls there!
@@ -3487,20 +3498,14 @@ Tom: You know, I could really go for that. You don’t mind being my wingman for
 Sarah: Not at all!  It be fun! It will be like a boys night out... well kinda..
 Tom: Great! I must warn you though, whatever happens, don’t let me go on a drinking binge. Trust  me, it’s not a pretty picture!
 
-
 adjustment:  [əˈdʒʌstmənt] n. 调整，校正；（行为、思想的）调节，适应；调
-
 longing for : showing a strong desire  for something
 desire[dɪˈzaɪr] n.欲望；渴望；
-
 bear  [ber] v.承受；忍受；不适于某事（或做某事）；承担责任  n.熊；
 afford v : bear the cost of
 excess [ˈekˌses] n.过度；超过；过分；过多的量 adj.超额的；额
-
 airfare [ˈerˌfer] n.航空运费
 nostalgic [nɒˈstældʒik] : homesick adj.怀旧的；令人怀念的  Web乡愁的；狐死首丘
-
-
 
 
 
@@ -3535,7 +3540,6 @@ conjunction [kənˈdʒʌŋkʃ(ə)n] n.连词；同时发生；（恒星、行星
 
 
 *  155    Bachelor  party  [ˈbætʃələr]
-
 A: Hi honey! You’ll never guess what! My friends Julie and Alex are getting married!
 B: Wow that’s great news! They’re a great couple!
 A:I know! Anyways I just talked to Alex’s best man and he is organizing the bachelor party It’s gonna  be gonna be so much fun!
@@ -3608,12 +3612,9 @@ A:I’m sorry sir but, what exactly did you do?
 B:Well, I may have accidentally insinuated that she is getting chubbier .
 A:Get out of my store you jerk!
 
-
 occasion美: [əˈkeɪʒ(ə)n] n.时机；理由；原因；某次v.使发生
-
 regretful美 [rɪˈɡretfl]     adj. 后悔的，遗憾的
 stem    美: [stem] n.（花草的）茎；
-
 stand out美 [stænd aʊt]     脱颖而出：在某
 orchid英 [ˈɔːkɪd]美 [ˈɔːrkɪd]      n. 兰科植物，兰花
 achieve [əˈtʃiv] v.完成；（凭长期努力）达到
@@ -3656,21 +3657,24 @@ pre existing illnesses :  have right now
 *  161 Computer Games
 A:MarkWhere have you been? I’ve been calling you all morning.
 B:I’ve been playing computer games.
+A:What? So you blew me off yesterday and today over a stupid video game? What game is so important that you have no time for me anymore? What are you playing?
+B:It’s called Counter Strike It’s a first person shooter game. It’s awesome. It’s a multi player game where you can go online and compete against players from all over the world.
+A:You’ve been wasting your time on this? I can’t believe it! It doesn’t even look fun or challenging!
+B:My laptop is on my bed. If you think it’s so easy then get onlineand try to beat me.
+A:Fine!
+B:Dammit! Howare youkilling me with a single shot? It’s not fair! I don’t want to play anymore! Let’s go get something to eat.
+A: Can you bring me something? I am totally hooked on this game!
 
-* 162
+
+* 162 Veteran’s Day
 A:Do you have any plans for Veteran’s Day
 B:You mean Armistice Day 
 What are you talking about? November eleven is veterans day. What planet are you from?
 A : Well, as you know, on November 11th allies signed a peace treaty with the Germans, also known astheArmistice Treaty This marked the end of WWI and many countries around the world commemorate this date under names such as ” day. In Poland it’s their independence day! There’s a lot going on around the world on this  day.
 B:Wow, I didn’t know! Probably because I flunked history in school.  
 
-
 veteran    美: [ˈvet(ə)rən] n.老兵；退役军人；
-
 armistice美 [ˈɑːrmɪstɪs]    n. 停战，休战；休战协议
-
-
-
 
 
 * 163 not  Social Security  not fish  
@@ -3808,16 +3812,16 @@ can handle it
 
  
 *  170 Wedding Doubts
-
+A:Man, I’m freaking out! You gotta help me!
+B:Whoa whoa take it easy, relax. Geez, you’re sweating like a pig! What’s going on?
+A:I can’t go through with this! I just can’t! I’m not ready for marriage! What was I thinking? I’m only thirty five years old! I’ve got my entire life ahead of me, adventures waiting! I can’t settle down yet!
 B:What are you talking about? It wasn’t more than a month ago that you were rambling on about how you are tired of living the life of a bachelor and  how you envy your friends that have a family!
 B:Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would  you want to end that or jeopardize it like this?
-B:Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would you want to end that or jeopardize it like this? Sec-
-ond of all, you are just getting cold feet. You know deep down inside that you want to marry her, so cut the crap and do it!
+B:Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would you want to end that or jeopardize it like this? Second of all, you are just getting cold feet. You know deep down inside that you want to marry her, so cut the crap and do it!
 B:You’re right. I’m being crazy! Ok, I’m ready, lets do this!
-A:Great! Phew! That was a close one ! You had me going there for a minute I thought I was gonna have to slap some sense intoyou
+A:Great! Phew! That was a close one ! You had me going there for a minute I thought I was gonna have to slap some sense into you
 
 slap some sense into： remind someone to stay  calm
-
 rambling  [ˈræmblɪŋ]    adj. 漫步的
 envy     美: [ˈenvi] v.羡慕；
 
@@ -3850,8 +3854,9 @@ iron [ˈaɪrn] n.铁；熨斗；铁器；金属工具 adj.坚强的；强硬坚�
 starch [stɑrtʃ] n.淀粉；含淀粉的食物；（浆衣服、床单等用的）淀粉浆 v.把（衣服、床单等）浆一浆
 
 
-*  174
-
+*  174 Getting a manicure
+A:Honey I’ll be right back!
+B:Where are you going?
 A:I told you already! I’m going to. get my nails done.
 B:Again? You just went last week! You spend more time atthe nail salon than you do here at home! Honestly, why do you need a manicure every week?
 A:Well, first of all, I like to pamper myself, and my nails look great. You should come with me! 
@@ -3860,13 +3865,10 @@ A:They don’t only paint my nails! The manicurist will remove my cuticles, file
 B:Yeah, sounds like something I should definitely do.
 
 manicure      美: [ˈmænɪˌkjʊr]  n.修剪指甲；指甲护理 v.修剪
- nail polish 指甲油 ; 趾甲油  [ˈpɑːlɪʃ]
+nail polish 指甲油 ; 趾甲油  [ˈpɑːlɪʃ]
 pamper  [ˈpæmpər]     vt. 细心照顾，娇惯
 manicurist 美 [ˈmænɪkjʊrɪst]     n. 指甲修饰师
-
 cuticles 美 [ˈkjʊtɪkl]    n. [生物]角质层；[解剖]表皮
-
-
 
 *  175
 
@@ -3882,12 +3884,12 @@ gathering     美: [ˈɡæð(ə)rɪŋ]  n.收集；采集
 
 
 *  176  Heating
-
+A:It’s freezing in here! Can I turn up the heat?
 B:Don’t touch that thermostat! You don’t paythe bills  around here!
 A:Dad! Are you serious? What’s the point of having central heating if we can’t use it! Look, I can see  my breath!
-
-
-B:When I was your age, my parents didn’t have  central heating like you do! We had a furnace  inthe center ofthe living room and that was it. We  used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
+B:Put on a sweater! I’m not gonna let you run up my heating bill just because it’s a bit chilly.
+A:Dad! I’m gonna catch a cold!
+B:When I was your age, my parents didn’t have  central heating like you do! We had a furnace  inthe center of the living room and that was it. We  used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
 
 thermostat     美: [ˈθɜrməˌstæt] n.恒温器；温控器
  furnace  [ˈfɜːrnɪs]    n. 火炉，熔炉
@@ -3948,12 +3950,21 @@ ingredients [ɪnˈgridiənts]
 
 
 *  182  Boxing Day 节礼日(圣诞节后的第一个工作日
-
-A:And this one? Too flashy? 
-A:Uhg! And this sweater from my aunt? Isn’t it hideous? 
-A:Are you even listening? I’m trying to have a conversation with you. 
+A:What do you think of this one?
+B:Eh, so so.
+A:And this one? Too flashy?
+B:Nah, not too flashy.
+A:Uhg! And this sweater from my aunt? Isn’t it hideous?
+B:I guess.
+A:Are you even listening? I’m trying to have a conversation with you.
+B:And I’m trying to watch the game, but you’re yapping on about your new clothes!
 A:Well I have to decide which gifts to keep and which to exchange for better ones when I go to the Boxing Day sales this afternoon!
-
+B:Well could you do me the favor of making this quick? It’s the third quarter and you’ve been blabbering on since the first!
+A:Oh, your precious game. You watch the same game every year, and each year your beloved hometown team loses by at least three goals!
+B:Oh no you didn’t. You didn’t just insult the Salsbury Seals, did you? Why don’t you just. just go and return all of those stupid clothes and not come back until the sales are over?
+A:I might just! Enjoy your stupid game!
+B:And Merry Christmas!
+A:Merry Christmas!
 
 flashy    美: [ˈflæʃi] adj.俗艳的 
 hideous     美: [ˈhɪdiəs] adj.十分丑陋的；
@@ -3993,9 +4004,6 @@ B:I’m with you on that one. Anything else you’re planning on doing?
 A: One last thing, I’ve decided to come out of the closet. [ˈklɑːzɪt]
 B: It’s about time!
 
-
-
-
 fresh      美: [freʃ]  adj.新鲜的；新产的；刚摘的；新近的
 
 leaf    美: [lif] n.叶；叶片；叶子；有…状叶的v.长叶
@@ -4016,15 +4024,11 @@ A:Honey, seriously, It’s just a sheep. Relax!   [ʃiːp]
 A:Relax, that was just the horses and donkeys that  are in the stable .   [ˈhɔːrsɪz]  [ˈdɑŋki]
 B: You know what? I don’t think I can hack it here  out in the countryside. I’m going back to the city!
 
-
-
-
 grow [ɡroʊ] v.成长；长大；增加；扩大  linkv.逐渐变得；逐渐成为  生长；种植
 confess [kənˈfes] v.忏悔；坦白；告解；
 cow[kaʊ] n.母牛；【动】奶牛
 grazing ['greɪzɪŋ] n.牧场；草场 v.“graze”的现在分词
  hack it 破解它 ; 容忍 
-
 
  
 *  186  b
@@ -4054,11 +4058,9 @@ B:One last thing. Is it waterproof?
 accidentally [ˌæksɪˈdent(ə)li] adv.意外
 
 manufacturer [ˌmænjəˈfæktʃərər] n.制造商
-hot spot ['hɒtspɒt]     n.危险地带；犯罪的高发地区；闹区；【计】热点      网络无线热点；热区；无线上网据点
-
+hot spot ['hɒtspɒt]     n.危险地带；犯罪的高发地区；闹区；【计】热点无线上网据点
 model [ˈmɑd(ə)l] n.型；模范；典型；模特儿；模型；原型；设计图；模范  v.设计；仿
-
-
+appliance [əˈplaɪəns]    n.（家用）电器
 
 *  190 Family Barbecue
 
@@ -4084,7 +4086,7 @@ patty [ˈpæti] n.碎肉饼；鱼肉饼
 
 
 
-*  191
+*  191 Daylight Savings Time
 
 A:Did you set your clock forward for daylight savings  time?
 B: What? Why do we have to do that?
@@ -4140,12 +4142,8 @@ A: Well, you can keep the vegetables, I’ll take the meat. The stir fry my wife
 
 B:What? You call that a stir fry? More meat than vegetables? That’s the worst insult you could throw at a Chinese stir fry What a disgrace to the wok she fried it in! What you had is equivalent to a fajita without the wrap! Silly Americans!
 
-
-
 stir     美: [stɜr] v.搅拌
-
 soy sauce 酱油   [sɔɪ] [sɔːs]
-
 oyster sauce 蚝油 [ˈɔɪstər]
 sprout     美: [spraʊt]  v.发芽；
 wilted 美 [ˈwɪltɪd]     adj. 枯萎的
@@ -4184,7 +4182,6 @@ a piece of cake
 
 Oct 2023 
 https://archive.org/details/englishpod_0196dg
-
 
 A: Welcome to Bill’s Fabric World. What can I do for  you today?
 B: I was wondering if you guys also tailor clothes? 
@@ -4240,7 +4237,6 @@ B: If a robber breaks into the house!
 C: If the fire alarm goes off!
 B: Pff! I wouldn’t call 911 if the fire alarm went off in my house. The only time that ever happens is when we’re having spaghetti for supper, and Mom burns the garlic bread, as usual.
 
-
  dressed up 穿上盛装的;装扮成…的 ; 伪装成…的 
 garlic [ˈɡɑrlɪk] n.【植】大蒜
 spaghetti [spəˈɡeti] n.意大利细面条
@@ -4248,7 +4244,7 @@ spaghetti [spəˈɡeti] n.意大利细面条
 plural[ˈplʊrəl]n. 复数（形式） adj. 复数的，
 official capacity /əˈfɪʃl kəˈpæsəti/  正式身份;公职权力，官方权力；法定资格 
 medic [ˈmedɪk] n.救护人员
-bruise [bruz]     v.擦伤；使成瘀伤[暗伤]；碰伤    n.擦伤；(感情受到的)伤害    网络青肿；击痕；瘀青
+bruise [bruz]     v.擦伤；使成瘀伤[暗伤]；.擦伤；(感情受到的)伤害    网络青肿；击痕；瘀青
 protect [prəˈtekt] v.保护；防护；
 ends up 最终 ; 结束 ; 下首
 veterinarian [ˌvet(ə)rɪˈneriən] adj.同“veterinary” n.兽医
