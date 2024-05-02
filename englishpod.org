@@ -491,7 +491,7 @@ indicate [ˈɪndɪˌkeɪt] v.指示；表明；显
 distinguish [dɪˈstɪŋɡwɪʃ] v.区分；辨别
 color-blind
 
-*  20 I Can See Clearly Now 
+
 *  21  What  Do You Do?
 
 A:Oh, look, there’s Veronica and her boyfriend. She’s always going on about him at the office. Oh, great, they saw us. They’re coming this way.
@@ -598,7 +598,54 @@ contraction [kənˈtrækʃ(ə)n] n.收缩；挛缩
 squeeze [skwiz] v.挤；榨；压；压出n.挤压；
 
 
-* 25 not   Aug 23 2023 
+* 25 Planning For The Worst  
+A:Well, right, let’s move to our next order of business, as many of you are aware, in recent weeks there has been a lot of media coverage surrounding this bird flu issue. And it’s come to my attention that our company lacks any sort of bird flu contingency plan.
+B:Basically, we need to come up with a clear plan; we need to outline specific actions that our company can take to maintain  critical business functions in case a pandemic strikes.
+A:So, what I’d like to do is: first appoint someone to look after drafting our plan; Ralph, I’d like you to head up this project.
+C:Sure, no problem. What issues do you want me to consider?
+B:Well, let’s see, there are a few points we need to
+be thinking about. . . first, I’ll need you to analyze our numbers and figure out what kind of financial impact an outbreak might have.
+A:You’ll also need to think about how we can avoid any of our employees getting infected; think of ways to reduce employee-customer contact, perhaps some IT solutions that will allow our people to work from home.
+C:I guess you’ll need me to forecast employee absences as well, right? And I’ll think about the impact this will have on our clients. Hey, what about vaccines? Should we be thinking about getting vaccines for our employees?
+A:Exactly right. So, I’ll leave this to you, and we’ll review the draft plan in two weeks. Okay, so, anyone want to order some KFC for lunch? 
+
+order of business Phrase an issue that must be discussed
+
+aware [əˈwer]    adj.意识到；知道；明白
+surrounding [səˈraʊndɪŋ]    n.环境；附近    adj.周围的；附近的
+bird flu
+contingency plan 应急计划 ; 应变计划 backup plan
+maintain [meɪnˈteɪn]    v.维护；保持；坚持；抚养
+pandemic /pænˈdemɪk/ 流行病  大流行的 ; 普遍的，全世界的
+critical  [ˈkrɪtɪk(ə)l]  business functions 关键的业务职能
+strikes[straɪks] v.撞击;打;   击打，踢(球等);   击;   碰撞;   n. 罢工;
+appoint 任命 ; 委任 ; 安排，确定
+drafting ['drɑːftɪŋ]     n.起草；制图
+avoid [əˈvɔɪd]    v.避免；避开
+reduce [rɪˈdus]    v.减少
+analyze [ˈæn(ə)lˌaɪz]    v.〈美〉同“analyse”    分析；分解；分析菜单
+critical : very  important,really urgent 
+outbreak [ˈaʊtˌbreɪk]v.爆发〈诗〉突然发生；花开 n.突然发生  a lot of people infeced
+impact[ɪmˈpækt]    v.冲击；撞击；有作用     n.撞击；冲击力
+absences 不在 ; 缺乏 ; 不存在 ; 缺席 /ˈæbsənsɪz/
+absence     美: [ˈæbsəns]    英: [ˈæbs(ə)ns]     n.缺席；缺乏；不在；不存在
+forecast : [ˈfɔːrkæst] eg weather forecast: predict [prɪˈdɪkt]     v.预报；预言 
+vaccine [ˈvækˌsin]    n.疫苗；菌苗
+let move to  : move on/ pass to  next topic
+come up with :Think of a clear plan 想出，提出 ; 赶上，走近 ; 设法拿出
+head up : take care  lead or take care of this project
+I'll leave this: to you: you take charge
+critical  [ˈkrɪtɪk(ə)l]     adj.批判的，爱挑剔的；极其重要的，关键的；严重的，危急的；病重的，重伤的；评论性的，评论家的
+I wonder if you can give me a  lift /lɪft/
+spread [spred]    n.传播；蔓延；扩展；散布     v.传播
+sneeze [sniz]    n.打喷嚏；轻视    v.打喷嚏
+injections 注射 ; 注入 /ɪnˈdʒɛkʃənz/
+prevent 防止 ; 阻止 ; 阻碍/prɪˈvent/
+we get polio vaccines…   小儿麻痹症 /ˈpoʊlioʊ ˌvækˈsinz/
+measles vaccines.  /ˈmiːzlz/ 麻疹 
+fear /fɪr/
+Okay, guys, we’re out of time today and I hope you enjoyed our lesson and found all
+these words and phrases really useful and you can apply them in real life.
 
 *  26  New Year Resolution  
 resolution [ˌrezəˈluʃ(ə)n] n.解决；分辨；解析；决议    网络分辨率；解析度；决心
@@ -3564,21 +3611,17 @@ prank     美: [præŋk]  n.恶作剧；玩笑 v.盛装
 mud wrestling  [mʌd] ˈres(ə)lɪŋ]  泥地摔跤
 
 *  157 Trick Or Treat
-
 A:Trick - or -treat
 B:Tom, aren’t you a littletoo old to be trick-or - treat-ing?
 A:What are you talking about? Where is your Halloweenspirit? Didn’t you ever dress up in a costume and go around the neighborhood trick-or-treatingwith your friends?
 B:Of course I did, but when I was ten! Trick -or-treatingis for kids, plus, I’m sure people will think you’re a kidnapper or something, running around with kids NCP at night.
 A:Whatever, I’mgoing next doorI heard Mrs. Robinson is giving out big bags of M&Ms!
 
-
 trick [trɪk] n.技巧；诡计；诀窍；把戏 v.欺骗；欺诈  adj.意在欺骗的；容易使人上当的；虚弱有毛病的  恶作剧
 [triːt]
 costume [ˈkɑːstuːm]    n. 服装，装束；戏服，表演服装；泳衣，泳装    v. 给（某人）穿上特定服装
-
 vampire    美: [ˈvæmˌpaɪr] n.吸血鬼
 carving    美: [ˈkɑrvɪŋ] n.雕刻品
-
 
 
 *  158  ALL saints Day 
@@ -3599,7 +3642,6 @@ B:Why? We should fear the living, not the dead .
 
 
 *  159  Getting Flowers
-
 A:Hello sir, how may I help you?
 B:I would like to buy some flowers, please. Something really nice.
 A:I see, may I ask whatthe occasion is?
@@ -3611,7 +3653,6 @@ B:I don’t think that’s gonna cut it. I need something bigger and better!
 A:I’m sorry sir but, what exactly did you do?
 B:Well, I may have accidentally insinuated that she is getting chubbier .
 A:Get out of my store you jerk!
-
 occasion美: [əˈkeɪʒ(ə)n] n.时机；理由；原因；某次v.使发生
 regretful美 [rɪˈɡretfl]     adj. 后悔的，遗憾的
 stem    美: [stem] n.（花草的）茎；
@@ -3622,7 +3663,7 @@ tulip    美: [ˈtulɪp] n.郁金香；
 carnation    美: [kɑrˈneɪʃ(ə)n] 康乃馨
 lily    美: [ˈlɪli] n.百合花
 fragrance    美: [ˈfreɪɡrəns] n.香气；香水
- cut it 完成;应付 
+cut it 完成;应付 
 insinuate美: [ɪnˈsɪnjuˌeɪt] v.暗示；使潜入
 chubby [ˈtʃʌbi] adj.〈非正式〉肥嘟嘟的；丰满的
 
@@ -3648,7 +3689,6 @@ coverage 保险范围  include  your insurance plan
 co-pay 付费；自付率
 qualify for 受到…… ; 有……资格 ˈkwɑːlɪfaɪ fɔːr/ cant user   Academic 
 pirate [ˈpaɪrət]n.海盗；海盗船；侵害版权者    v.掠夺
-
 when it comes to 说到 ; 当提到
 we got to talking for a while
 got me thinking
@@ -4320,12 +4360,6 @@ fructose [ˈfrʌkˌtoʊs] n.果糖
 stick [stɪk] v.粘贴；刺；忍受；戳 n.条；枯枝；
 intake [ˈɪnˌteɪk] n.吸收；吸
 
-combination [ˌkɑmbɪˈneɪʃ(ə)n] n.组合；【数】组合；【化】化合(物)；【矿】聚形    网络结合；联合；混合
-greasy [ˈɡrisi] adj.多油的；油污的；沾
-mustard [ˈmʌstərd] n.芥；芥菜；芥末酱；芥菜叶 网络芥茉
-ketchup [ˈketʃəp] n.番茄酱 网络蕃茄酱；
-relish [ˈrelɪʃ] v.喜欢；享受；从…获得乐趣；渴望 n.享受；乐趣；风味佐料（用水果和蔬菜煮后制成的冷稠酱汁） 网络意味；调味品
-
 announcement[əˈnaʊnsmənt]n.通告；宣告 网络公告；通知
 nonetheless[ˌnʌnðəˈles]adv.尽管如此;  
 in general what are we talking about?
@@ -4335,6 +4369,12 @@ fizzy [ˈfɪzi] adj.起泡的 网络嘶嘶的；泡沫腾涌的；有气泡的
 ingredient [ɪnˈɡridiənt] n.成分；要素；（尤指烹饪）材料
  a small amount 少量 ; 少量的 ; 很小的量
  lessen [ˈles(ə)n]     v.减轻    网络减少；缩小；变小
+
+combination [ˌkɑmbɪˈneɪʃ(ə)n] n.组合；【数】组合；【化】化合(物)；【矿】聚形    网络结合；联合；混合
+greasy [ˈɡrisi] adj.多油的；油污的；沾
+mustard [ˈmʌstərd] n.芥；芥菜；芥末酱；芥菜叶 网络芥茉
+ketchup [ˈketʃəp] n.番茄酱 网络蕃茄酱；
+relish [ˈrelɪʃ] v.喜欢；享受；从…获得乐趣；渴望 n.享受；乐趣；风味佐料（用水果和蔬菜煮后制成的冷稠酱汁） 网络意味；调味品
 
 
 
@@ -5841,43 +5881,37 @@ reboot [ˌriˈbut] v.重新启动
 
 
 
-*  297 Ordering at an  Italian restaurant
+* 297 Ordering at an Italian restaurant
+A: Good evening ladies. My name is Josh and I’ll be your server tonight. May I take your order?                                                             
+ B: Do you have any recommendations?                                                                                                                         
+ A: Well, I personally like the chicken penne with  cream mushroom sauce, but the prawn fettuccine is also very nice.                                        
+ B: Hmm. I’d like to have the grilled chicken, but can I have spaghetti instead of penne?                                                                    
+ A: Of course, mam. And for you?                                                                                                                             
+ C: I... ah..I’ll have the horse tripe. 
 
-A: Good evening ladies. My name is Josh and I’ll be your server tonight. May I take your order?
-B: Do you have any recommendations?
-A: Well, I personally like the chicken penne with  cream mushroom sauce, but the prawn fettuccine is also very nice.
-B: Hmm. I’d like to have the grilled chicken, but can I have spaghetti instead of penne?
-A: Of course, mam. And for you?
-C: I... ah..I’ll have the horse tripe.
-
-
-
-recommendations 推荐 ; 介绍 ; 提议/ˌrɛkəmənˈdeɪʃənz/
-
-grilled chicken 烤鸡 ; 烤鸡肉   /ɡrɪld ˈtʃɪkɪn/
-cream 奶油 ; 奶油色  [kriːm]
-prawn 英 [prɔːn] 美 [prɔːn]     n. 对虾，明虾
-
-fettuccine 意大利宽面条，扁平细面条；  [ˌfetuˈtʃini] 
-penne 通心粉 ; 意大利面食 [ˈpenneɪ]
-spaghetti 意大利面 ; 意大利细面条 /spəˈɡeti/
-penne 通心粉 /ˈpen.i/
-tripe [traɪp]  百叶 ; 废话 ; 拙劣的文章 ; 食用牛肚
-
-
-I’ll be your server tonight.
-May I take your order
- Do you have any recommendations?
-
- 
- spongy material 海绵状材料  /ˈspʌndʒi məˈtɪriəl/
-
-dough [doʊ]  小面团
-
-
-graphics [ˈɡræfɪks]    n. （商业设计或插图中的）图形；图样，图案制图学；制图法；图表算法；（计算机程序中）图表
-
-
+ recommendations 推荐 ; 介绍 ; 提议/ˌrɛkəmənˈdeɪʃənz/                                                                
+                                                                                                                     
+ grilled chicken 烤鸡 ; 烤鸡肉   /ɡrɪld ˈtʃɪkɪn/                                                                     
+ cream 奶油 ; 奶油色  [kriːm]                                                                                        
+ prawn 英 [prɔːn] 美 [prɔːn]     n. 对虾，明虾                                                                       
+                                                                                                                     
+ fettuccine 意大利宽面条，扁平细面条；  [ˌfetuˈtʃini]                                                                
+ penne 通心粉 ; 意大利面食 [ˈpenneɪ]                                                                                 
+ spaghetti 意大利面 ; 意大利细面条 /spəˈɡeti/                                                                        
+ penne 通心粉 /ˈpen.i/                                                                                               
+ tripe [traɪp]  百叶 ; 废话 ; 拙劣的文章 ; 食用牛肚                                                                  
+                                                                                                                
+                                                                             
+ I’ll be your server tonight.                                                                                        
+ May I take your order                                                                                               
+Do you have any recommendations?                                                                                   
+                                                                                                                 
+ spongy material 海绵状材料  /ˈspʌndʒi məˈtɪriəl/                                                                   
+                                                                                                                     
+ dough [doʊ]  小面团                                                                                                 
+                                                                                                                     
+                                                                                                                     
+ graphics [ˈɡræfɪks]    n. （商业设计或插图中的）图形；图样，图案制图学；制图法；图表算法；（计算机程序中）图表 
 
 
 * 299 Returning A Product
