@@ -2263,7 +2263,7 @@ A: See you soon! Bye! Ugg... I can’t stand that woman or her obnoxious son. /d
 
 
 *  100  Where  are you from
-
+May 05  2024  Host  text 
 A: Where to, miss?
 B: Hi! Crenshaw and Hawthorne, at the Holiday Inn that is on that corner.
 A: Sure thing. So, where are you flying in from?
@@ -2282,7 +2282,20 @@ B:Que bien! Entonces podemos hablar en espanol!
 manufacture [ˌmænjəˈfæktʃər] v.（用机器）大量生产
 heritage [ˈherɪtɪdʒ] n.遗产（指国家或社会长期形成的历史、传统和特色）  继承物；传承
 rusty [ˈrʌsti] adj.荒废；生锈的；荒疏；退步
+casual 随便的 ; 临时的 ; 偶然的 ; 非正式 ;  /ˈkæʒuəl/
+statement [ˈsteɪtmənt]    n.声明；陈述；报表；报告     v.对儿童进行特殊教育评估认定 语句；
+nosy [ˈnoʊzi]    adj.〈贬〉多管闲事的     网络爱管闲事的；好管闲事的；爱打听的
 
+sensitive 敏感的 ; 灵敏的/ˈsensətɪv
+disorganized [dɪsˈɒrɡəˌnaɪzd]    adj.无组织的；混乱的
+appropriate [əˈproʊpriˌeɪt] 适当的 ; 合适的     v.拨款；剽窃；挪用；〈正式〉非法占有    adj.恰当的
+
+you don't look very Chinese to me if you don't mind me saying so.  If you don't mind me saying so
+Excuse me if I'm being a bit nosy, but.
+Don't get me wrong.
+I was born and raised here
+a fond 嗜好
+they're not really well accepted
 
 
 *  101 The Weekend - 1970’s
@@ -3525,13 +3538,8 @@ accumulate    美: [əˈkjumjəˌleɪt] v.累积；积累；
 steam    美: [stim] n.蒸汽；
 truce    美: [trus] n.休战；
 
-
 straw [strɔ] n.稻草；一根禾秆（或麦秆、稻草）；（喝饮料用的）吸管
 clip    美: [klɪp] v.剪辑；修剪；削减；固定 n.夹；
-
-
-
-
 
 *  153  homesick
 Sarah:  Tom! How are you? We missed you at the  party last night. Are you ok?
@@ -3553,8 +3561,6 @@ afford v : bear the cost of
 excess [ˈekˌses] n.过度；超过；过分；过多的量 adj.超额的；额
 airfare [ˈerˌfer] n.航空运费
 nostalgic [nɒˈstældʒik] : homesick adj.怀旧的；令人怀念的  Web乡愁的；狐死首丘
-
-
 
 *  154   Rock Band
 
@@ -3580,11 +3586,7 @@ some metal strings 金属线
 emphasize [ˈemfəˌsaɪz] v.强调；重视
 conjunction [kənˈdʒʌŋkʃ(ə)n] n.连词；同时发生；（恒星、行星等的）合 网络连接词；结合；
 
-
 11：00 有空再听完
-
-
-
 
 *  155    Bachelor  party  [ˈbætʃələr]
 A: Hi honey! You’ll never guess what! My friends Julie and Alex are getting married!
@@ -3625,23 +3627,35 @@ carving    美: [ˈkɑrvɪŋ] n.雕刻品
 
 
 *  158  ALL saints Day 
+pass hosts text  May 04  2024 
+
 cemetery    美: [ˈseməˌteri] n.公墓
 altar    美: [ˈɔltər] n.祭坛；圣坛
+tomb [tum]    n.坟墓；墓穴；墓碑；死    v.埋葬
 grave    美: [greɪvz] n.坟墓；墓穴；墓地；墓碑adj.重大的
 relative    美: [ˈrelətɪv] n.亲戚；关系物；
+deceased 死者 ; 死去了的  /dɪˈsiːst/
 
 C:The Day of the Dead has arrived All Soul’s  Day and All Saint’s Day!
 A:Your neighbor is crazy. Why is he screaming that?  [ˈskriːmɪŋ] 
 B:Because today is the first of November the Day of  the Dead
 A:Oh, that’s right.
-B:This is a very special day among many cultures around the world especially in Latin America
+B:This is a very special day among many cultures around the world especially in Latin America uk/ˈlæt.ɪn/ us/ˈlæt̬.ɪn/
 A:Seriously? I thought it was just like any other day,except for the fact that people visit the cemetery and remember their loved ones.
-B:Well, that’s just part of it People across the world celebrate in different waysIn Mexcio for example it’s common to see people building private altars honoring the deceasedusing sugar skulls, preparing the favorite foods and beverages of the departed and visiting graves with these as gifts. In the Philippines , the tombs are cleaned or repainted, candles are lit and flowers are offered Entire families camp out in cemeteries and sometimes spend a night or two near their relatives’ tombs!
-A:Whoa! That’sscary! I don’t know if I could do that!
+B:Well, that’s just part of it People across the world celebrate in different ways In Mexcio for example it’s common to see people building private altars honoring the deceasedusing sugar skulls, preparing the favorite foods and beverages of the departed and visiting graves with these as gifts. In the Philippines , the tombs are cleaned or repainted, candles are lit and flowers are offered Entire families camp out in cemeteries and sometimes spend a night or two near their relatives’ tombs!
+A:Whoa! That’s scary! I don’t know if I could do that!
 B:Why? We should fear the living, not the dead .
 
+catholic [ˈkæθ(ə)lɪk]    adj.全体基督教徒的；基督教会的；包罗万象的；广泛的      n.旧教徒；(尤指)天主教徒；
+religious/rɪˈlɪdʒəs/adj.宗教的;宗教信仰的;虔诚的;笃信宗教的 n.修士;修女;出家人
+funeral    美: [ˈfjun(ə)rəl]    n.葬礼；送丧行列；追悼会；〈比喻〉不愉快的事     adj.葬礼的；出殡用的
+skull    美: [skʌl]    n.颅骨；脑袋；头（盖）骨；脑子    网络头骨；头盖骨
+bury [ˈberi]    v.埋葬；埋藏；为…举行葬礼；死去(家属)
+either [ˈiðər]    adv.（两者中的）任何一个；各方；（用于否定词组后）也；（补充时说）而且
+individual  [ˌɪndɪˈvɪdʒuəl]    n.个人；与众不同的人；有个性的人
 
 *  159  Getting Flowers
+May 05  2024  host text 
 A:Hello sir, how may I help you?
 B:I would like to buy some flowers, please. Something really nice.
 A:I see, may I ask whatthe occasion is?
@@ -3653,6 +3667,7 @@ B:I don’t think that’s gonna cut it. I need something bigger and better!
 A:I’m sorry sir but, what exactly did you do?
 B:Well, I may have accidentally insinuated that she is getting chubbier .
 A:Get out of my store you jerk!
+
 occasion美: [əˈkeɪʒ(ə)n] n.时机；理由；原因；某次v.使发生
 regretful美 [rɪˈɡretfl]     adj. 后悔的，遗憾的
 stem    美: [stem] n.（花草的）茎；
@@ -3663,11 +3678,38 @@ tulip    美: [ˈtulɪp] n.郁金香；
 carnation    美: [kɑrˈneɪʃ(ə)n] 康乃馨
 lily    美: [ˈlɪli] n.百合花
 fragrance    美: [ˈfreɪɡrəns] n.香气；香水
-cut it 完成;应付 
+cut it 完成;应付  It's not going to be enough.
 insinuate美: [ɪnˈsɪnjuˌeɪt] v.暗示；使潜入
 chubby [ˈtʃʌbi] adj.〈非正式〉肥嘟嘟的；丰满的
 
+arrangement 安排 ; 布置 ; 约定 [əˈreɪndʒmənt]
 
+Heck yeah.[hek] 见鬼，是的
+could have 本可以 ; 可以有 ; 本来也可以 ; 原本可以
+ champagne glass 香槟杯 ; 香槟酒杯  [ʃæmˈpeɪn]
+
+encounter [ɪnˈkaʊntər]    v.遭遇；偶然碰到；意外地遇见；与…邂逅     n.遭遇；交锋 
+
+touched 激动 ; 感激 ; 受感动 ; 疯疯癫癫 ; 神经兮兮 ; 触摸 ; 接触 ; 移动 ; 碰 ; 触及 ; 碰到 ; 打 ; 使受伤 ; touch的过去分词和过去式
+gesture 手势 ; 姿势 /ˈdʒestʃər/
+feminine 女性特有的，女性的，妇女的  /ˈfemənɪn/
+ coat of paint 油漆层
+
+ token 代币 ; 象征，标志，表示，信物 ; 礼券 ; 专用辅币 ; 代价券 ; 赠券 ; 象征性的 ; 装点门面的 ; 敷衍的 ; 装样子的 ; 作为标志的
+ demonstration 证明 ; 演示 ; 示范[ˌdemənˈstreɪʃn]
+  regretfulness 遗憾的
+in terms of 在……方面，从
+glitter 闪烁 /ˈɡlɪtər/
+distract 分散 ; 使分心 ; 转移 /dɪˈstrækt/
+at hand 手头 ; 在手边，在附
+
+OK, to insinuate is to suggest.
+So I could say, hey, you're really chubby.
+That's not an insinuation.
+That's a statement.
+But I could say, well, you're looking a little bit round at the sides
+
+So you're saying something indirectly.
 
 
 * 160 Health Insurance
@@ -3700,7 +3742,7 @@ B:I’ve been playing computer games.
 A:What? So you blew me off yesterday and today over a stupid video game? What game is so important that you have no time for me anymore? What are you playing?
 B:It’s called Counter Strike It’s a first person shooter game. It’s awesome. It’s a multi player game where you can go online and compete against players from all over the world.
 A:You’ve been wasting your time on this? I can’t believe it! It doesn’t even look fun or challenging!
-B:My laptop is on my bed. If you think it’s so easy then get onlineand try to beat me.
+B:My laptop is on my bed. If you think it’s so easy then get online and try to beat me.
 A:Fine!
 B:Dammit! Howare youkilling me with a single shot? It’s not fair! I don’t want to play anymore! Let’s go get something to eat.
 A: Can you bring me something? I am totally hooked on this game!
@@ -3768,10 +3810,6 @@ approve    美: [əˈpruv]    v.批准；赞成；同意
 misunderstood [ˌmɪsʌndərˈstʊd]    adj. 被误解的，不为人理解的    v. 误解
 
 
-
-
-
-
 *  166  Dr. Botox
 A:What are you doing?
 B:Look at me. I look so old! I look as if I were thirty.
@@ -3828,7 +3866,7 @@ brake    美: [breɪk] n.制动器；灌木丛 v.制动；剥(麻)；用麻梳�
 * 169 Roller Coaster
 
 A:I’m so excited! We are finally here! Six Flags Magic Mountain! This is the best amusement park in the world!
-B: Alright settle down now, you’re gonna give yourself a heart attack.
+B: Alright settle down now, you’re gonna give yourself a heart attack./ˈhɑːrt əˌtæk/
 C:I can’t believe they charged  35 us dollars each.It seems like a rip offdon’t you think? It’s not like I’m gonna get on these rides. /raɪdz/
 A:Whoa.  . Viper! That’s the world’s highest and fastest roller coaster! You go at more than miles per hour! I wanna go on that one! Can I mom please? Can I ?
 B:Chris I’m not sure you should get on that it seems a bit too much for you and we just had breakfast thirty  minutes ago. I don’t think it’s a good idea.
@@ -3856,11 +3894,12 @@ A:Man, I’m freaking out! You gotta help me!
 B:Whoa whoa take it easy, relax. Geez, you’re sweating like a pig! What’s going on?
 A:I can’t go through with this! I just can’t! I’m not ready for marriage! What was I thinking? I’m only thirty five years old! I’ve got my entire life ahead of me, adventures waiting! I can’t settle down yet!
 B:What are you talking about? It wasn’t more than a month ago that you were rambling on about how you are tired of living the life of a bachelor and  how you envy your friends that have a family!
-B:Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would  you want to end that or jeopardize it like this?
+A: I know I know!
 B:Let’s think this through. First of all, you cannot leave Amy atthe altar. Not only will she be humiliated and kill you, but she is the woman that you love andthe woman of your dreams! Why would you want to end that or jeopardize it like this? Second of all, you are just getting cold feet. You know deep down inside that you want to marry her, so cut the crap and do it!
 B:You’re right. I’m being crazy! Ok, I’m ready, lets do this!
 A:Great! Phew! That was a close one ! You had me going there for a minute I thought I was gonna have to slap some sense into you
 
+doubt [daʊt]    n.怀疑；疑惑；疑惧     v.怀疑；不信；恐怕
 slap some sense into： remind someone to stay  calm
 rambling  [ˈræmblɪŋ]    adj. 漫步的
 envy     美: [ˈenvi] v.羡慕；
@@ -3873,6 +3912,7 @@ humiliate    美: [hjuˈmɪliˌeɪt] v.屈辱
  cut the crap 废话少说 
 
  Easy to picture
+
 
 *  172 Dry Cleaners
 
@@ -3892,7 +3932,6 @@ suit [sut] v.适合；合适；讨好(某人)；使适宜 n.诉讼；花色；�
 stained [steɪnd] adj.沾污的；有瑕疵或污点
 iron [ˈaɪrn] n.铁；熨斗；铁器；金属工具 adj.坚强的；强硬坚定的  v.（用熨斗）熨
 starch [stɑrtʃ] n.淀粉；含淀粉的食物；（浆衣服、床单等用的）淀粉浆 v.把（衣服、床单等）浆一浆
-
 
 *  174 Getting a manicure
 A:Honey I’ll be right back!
@@ -3929,7 +3968,7 @@ B:Don’t touch that thermostat! You don’t paythe bills  around here!
 A:Dad! Are you serious? What’s the point of having central heating if we can’t use it! Look, I can see  my breath!
 B:Put on a sweater! I’m not gonna let you run up my heating bill just because it’s a bit chilly.
 A:Dad! I’m gonna catch a cold!
-B:When I was your age, my parents didn’t have  central heating like you do! We had a furnace  inthe center of the living room and that was it. We  used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
+B:When I was your age, my parents didn’t have  central heating like you do! We had a furnace  in the center of the living room and that was it. We  used it to cook, heat the house and even dry our clothes! We never caught a cold. You should be grateful!
 
 thermostat     美: [ˈθɜrməˌstæt] n.恒温器；温控器
  furnace  [ˈfɜːrnɪs]    n. 火炉，熔炉
@@ -3952,9 +3991,9 @@ decorate     美: [ˈdekəˌreɪt] v.装饰  ===
 beautify     美: [ˈbjutɪˌfaɪ] v.美化；使更美丽
 
 
-*   178    Finding the perfect present
+*   178    Finding the perfect present /ˈprez.ənt/
 A: Bill. Bill! You gotta help me!
-B: What’s wrong? Slow down or you are gonna give yourself a heart attack.
+B: What’s wrong? Slow down or you are gonna give yourself a heart attack. uk/ˈhɑːt əˌtæk/ us/ˈhɑːrt əˌtæk/
 A:Tomorrow is Christmas and I haven’t bought my mom anything! I’m such a bad son!
 B:Take it easy! Let’s go to the mall, window shop a little and see if there is anything she might like.
 A:That’s just it! I don’t know what to get her! Last year I got her a ring that was two sizes too big and a pair of shoes five sizes too small! I suck  [sʌk]  at  getting presents for people.
@@ -3966,9 +4005,6 @@ A:Now that’s a great idea!
  gift certificate 礼券 ; 礼品券，赠券   [sərˈtɪfɪkət] 
  
 * 181 Christmas Day  Oct 29
-
-grouch [ɡraʊtʃ] n.牢骚；好抱怨（或发牢骚）的人 v.发牢骚
-
 
 A:Dad, dad, dad! Wake up! It’s Christmas!
 B:Timmy. It’s too early for this. Look, it’s six in the  morning! Go back[bæk]  to bed![bed]
@@ -3987,7 +4023,7 @@ yam [jæm] n.【植】薯蓣属植物；〈英〉马铃薯；〈美〉甘薯 网
 mash [mæʃ] n.麦芽浆；(喂牛马的)面粉[米糠]浆；捣成糊状的东西
 gravy [ˈɡreɪvi] n.（调味）肉汁；
 ingredients [ɪnˈgridiənts]
-
+grouch [ɡraʊtʃ] n.牢骚；好抱怨（或发牢骚）的人 v.发牢骚
 
 *  182  Boxing Day 节礼日(圣诞节后的第一个工作日
 A:What do you think of this one?
@@ -4009,6 +4045,7 @@ A:Merry Christmas!
 flashy    美: [ˈflæʃi] adj.俗艳的 
 hideous     美: [ˈhɪdiəs] adj.十分丑陋的；
  have a conversation with 与…交谈 ; 与…会谈 
+blabber: [ˈblæbə(r)]    n.胡言乱语；喋喋不休的人     v.瞎扯
 goal     美: [ɡoʊl] n.目标；目的地；(足球等运动的)球门；守门员  网络进球；入
 precious     美: [ˈpreʃəs]  adj.珍奇的；珍稀的
 insult     美: [ɪnˈsʌlt]  n.侮辱；
@@ -4076,15 +4113,26 @@ grazing ['greɪzɪŋ] n.牧场；草场 v.“graze”的现在分词
 
 *  188  Asking For A raise
 
-prestigious    美: [preˈstidʒəs] adj.有威望的；声誉高的
-
-
+A:Excuse me sir, may I talk to you?
+B:Bill! Sure, come on in. What can I do for you?
 A:Well sir, as you know, I have been an employee of this prestigious firm for over ten years.
+B:Yes.
+A:I won’t beat around the bush. Sir, I would like a raise. I currently have three companies after me and so I decided to talk to you first.
+B:A raise? Son, I would love to give you a raise, but this is just not the right time. 
+A:I understand your position, and I know that the current economic downturn has had a negative impact on sales, but you must also take into consideration my hard work, pro-activeness and loyalty to this company for over a decade.
+B:Taking into account these factors, and considering I don’t want to start a brain drain, I’m willing to offer you a ten percent raise and an extra five days of vacation time. How does that sound?
+A:Great! It’s a deal! Thank you, sir!
+B:Before you go, just out of curiosity, what companies were after you?
+A:Oh, the electric company, gas company and water company!
 
-firm [fɜːrm]
+
+prestigious    美: [preˈstidʒəs] adj.有威望的；声誉高的 
+firm [fɜːrm] [fɜrm]    n.公司；企业；事务所；商行      adj.坚固的
 
 
 *  C 189 Buying A New Mobile Phone
+
+May 06 2024  host text pass
 
 A:Hello sir, may I help you?
 B:Yeah, I accidentally dropped my phone in the toilet.
@@ -4102,8 +4150,11 @@ hot spot ['hɒtspɒt]     n.危险地带；犯罪的高发地区；闹区；【�
 model [ˈmɑd(ə)l] n.型；模范；典型；模特儿；模型；原型；设计图；模范  v.设计；仿
 appliance [əˈplaɪəns]    n.（家用）电器
 
-*  190 Family Barbecue
+made up 虚构
+particular 专指的，特指的 ; 讲究 ;
+wifi :wireless fidelity /ˈwaɪərləs fɪˈdeləti/    （对配偶或伴侣的）忠贞；(对人、组织或信仰的）忠诚；精确性；（CD播放器、收音机、电视机等设备的）保真度
 
+*  190 Family Barbecue
 没有主持人文档
 
 A:Is everything ready for the big family barbecue tomorrow?   [ˈbɑːrbɪkjuː]
@@ -4173,6 +4224,8 @@ landslides [ˈlændˌslaɪd]  崩塌，塌方，滑坡
  tsunami 海啸 ; 海震  [tsuːˈnɑːmi] 
 stay tuned 敬请期待 ; 敬请关注
  
+
+
 
 *  194  Stir  Fry
 
@@ -4290,7 +4343,6 @@ ends up 最终 ; 结束 ; 下首
 veterinarian [ˌvet(ə)rɪˈneriən] adj.同“veterinary” n.兽医
 astronaut [ˈæstrənɔːt] n.航天员；【天】宇航员；太空人
 
-
 *  198  Applying  CPR
 
 A:  Hello everyone and welcome to our CPR for beginners course. First of all, does anyone know what CPR stands for?
@@ -4317,19 +4369,17 @@ chin    美: [tʃɪn] n.下巴；颏
 
 demonstrate    美: [ˈdemənˌstreɪt] v.演示；证明
 chest    美: [tʃest] n.胸部；
-
 metaphor    美: [ˈmetəˌfɔr] n.隐喻；暗喻网络比喻
 subtle    美: [ˈsʌt(ə)l] adj.不易察觉的；不明显的；微妙的；机智的 网络精巧的
 
-
 *  199 Learning About Aid
-
-
+A:Hey Joe! Where have you been these past few days?
+B:I’ve been busy with a first aid course that I started about a week ago at the Red Cross.
+A:Cool! I’ve always wanted to do something like that! Have you learned anything useful?
 B:For sure! I mean we’ve learned how to apply pressure to stop bleeding, how to check for a pulse, and even how to apply CPR!
-
+A:Have you treated any real emergencies?
 B:Well, they took us along with some paramedics.  There was this guy who fell off his motorcycle and suffered a concussion as well as a couple of compound fractures.His wounds were pretty serious  so they had to rush him to the hospital. It was  intense!
 A:I can imagine! I tend to faint when I see blood, so I think I won’t be taking up a course like that anytime soon!
-
 
 bleeding     美: [ˈblidɪŋ]  n.流血；失血
 pulse 美 [pʌls]     n. 脉搏，脉率； 强劲的音乐节拍，
@@ -4340,7 +4390,6 @@ compound fractures 开放性骨折  [ˈkɑːmpaʊnd]  /ˈfræk.tʃɚ/
 wound     美: [waʊnd] n.伤；损伤；屈辱；苦痛 v.伤
 quiz    美: [kwɪz] n.小测验；知识竞赛
 tendencies 美 [ˈtendənsiz]    n. 倾向，趋势；癖好（tendency 的复数形式）
-
 
 
 *  200 Junk Food
@@ -4386,8 +4435,6 @@ via[ˈviə] prep.通过；经由 n.道路；【
 fragile [ˈfrædʒəl] adj.易碎的；
 
 
-
-
 A: Welcome to the National Post. How may I help you?
 B: Hi, I would like to send this package to China, and these postcards as well.
 A: Very well. You will need some stamps for the postcards and I need to weigh that package, too.
@@ -4404,15 +4451,9 @@ feathers[ˈfeðər] n. 羽毛（feather 的复数）；翅膀；羽状裂缝 v. 
 circumstance[ˈsɜːrkəmstæns] n. 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇
 indication[ˌɪndɪˈkeɪʃ(ə)n] n. 指示，标示；象征，暗示，迹象
 
-
 acid[ˈæsɪd]adj.酸的;   酸性的
 apparently [əˈperəntli] adv.显然；可见；
-
-
-
-
-
-
+  
 
 *  202 Asking For Directins
 
@@ -4435,7 +4476,6 @@ Client:I don’t feel sick,...let me check... Nope! No  fever, I’m fine.
 Todd:No, your computer might have a virus, I mean, it has a bad program on it. Maybe  that’s why it crashed. I recommend that you run an antivirus program in order to safely remove any unwanted spyware or Trojans.
 Client:Phew! . . . . . . Wait a minute, CRASH??!!  Spyware? Trojans! What? where? when?!
 
-
 tech[tek]n. 技校
 fever [ˈfivər] n.发热；发烧；狂热
 unwanted [ʌnˈwɑntəd] adj.不需要的；多余的
@@ -4447,11 +4487,7 @@ interjection [ˌɪntərˈdʒekʃ(ə)n] n.感叹词；感叹语
 further [ˈfɜrðər] adv.进一步；此外
 explain [ɪkˈspleɪn] v.解释；说明；
 fable [ˈfeɪb(ə)l] n.寓言；〈集合词〉神话
-ancient [ˈeɪnʃənt] adj.古代的；古老的；很老的
-n.（尤指古埃及
-
-
-
+ancient [ˈeɪnʃənt] adj.古代的；古老的；很老的 n.（尤指古埃及
 
 
 *  204 Understanding a Trial
@@ -4681,7 +4717,7 @@ adverb [ˈædvɜːrb]     n. 副词
 
 
 *  214 Describing Personalities
-A:OK class, settle down. I have the results of your individual personality tests. I am going to hand them out and if you’dlike, you can read them out loud to the rest of the class.
+A: OK class, settle down. I have the results of your individual personality tests. I am going to hand them out and if you’dlike, you can read them out loud to the rest of the class.
 B:I’ll read mine!
 A:OK, go ahead.
 B:It says here that I am adventurous, outgoing and easy-going. It says that I am a little superstitious and occasionally naive! That’s not true!
@@ -4691,39 +4727,38 @@ A:Ok, anyone else want to read theirs?
 C:I’ll go! It says that I am an extroverted, wellbalanced person. It says I am generous, outspoken, and very diligent. This is so true! It also says that I am magnanimous, eloquent and daring! This is totally me!
 Pfft whatever, these tests are bologna!
 
-
 individual     美: [ˌɪndɪˈvɪdʒuəl]  n.个人；与众不同的人；有个性的人；某种类型的人 adj.单独的；个别的
-
 occasionally美: [əˈkeɪʒən(ə)li] adv.偶尔；
 accurate    美: [ˈækjərət]  adj.正确无误的；精确的
 reckless英 [ˈrekləs] 美 [ˈrekləs]     adj. 鲁莽的，
 clumsy英 [ˈklʌmzi] 美 [ˈklʌmzi]     adj. 笨拙的，不灵活的
 eloquent 英 [ˈeləkwənt] 美 [ˈeləkwənt]     adj. 雄辩的，口才流利的
 
-
 ladder ˈlædə(r)] 美 [ˈlædər]    n. 梯子；（职位晋升的）阶梯
-
 diligent 英 [ˈdɪlɪdʒənt] 美 [ˈdɪlɪdʒənt]     adj. 勤奋的，勤勉的
-
 shy is the opposite of outgoing
 extraverted introverted
 
-
 strange( stranger, strangest )英 [streɪndʒ] 美 [streɪndʒ]      adj. 奇怪的，不寻常的；陌生的
-
 strangers 美 [ˈstrendʒər]    n. 陌生人，陌生事物；门外汉（stranger 的复数形式
 donate [dəʊˈneɪt] 美 [ˈdoʊneɪt]     v. 捐赠，赠送
-
 daring 英 [ˈdeərɪŋ] 美 [ˈderɪŋ]     adj. 勇于冒险的，勇于 创新的；大胆的，无畏的     n. 勇气，胆量
 
-
 I'm extraverted, I'm diligent, and I am open-minded.
-
 who is too
 extraverted, too hard working. We call this person a type A personality. Type A
 
 irritate ( irritating, irritated, irritates ) 英 [ˈɪrɪteɪt] 美 [ˈɪrɪteɪt]     v. 使不耐烦，激
 
+*  216 Health Food
+
+Kelly:Well, healthy food , of course! I got some whole wheat bread, skimmed milk, fresh fish and organic carrots. . . .
+B:It says here that I am adventurous, outgoing and easy-going. It says that I am a little superstitious and occasionally naive! That’s not true!
+
+
+
+wheat    美: [hwit] n.小麦；小麦籽
+carrot    美: [ˈkerət] n.【植】胡萝卜
 
 
 *  215  At the Deli
@@ -4745,31 +4780,17 @@ pastrami     美: [pəˈstrɑmi] n.五香熏牛肉
 spinach英: ['spɪnɪdʒ]n.菠菜
 
 raw pork 生猪肉 [rɔ] 英: [rɔː]
-
 they can last for a long time.
-
 literal     美: [ˈlɪt(ə)rəl] adj.字面意义的；完全按原文的；缺乏想象力的
 
 bitter 
 sour uk/saʊər
 crisp [krɪsp] adj. 脆的
 
-
 05-
 cook ka 面包里一小个的 那些
 kuer
 dig 和其它一起吃的
-
-
-*  216 Health Food
-
-Kelly:Well, healthy food , of course! I got some whole wheat bread, skimmed milk, fresh fish and organic carrots. . . .
-B:It says here that I am adventurous, outgoing and easy-going. It says that I am a little superstitious and occasionally naive! That’s not true!
-
-
-
-wheat    美: [hwit] n.小麦；小麦籽
-carrot    美: [ˈkerət] n.【植】胡萝卜
 
 
 * 217 volunteering
@@ -4895,6 +4916,7 @@ B:Umm. yeah! Right! I got the car started! Thanks  for your help! I told you to 
 
 
 
+
 *  226 Fundraiser
 A:Ok Mark, it’s your turn to ring the doorbell. I did it last time.
 B:I hate going door to door, and I hate asking for money.
@@ -4934,7 +4956,6 @@ what grade  are you in
 What year are you : University
 for goodness sake ; Irritating me, right? So basically the 激怒
 
-
 * 227  Wedding Planning 
 
 A:Trina, will you marry me?
@@ -4949,8 +4970,7 @@ A:Ah...
 B:And then of course the ladies at the church would love to be our caterers for the banquet and we’ll get the Youth Group to serve us. I was thinking that your friend’s band could be our entertainment for the night. though they might have to tone it down a bit. Or we could hire a DJ. Your sister’s husband could get us a discount with that company that does the decor at weddings. what’s their name again? I was thinking that we could
 have an island paradise- themed wedding and our theme color would be a soothing blue like Aquamarine. And there will be a huge seashell on the wall behind the podium where we’ll make our toasts! What do you think of small packages of drink mixes for our wedding favors?Who else am I missing? Oh, your uncle could be our florist and his wife could make our wedding cake!
 A:Wow.
-B:See? It’s going to be wonderful! Oh this wedding
-is going to be everything I ever dreamed of.
+B:See? It’s going to be wonderful! Oh this wedding is going to be everything I ever dreamed of.
 A:If I survive the next six months.  [sərˈvaɪv]
 
 propose [prəˈpoʊz]    v.建议；提议；求婚；打算  ask someone  to marry you
@@ -4976,37 +4996,6 @@ counseling[ˈkaʊnslɪŋ]    n. 咨询服务
 
 string quartet 弦乐四重奏乐团  /strɪŋ kwɔːrˈtet/
  the banquet 宴会 ; 夜宴   /ðə ˈbæŋkwɪt/
-
-06-2:14
-
-*  228 Going to the Beach
-A:Oh, George, what a beautiful day it is today! The sun is hot and there are just a few clouds scattered here and there! What a perfect day to be at the beach! The kids are going to have so much fun! And we’ll be able to relax in the sun while they’re playing.
-B:It does seem like the perfect day! I’m glad we chose to get out of the city and enjoy the nice weather! This looks like the perfect spot! Ok kids, put on your sunscreen while your mom and I set up camp. Here, Mary, help me lay down these beach towels.
-A:There we go. Can you help me with the umbrella? Perfect.
-B:Ok kids, here’sa beach ball and a Frisbee, a pail and a shovel.I want to see an impressive sandcastle by the time we leave.Don’t stray too far. Wait! Leave your sandals here or put on your wet shoes.
-:And stay in the shallow area. I don’t want to see you go any farther than that sandbar! It’s too deep out there and we didn’t bring your floaties.
-B:You’re back already? The water was too cold, huh? I’ll tell you a secret. Do you see that small pool of water over there? It’ll be warmer in there. Go see if you can find some seashells or catch some minnows.
-A:What is that? A jellyfish? Jeremy, put that down right now! It could sting you!
-B:Ah! Not on me! Ow!
-
- scattered here and there 七零八落  [ˈskætərd]
-towel [ˈtaʊəl]    n.毛巾；手巾；纸巾
-shovel [ˈʃʌv(ə)l]n.铲；铁铲；（推土机、挖土机等的）铲v.铲
-impressive [imˈprɛsiv]    adj.令人印象深刻的
-stray [streɪ]    v.迷路；偏离；走失；偏离正题     adj.走失的；无主的
-sandal [ˈsænd(ə)l]n.凉鞋；便鞋；草鞋v.使穿上凉鞋
-shallow [ˈʃæloʊ] n.浅滩；浅处 adj.浅的； little water
-deep  
-sandbar[ˈsændbɑːr]    n. 沙洲；沙堤
-minnow [ˈmɪnoʊ]    n.【鱼】鲦鱼；小鱼
-sting [stɪŋ]v.刺；蜇；叮；（使）感觉刺痛n.刺
-jellyfish  水母
-sunscreen[ˈsʌnskriːn] n.防晒霜;   防晒油
-set up camp 扎营
-Frisbee  初中就有学啦 
-sandcastle
-
-colloquial [kəˈloʊkwiəl]    adj.会话的；口语的
 
 
 *  229 Buying Men's Shoes 
@@ -5045,6 +5034,36 @@ cetele : very light
 tone 鞋底 second
 
 
+*  228 Going to the Beach
+A:Oh, George, what a beautiful day it is today! The sun is hot and there are just a few clouds scattered here and there! What a perfect day to be at the beach! The kids are going to have so much fun! And we’ll be able to relax in the sun while they’re playing.
+B:It does seem like the perfect day! I’m glad we chose to get out of the city and enjoy the nice weather! This looks like the perfect spot! Ok kids, put on your sunscreen while your mom and I set up camp. Here, Mary, help me lay down these beach towels.
+A:There we go. Can you help me with the umbrella? Perfect.
+B:Ok kids, here’sa beach ball and a Frisbee, a pail and a shovel.I want to see an impressive sandcastle by the time we leave.Don’t stray too far. Wait! Leave your sandals here or put on your wet shoes.
+:And stay in the shallow area. I don’t want to see you go any farther than that sandbar! It’s too deep out there and we didn’t bring your floaties.
+B:You’re back already? The water was too cold, huh? I’ll tell you a secret. Do you see that small pool of water over there? It’ll be warmer in there. Go see if you can find some seashells or catch some minnows.
+A:What is that? A jellyfish? Jeremy, put that down right now! It could sting you!
+B:Ah! Not on me! Ow!
+
+ scattered here and there 七零八落  [ˈskætərd]
+towel [ˈtaʊəl]    n.毛巾；手巾；纸巾
+shovel [ˈʃʌv(ə)l]n.铲；铁铲；（推土机、挖土机等的）铲v.铲
+impressive [imˈprɛsiv]    adj.令人印象深刻的
+stray [streɪ]    v.迷路；偏离；走失；偏离正题     adj.走失的；无主的
+sandal [ˈsænd(ə)l]n.凉鞋；便鞋；草鞋v.使穿上凉鞋
+shallow [ˈʃæloʊ] n.浅滩；浅处 adj.浅的； little water
+deep  
+sandbar[ˈsændbɑːr]    n. 沙洲；沙堤
+minnow [ˈmɪnoʊ]    n.【鱼】鲦鱼；小鱼
+sting [stɪŋ]v.刺；蜇；叮；（使）感觉刺痛n.刺
+jellyfish  水母
+sunscreen[ˈsʌnskriːn] n.防晒霜;   防晒油
+set up camp 扎营
+Frisbee  初中就有学啦 
+sandcastle
+
+colloquial [kəˈloʊkwiəl]    adj.会话的；口语的
+
+
 *  230 Gardening
 A:I’ve decided to grow my own garden!
 B:What? You don’t know the first thing about gardening!
@@ -5073,6 +5092,55 @@ How will you go about v+ing
 how will you go about setting up your garden
 
 all your bases covered 
+
+
+
+*  232  Toys
+TV: Spongebob Squarepants will be right back after these brief messages! What’s that on the horizon? A pirate ship! Raid villages and  find buried treasure with this new Pirates Lego set. Build the  ship and decide who rules the sea! Har!
+cool
+TV: The New PLAY-DOH Sparkling Brights Precious Gem Press! ! Make large colorful gems for you and your friends with five special molds! Comes with the new Sparkling Brights PLAY-DOH compound in four new colors! Treasure chest sold separately.
+B: Wow! Mommy, can I get that for my birthday?
+TV: Wolverine! Jean Grey!Rogue! And Professor X! Collect all four of these special-edition collectible X-Men action figures and decide the future of mutants in our world!
+A: No way! I want Professor X !
+TV: The new Collector’s Edition Nursery Rhymes Porcelain Dolls! Little Bo Peep comes with her  own sheep and staff! Her clothes are made with the finest fabrics and real Italian lace, and her face has been hand-painted by our finest artists. Only $199.
+A: Oooo! She’s pretty! I’ve never had a porcelain doll before. 
+B: I doubt Mom and Dad would get you that for your birthday. She costs a pretty penny. Plus, you’d most likely break her.
+TV: What is better than one board game ?Three board games in one! Enjoy playing Chess and Checkers  on this side of the board. But if you’re looking for some more fun, flip it and play the classic game  of Sorry!
+B: That’s ingenious! Why hasn’t anyone thought of that before?
+TV: Now you can take Spongebob Squarepants wherever you go with the new Spongebob  Squarepants Glow-in-the-Dark Yoyo! And now back to our show!
+
+Spongebob Squarepants 海绵宝宝  
+horizon [həˈraɪz(ə)n]    n.地平线；（欲望、知识或兴趣的）范围
+raid [reɪd]    v.突袭；偷袭
+treasure [ˈtreʒər]    n.财富；珍宝
+Lego [ˈleɡoʊ]    n.乐高（儿童积木玩具）
+
+PLAY-DOH 彩泥 ; 培乐多彩泥
+Sparkling  /ˈspɑːrklɪŋ/ 闪亮的 ; 闪烁的 ; 起泡的 ; 闪耀的 ; 出色的 ; 发出火花的，迸出火星的 ; 妙趣横生的
+Brights  前大灯，头灯 ; bright的复数
+Precious  /ˈpreʃəs/  珍贵的 ; 宝贵的 ; 被珍惜的 ; 珍稀的 ; 珍奇的 ; 宝贝似的 ; 受珍爱的 ; 道貌岸然的 ; 强调极少或太少 女子名
+Gem  /dʒem/ 宝石 ; 通用效能模型
+
+compound 化合物 ; 混合物 /ˈkɑːmpaʊnd 
+Treasure chest  /ˈtreʒər tʃest 宝箱 ; 百宝箱 ; 宝物箱
+separately   /ˈseprətli/   分别地 ; 单独地
+porcelain  [ˈpɔrs(ə)lɪn]    n.瓷；瓷器
+mutant    美: [ˈmjut(ə)nt]    n.突变；突变[变种]型生物
+
+ a pretty penny 一大笔钱 
+
+
+claw    美: [klɔ]     v.用爪子抓[挖,掘,撕]；用手探索
+ability  [əˈbɪləti]    n.能力；才能；能够   t-->d
+ceramic    美: [səˈræmɪk]     n.陶瓷制品；陶瓷器
+yo-yo 溜溜球，悠悠球
+glow in the dark [ɡloʊ ɪn ðə dɑːrk] 在黑暗中发光;
+sticker    美: [ˈstɪkər]     n.粘贴者；粘贴物；固执的人；久坐不走的客人
+
+
+
+
+06-
 
 
 * 233 forex 
@@ -5249,8 +5317,42 @@ Saudi Arabia   [ˌsaʊdi əˈreɪbiə]n. 沙特阿拉伯
 adventurous [ədˈventʃərəs]adj. 冒险惊险的;   有冒险精神的 新奇的;  刺激不断的
 precisely [prɪˈsaɪsli] adv.精确地；准确地；
 
+
+* 239 Adventure Sports
+A: Welcome to Adventure Tours . How may I help you?
+B: I want to book a tour with adventure sports .
+A: Excellent! Our company has more than ten years of experience in the adventure tourism and sports field . Let me show you some options. This is our most popular choice, our river guides will take you on a whitewater rafting trip followed by a ride in a hot air balloon !
+B:I don’t really think I’m ready to throw myself down a river full of jagged rocks in a rubber boat or go up in the air in a wicker basket held up by an oversize balloon. What else do you have?
+A: Well, in that case, we can take you hang gliding with one of our experienced instructors. It’s the closest you can get to flying.
+B: What? You mean strap myself to a flimsy kite? No thank you! Next!
+A:Mmm. ok. Well, why don’t you tell me a little bit more about what you would like? We have everything from mountain biking, to rock climbing to street luge.
+B: I’m thinking something exciting but. safer.
+A: I have the perfect option, this package will take you on a hiking trip through the Himalayas for three days and afterwards there’s a dog sledding journey!
+B: That’s more like it !
+
+
+rafting [ˈræftɪŋ]    n.激流划艇（运动）；漂流运动
+followed by 紧随其后;其次是 
+
+jagged [ˈdʒæɡəd]  参差不齐的 ; 锯齿状的 ; 凹凸不平的 ; 有尖突的 ; “jag”的过去式
+rubber boat [ˈrʌbər]  橡皮艇 ; 橡皮船  
+hang gliding 悬挂式滑翔 ; 悬挂滑翔运动 [ˈɡlaɪdɪŋ]  
+instructor  [ɪnˈstrʌktər]    n.指导员；讲师；教练
+flimsy  [ˈflɪmzi]  脆弱
+strap [stræp]    v.用带子系（或捆、扎、扣）好 ,绑
+luge  [luʒ]    n.无舵雪橇；无舵雪橇运动；单雪橇运动     v.雪橇竞赛
+sled [sled]    n.滑板；【航】滑轨 雪橇
+
+ outdoor activities 户外活动 
+
+
+rapids [ˈræpɪdz]    n.（河的）急流
+
+sturdy  ˈstɜːrdi/     adj. 强健的；
+
 *  240   Getting A Pet
 
+May 20 2024  host test done 
 breed : a particular kind of dog
 Shepard美 [ˈʃepərd] 牧羊犬
 hamster    美: [ˈhæmstər] n.【动】仓鼠
@@ -5266,6 +5368,17 @@ A: We’re planning on having children soon, I don’t think those animals are a
 B: Fine! Let’s get a bird then! We can keep it in its cage and teach it to talk! A parrot would be awesome!
 A:I’ll tell you what, I can get you some hamsters and we’ll take it from there .
 B:Yay!
+
+
+So how was your weekend?
+That's correct.
+How about your weekend?
+That's incorrect.
+No, do not say that.
+You want to say, how about this?
+How about that?
+How about a Coke?
+How about some food?
 
 
 * C0241  Education Background
@@ -5517,6 +5630,44 @@ neglect [nɪˈɡlekt]v. 疏于照顾;   未予看管;   忽略;
 punctual [ˈpʌŋktʃuəl] adj.按时的；准时的；
 
 
+*  254 Making Breakfast 
+
+A: Smells good! What’s for breakfast?
+B: Well, since we are getting up so late, I decided to  make a big breakfast!
+A: Nice! Brunch!
+B: Kind of, so I made scrambled (eggs) and soft boiled eggs, some french toast and buttermilk pancakes!
+A: Wow! You really went all out! Did you make any  coffee? 
+B: Yeah, just the way you like it! I also put out some  cereal and muesli if you feel like having something  more light.
+A: Looks good! I’ll squeeze us some fresh orange  juice.
+B: Get the jam and butter while you are in there! Oh! And don’t forget the syrup!
+A: All righty.
+
+scramble [ˈskræmb(ə)l]   炒；扰频；炒的      v.爬；攀缘 (about； up； down； through)     n.爬上；争取；(互相)争夺；攀缘 炒；扰频；炒的
+buttermilk [ˈbʌtərˌmɪlk]    n.脱脂乳；白脱牛奶      网络酸奶；酪乳
+cereal /ˈsɪriəl 谷物 ; 麦片 ; 谷类食品 ; 谷类食物 ; 谷类植物 ; 谷类制成的
+muesli /ˈmjuːzli/ 牛奶什锦早餐
+squeeze /skwiːz 挤压 ; 榨出，挤出  
+syrup   /ˈsɪrəp糖浆 ; 糖水 
+
+benefit 利益 ; 益处 ; 优势 /ˈbenɪfɪt
+combination [ˌkɑmbɪˈneɪʃ(ə)n]    n.结合；联合；混合；结合体     网络组合；
+
+it's basically a mixture of granola or different kinds of  fiber grains.
+he went all out or I'm going to go all out
+
+I'm not really a coffee person.
+browns 棕色 ; 褐色 ; /braʊnz
+gross 总的 ; 严重的 ; 毛的 ; 粗鲁的 ; 令人恶心的  /ɡroʊs
+
+fiber 纤维 ; 纤维质  /ˈfaɪbər
+grains 颗粒 ; 谷物  /greɪnz
+Greek 希腊人 ; 希腊语 ; 古希腊人   /ɡriːk
+diner [ˈdaɪnər]    n.（尤指餐馆的）就餐者；小饭店
+
+So we're really curious about how breakfast is in your country.
+What a typical breakfast is like.
+
+
 *  256
 regarding  [rɪˈɡɑːrdɪŋ]prep. 关于;   至于
 clarify ˈklærəfaɪ] 澄清 ; 使更清晰易懂 ; 阐明 ; 纯净，净化
@@ -5538,6 +5689,26 @@ opportunity /ˌɑːpərˈtuːnəti/ 机会
 
 *  257  You're Grounded
  
+*  258 You’re Grounded!
+not finished host text
+
+A:Do you know what time it is?
+B:Um. Ten?
+A:Get in this door young man. It’s midnight, you are
+two hours past curfew.
+B:I know, but it wasn’t my fault! I told Jennifer she
+had to drop me off before ten, but she wouldn’t
+leave the party!
+A:I don’t care! You are grounded for life mister!
+B:Mom! That is so unfair!
+A:You know the rules and you broke them. No al-
+lowance and no TV for a week. I usually never
+ground you but this time I have to put my foot
+down!
+B:What! For being a couple of hours late? You have
+to be kidding!
+A:I don’t want to hear it! Now go to your room!
+
 
 * C0259
 文本有错 有人说没错 the organization, for example, how big is your office here?
@@ -5555,6 +5726,8 @@ vacancy ˈveɪkənsi]n. (职位的)空缺;   空职;   空额
 ideal aɪˈdiːəl] adj. 完美的;理想的;不切实际的;  n. 理想;
 
 How about  --> what do you think  ,so   don't ever ask  how about your weekend , how was  your weekend  that is right. 
+
+
 
 
 *  261  Describing Someone's Face
@@ -5593,6 +5766,24 @@ expect to 期待
 decision [dɪˈsɪʒn]n. (作出的)决定，抉择
 
 
+*  265  Pest Control
+A: Hi, did you call for an exterminator?
+B:Yes! Thank goodness you’re here. These bugs are driving us crazy!
+A:What sort of pest are we dealing with?
+B:We just bought this house and it is infected with just about everything. We have termites in the  wood, cockroaches all over the place, and last night I saw a huge rat out in the backyard!
+A:Well, there’s nothing we can’t handle. I’ll spray the floorboards and walls to get rid of the cockroaches, but the termites will be harder to get rid of. We will have to cover the entire house and fumigate it. Unfortunately that means you will have to find a place to stay for the next three days.
+B:No problem, just get rid of the bugs!
+
+drain    美: [dreɪn]     n.下水道；排水；枯竭；耗费    v.放干 (away； off)；喝干；用完；使…某物枯竭     网络排水沟；排水管
+pest [pest]    n.害虫；害兽；害鸟
+exterminator [ɪkˈstɚməˌnetɚ]    n.扑灭者；根绝物(指杀虫剂等)    网络灭杀者；终结者
+termite [ˈtɜrˌmaɪt]    n.【虫】白蚁
+rat [ræt]    n.老鼠；耗子
+spray [spreɪ]    n.喷雾；喷剂；浪花；喷雾器    v.喷；喷洒
+fumigate [ˈfjumɪˌɡeɪt]    v.烟熏
+infested 大批出没于 ; 大量滋生 大批滋生的（常与with搭配） /ɪnˈfestɪd/
+
+
 *  267 Making A Bank Transfer
 A: Good Morning welcome to Bank of the USA. How may I help you today?
 B: Hi I need to transfer some money to another account. It’s urgent.
@@ -5621,6 +5812,37 @@ that’s such a relief [rɪˈliːf]松了一口气
 
 
 
+
+*  268  Purchasing Manager
+
+A: Good morning, Angela, how have you been lately?
+B: Morning, Michael. I’ve been very busy lately. One of our other vendors is going out of business and I’ve been searching for a suitable replacement.
+A: Well, rest assured that you can count on us to be here for the long run sit down. Coffee?
+B: No, thanks. I’ve been trying to cut down on the caffeine .
+A: Haha, I could never do that. I’d be a zombie if I didn’t have my morning coffee fix. Let’s get down to business then.
+B: Yes. I’ve come to talk with you about ordering the eight megapixel cameras for our new MePhone. The demand for phone cameras is growing, and Pear has been falling behind in the market.
+A:That’s great! I’m glad to hear that Pear has finally jumped on the bandwagon. Right now our contract is for the five megapixel cameras. Is Pear still interested in having those?
+B: No, we’re changing all the cameras to eight megapixels. We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal.
+A:Surely. Let’s get started by drafting a new contract.
+
+
+purchase  [ˈpɜrtʃəs]    n.采购；购买     v.购买；
+vendor  [ˈvɛndə(r)]    n.〈正式〉供应商；小贩
+rest assured 必定，一定会  /rest əˈʃʊrd/
+zombie  [ˈzɑmbi]    n.僵尸；怪人
+megapixel [ˈmeɡəˌpɪks(ə)l]    n.百万像素
+demand for 需求 ; 要求  /dɪˈmænd fɔːr/
+jump on the bandwagon  [ˈbændˌwæɡən]    跟风：加入潮流或趋势，以从中获利
+sole    美: [soʊl]     n.鞋底；脚掌；脚底（板）；袜底     adj.仅有的；唯一的；独占的；专有的
+
+synonymous with 同义词 ;   /sɪˈnɑːnɪməs wɪð/
+
+
+
+
+
+
+07- 1:09
 
 *  269 Marketing Plan
 A:Okay everyone, let’s begin. I called you here today to evaluate our marketing strategy during this recession. I wanted to re-emphasize our corporate mission of Aiming to give our customers the best coffee and service in a clean and welcoming atmosphere.
@@ -5752,6 +5974,41 @@ call forwarding  : to other call
 
 
 
+* 278  At The Car Dealership
+A: Hi there! I am looking for a new car. I have this  old Ford Pinto that I would like to trade in.
+B: I see. You are in luck this month because all of our models are on sale! it is a perfect time to buy a new car since it’s the end of the year,
+A: Perfect! I like this one.
+B: That is the Ford Focus. A very light but powerful  vehicle. It comes with dual side airbags, power steering and power windows, tinted windows and your choice of either automatic or manual transmission.
+A: Sounds like a good car! How many miles to the gallon?
+B: It is a very fuel efficient vehicle giving you about 34 miles in the city and 40 on the highway.
+A: That is really convenient. Especially now that fuel  prices are so high! What’s under the hood?
+B: A very powerful 2.5-liter turbocharged engine, Trust me, this car is fast!
+A: Now for the most difficult question. What is the price tag for this lovely vehicle?
+B:Very affordable ma'am . You can take it out of this lot today with 0% down payment and no interest for the first year! You can test  drive it now and we can sign the papers when we get back.
+A:Great! Let’s do it!
+
+
+trade in 以折价贴换同类新物  /ˈtreɪd ɪn/
+dual  /ˈduːəl/
+power steering 动力转向系统 ˈstɪrɪŋ/
+tinted windows  /ˈtɪntɪd/ (玻璃等)有色
+manual transmission  /ˈmænjuəl trænzˈmɪʃn/
+fuel /ˈfjuːəl/  在auckland 天天看到
+under the hood 引擎盖下 ; 发动机罩下 
+turbocharged engine 涡轮增压发动机 ; 涡轮增压式发动机   /ˈtɜrboʊˌtʃɑrdʒd ˈendʒɪn/
+liter [ˈlitər]    n.〈美〉同“litre” 升；
+affordable [əˈfɒrdəb(ə)l]    adj.负担得起的 实惠；
+no interest 无利息;免付利息
+dealership [ˈdilərˌʃɪp]    n.专项商品（尤指汽车）经销店
+
+car dealer 汽车经销商 ; 汽车商  ˈdiːlər/
+limousine    美: [ˈlɪməˌzin]    n.轿车；大型高级轿车； 
+tricky [ˈtrɪki]    adj.难办的；难对付的
+bulletproof (also bullet-proof) 英 [ˈbʊlɪtpruːf] 美 [ˈbʊlɪtpruːf]     adj. 防弹的
+
+
+
+
 * 279 drugs
 A: Hey man, you wanna buy some weed?
 B:Some what?
@@ -5801,6 +6058,34 @@ Maggie:Whatever. He’s a jerk, forget about him! There are many more fish in th
 Lydia:Talk about being cliché, Maggie! But you’re  right. There’s no use for me to sulk around...  Let’s go out tonight!
 
 
+
+*  285  Handyman
+A:The air conditioning is not working! We need to call a handyman before we start to fry in here!
+B:Dan is on top of that. I think they are also getting  the handyman to fix the bathroom toilet that keeps  clogging up.
+A:That would be convenient. They might as well ask him to fix the electrical wiring. The circuit breakers  keep going out all the time. It’s really annoying!
+B:Yeah you are right. This office is falling apart! Frank told me the other day that the gutters outside were clogged and that’s why the parking lot was flooded.
+A:I know! I was in ankle deep water trying to get to my car that day! The handyman definitely has his work cut out for him.
+
+handyman 勤杂工 ; 杂活工 ; 善于做室内外杂活的人
+clogging 阻塞，堵塞 ; 阻塞了的 ; clog的现在分词  [ˈklɑːɡɪŋ]
+electrical wiring 电线 ; 布线 [ˈwaɪərɪŋ]
+circuit breakers 断路器 ; 断路开关    /ˈsɜːrkɪt ˈbreɪkərz/
+falling    英: ['fɔ:lɪŋ]     v.下降；跌倒；落下；跌落
+
+gutters 天沟 ; 檐沟 ; 阴沟 ; 路旁排水沟   /ˈɡʌtərz/    楼roof  keep water 
+flood /ˈflʌdɪd/
+be  on top of that :  make sure that something is done
+might as well 只好;也无妨 ; 和…一样 he can also do something else.
+work cut out for him:  it means that he has a lot of work to do.   cut out for you  : a lot of work for you 
+ generalist 通才 ; 多面手 ; 全才 
+plumbing [ˈplʌmɪŋ]    n.（建筑物的）管路系统；水暖工的工作     v.“plumb”的现在分词
+heavy [ˈhevi]    adj.重的；沉的；比一般严重的；大而结实的     n.保镖；打手；烈性啤酒；（尤指）苦啤酒     adv.同“heavily”
+ a jack of all trades 万事通 ; 博而不精的人  [treɪdz]行业
+odd [ɑd]    adj.奇怪的；怪异的；反常的
+sew    美: [soʊ]    v.缝；缝制；缝补；做针线活
+Like for example, a very well known trade is a cobbler, a person that makes shoes.
+cobbler    美: [ˈkɑblər]    n.酥皮水果馅饼（或肉饼）；修鞋匠；胡说；废话
+blacksmith    美: [ˈblækˌsmɪθ]    n.铁匠；打铁工人；
 
 *  287 High School Reunion
 A:I hate coming to high school reunions.
@@ -6312,6 +6597,39 @@ Jim:Well, I really recommend Spain. You really should go.Anyway, it’s been gre
 Michelle: For sure. Take care.
 
 
+
+
+
+*  326  Report Card
+
+A: Look, Jimmy’s report came today.
+B:Let’s have a look. What is this? Where are all [wow 我听错] the grades?
+A: He’s in the third grade Sam! You see under each subject that he is being taught in school, he receives a mark from one to three. A one means
+his achievement or work is excellent. Here in Science for example he got a two, which means its satisfactory.
+B: What about here in physical education?
+A: He got a three here which means it’s unsatisfactory. We should work on that with him. 
+B: So confusing! In my day we got an A or B if we were doing well and if we failed an exam we would  get an F!
+
+
+grade    美: [ɡreɪd]     n.品级；水平；评分等级；阶段     v.分等；给…评分；给…分数     网络 年级；
+satisfactory [ˌsætɪsˈfækt(ə)ri]    adj.令人满意的；够好的；可以的
+achievement [əˈtʃivmənt]    n.成就；成绩
+
+let's have a look
+
+third grade   三年级
+
+plural    美: [ˈplʊrəl]     n.复数形式     adj.复数的
+
+report card
+
+ unsatisfactory  不好
+
+physical education  体育
+
+in my day
+
+fail the exam 
 
 
 * 327 Buying A Pair of jeans

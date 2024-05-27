@@ -1,48 +1,16 @@
-* Basic English: Book1
+* Vocal
+ In [2]: 40+44+40+45+41+44+44+48+48+45
+Out[2]: 439
 
-** lessson twenty-five   My Father
- My father does the same thing every morning. He gets up  at six o'clock . He washes ,brushes his  teeth and combs his hair. Then , he puts on his clothes  and 
-  eats breakfast. At six thirty he listens to the news on the radio. At exactly  seven o'clock  he leaves the house. My father has very regular habits. 
+In [3]: 41*12
+Out[3]: 492
 
-** Lesson twenty-six  He usually plays Tennis
- What do you usually  do on Sundays?
- I usually go for  a walk  in the mountains.
- Does your husband go with you ?
- No. He doesn't. 
-What does he do?
-He usually plays tennis.
+In [4]: 41*14
+Out[4]: 574
 
-
-
-**  Lesson 45   What a Nightmare!
-    Tuesday  June seventh  2022 
-
-    
-*** Reading 
-    Jeff had a  terrible day. He missed the train to work. Moreover, he had to wait a long time for the next train . As a matter of fact , he waited for two hours. To make matters worse , he left his briefcase on the train.  As a resul, he had to  go to the police station. Poor Jeff never got to  work  that day. What a  nightmare!
-
-    
-***   Vocabulary & idioms  word and 
-terrific ==great 
-take a  bus to work everyday
- I bike to work everyday 
-
- hurry up 快点
-
-
-He sing very well .
-Beats me! (难倒我了,问题是单数 所以 加了s) 
-
-naughty 调皮
-
-On the train 空间大可直立
-In the taxi , 空间不大不可直立
-
-He is stupid ,  to make matters worse,he don's study  
-
-
-He don't study . as a result , he failed the exam.
-
+not  include  Advanced 
+In [5]: 439+492*2+574*2
+Out[5]: 2571
 
 
 *  English  conversation on the go 
@@ -198,6 +166,53 @@ adj.主要的；最重要的
 14 
 
  wonderful 
+
+
+* Basic English: Book1
+
+** lessson twenty-five   My Father
+ My father does the same thing every morning. He gets up  at six o'clock . He washes ,brushes his  teeth and combs his hair. Then , he puts on his clothes  and 
+  eats breakfast. At six thirty he listens to the news on the radio. At exactly  seven o'clock  he leaves the house. My father has very regular habits. 
+
+** Lesson twenty-six  He usually plays Tennis
+ What do you usually  do on Sundays?
+ I usually go for  a walk  in the mountains.
+ Does your husband go with you ?
+ No. He doesn't. 
+What does he do?
+He usually plays tennis.
+
+
+
+**  Lesson 45   What a Nightmare!
+    Tuesday  June seventh  2022 
+
+    
+*** Reading 
+    Jeff had a  terrible day. He missed the train to work. Moreover, he had to wait a long time for the next train . As a matter of fact , he waited for two hours. To make matters worse , he left his briefcase on the train.  As a resul, he had to  go to the police station. Poor Jeff never got to  work  that day. What a  nightmare!
+
+    
+***   Vocabulary & idioms  word and 
+terrific ==great 
+take a  bus to work everyday
+ I bike to work everyday 
+
+ hurry up 快点
+
+
+He sing very well .
+Beats me! (难倒我了,问题是单数 所以 加了s) 
+
+naughty 调皮
+
+On the train 空间大可直立
+In the taxi , 空间不大不可直立
+
+He is stupid ,  to make matters worse,he don's study  
+
+
+He don't study . as a result , he failed the exam.
+
 
     
 * Basic English: Book2
