@@ -5034,36 +5034,6 @@ cetele : very light
 tone 鞋底 second
 
 
-*  228 Going to the Beach
-A:Oh, George, what a beautiful day it is today! The sun is hot and there are just a few clouds scattered here and there! What a perfect day to be at the beach! The kids are going to have so much fun! And we’ll be able to relax in the sun while they’re playing.
-B:It does seem like the perfect day! I’m glad we chose to get out of the city and enjoy the nice weather! This looks like the perfect spot! Ok kids, put on your sunscreen while your mom and I set up camp. Here, Mary, help me lay down these beach towels.
-A:There we go. Can you help me with the umbrella? Perfect.
-B:Ok kids, here’sa beach ball and a Frisbee, a pail and a shovel.I want to see an impressive sandcastle by the time we leave.Don’t stray too far. Wait! Leave your sandals here or put on your wet shoes.
-:And stay in the shallow area. I don’t want to see you go any farther than that sandbar! It’s too deep out there and we didn’t bring your floaties.
-B:You’re back already? The water was too cold, huh? I’ll tell you a secret. Do you see that small pool of water over there? It’ll be warmer in there. Go see if you can find some seashells or catch some minnows.
-A:What is that? A jellyfish? Jeremy, put that down right now! It could sting you!
-B:Ah! Not on me! Ow!
-
- scattered here and there 七零八落  [ˈskætərd]
-towel [ˈtaʊəl]    n.毛巾；手巾；纸巾
-shovel [ˈʃʌv(ə)l]n.铲；铁铲；（推土机、挖土机等的）铲v.铲
-impressive [imˈprɛsiv]    adj.令人印象深刻的
-stray [streɪ]    v.迷路；偏离；走失；偏离正题     adj.走失的；无主的
-sandal [ˈsænd(ə)l]n.凉鞋；便鞋；草鞋v.使穿上凉鞋
-shallow [ˈʃæloʊ] n.浅滩；浅处 adj.浅的； little water
-deep  
-sandbar[ˈsændbɑːr]    n. 沙洲；沙堤
-minnow [ˈmɪnoʊ]    n.【鱼】鲦鱼；小鱼
-sting [stɪŋ]v.刺；蜇；叮；（使）感觉刺痛n.刺
-jellyfish  水母
-sunscreen[ˈsʌnskriːn] n.防晒霜;   防晒油
-set up camp 扎营
-Frisbee  初中就有学啦 
-sandcastle
-
-colloquial [kəˈloʊkwiəl]    adj.会话的；口语的
-
-
 *  230 Gardening
 A:I’ve decided to grow my own garden!
 B:What? You don’t know the first thing about gardening!
@@ -5093,6 +5063,36 @@ how will you go about setting up your garden
 
 all your bases covered 
 
+
+
+*  228 Going to the Beach
+A:Oh, George, what a beautiful day it is today! The sun is hot and there are just a few clouds scattered here and there! What a perfect day to be at the beach! The kids are going to have so much fun! And we’ll be able to relax in the sun while they’re playing.
+B:It does seem like the perfect day! I’m glad we chose to get out of the city and enjoy the nice weather! This looks like the perfect spot! Ok kids, put on your sunscreen while your mom and I set up camp. Here, Mary, help me lay down these beach towels.
+A:There we go. Can you help me with the umbrella? Perfect.
+B:Ok kids, here’sa beach ball and a Frisbee, a pail and a shovel.I want to see an impressive sandcastle by the time we leave.Don’t stray too far. Wait! Leave your sandals here or put on your wet shoes.
+:And stay in the shallow area. I don’t want to see you go any farther than that sandbar! It’s too deep out there and we didn’t bring your floaties.
+B:You’re back already? The water was too cold, huh? I’ll tell you a secret. Do you see that small pool of water over there? It’ll be warmer in there. Go see if you can find some seashells or catch some minnows.
+A:What is that? A jellyfish? Jeremy, put that down right now! It could sting you!
+B:Ah! Not on me! Ow!
+
+ scattered here and there 七零八落  [ˈskætərd]
+towel [ˈtaʊəl]    n.毛巾；手巾；纸巾
+shovel [ˈʃʌv(ə)l]n.铲；铁铲；（推土机、挖土机等的）铲v.铲
+impressive [imˈprɛsiv]    adj.令人印象深刻的
+stray [streɪ]    v.迷路；偏离；走失；偏离正题     adj.走失的；无主的
+sandal [ˈsænd(ə)l]n.凉鞋；便鞋；草鞋v.使穿上凉鞋
+shallow [ˈʃæloʊ] n.浅滩；浅处 adj.浅的； little water
+deep  
+sandbar[ˈsændbɑːr]    n. 沙洲；沙堤
+minnow [ˈmɪnoʊ]    n.【鱼】鲦鱼；小鱼
+sting [stɪŋ]v.刺；蜇；叮；（使）感觉刺痛n.刺
+jellyfish  水母
+sunscreen[ˈsʌnskriːn] n.防晒霜;   防晒油
+set up camp 扎营
+Frisbee  初中就有学啦 
+sandcastle
+
+colloquial [kəˈloʊkwiəl]    adj.会话的；口语的
 
 
 *  232  Toys
@@ -5232,19 +5232,6 @@ refreshments[rɪˈfreʃmənts]: drinks  n. 点心；[食品] 茶点；小吃
 filled [fɪld] adj.满的；充气的；加载的
 fill me in give me more information
 interviewee [ˌintəvjuːˈiː] n.被面试者；被采访者网络被接见者
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 *  236 Trying  To Sleep
@@ -5687,7 +5674,7 @@ opportunity /ˌɑːpərˈtuːnəti/ 机会
 
 
 
-*  257  You're Grounded
+*  257  
  
 *  258 You’re Grounded!
 not finished host text
@@ -5712,6 +5699,8 @@ A:I don’t want to hear it! Now go to your room!
 
 * C0259
 文本有错 有人说没错 the organization, for example, how big is your office here?
+
+去年听不懂 现在听懂了
 
 workforce 劳动力 ; 全体员工 ;
 journalism  [ˈdʒɜrn(ə)lˌɪzəm] 
@@ -5838,12 +5827,6 @@ sole    美: [soʊl]     n.鞋底；脚掌；脚底（板）；袜底     adj.�
 synonymous with 同义词 ;   /sɪˈnɑːnɪməs wɪð/
 
 
-
-
-
-
-07- 1:09
-
 *  269 Marketing Plan
 A:Okay everyone, let’s begin. I called you here today to evaluate our marketing strategy during this recession. I wanted to re-emphasize our corporate mission of Aiming to give our customers the best coffee and service in a clean and welcoming atmosphere.
 B:Several other shops have reduced the prices for their coffees and are drawing in more customers. Why aren’t we doing the same thing?
@@ -5926,6 +5909,41 @@ juggle     美: [ˈdʒʌɡ(ə)l]     v.玩杂耍 应付
 
 
 
+*  273 The Zodiac and Horoscopes
+
+horoscope 占星预言  /ˈhɔːrəskoʊp/
+exotic     美: [ɪɡˈzɑtɪk]  异国情调的 ; 奇异的 ; 异国风味
+passionate 热情的 ; 狂热的   /ˈpæʃənət
+fling [flɪŋ]    v.抛；猛动（身体或身体部位）n.一阵尽情欢乐；一时的放纵；短暂的风流韵事
+zodiac sign 星座 ; 生肖 ; 十二生肖  星座;生肖;十二生肖/ˈzoʊdiæk saɪn/
+prediction 预测 ; 预言 ; 预告   /prɪˈdɪkʃn/
+outlook :likely future situation: 
+bogus [ˈboʊɡəs]    adj.假的；伪造的     n.赝品
+practically [ˈpræktɪkli]    adv.几乎；差不多
+nonexistent/ˌnɑnəgˈzɪstənt/adj.不存在的
+[ˌenərˈdʒetɪk]
+astrology [əˈstrɑlədʒi]    n.占星术；占星学
+socialize    美: [ˈsoʊʃ(ə)lˌaɪz]    v.交际；使适应社会
+criteria [kraɪˈtɪriən]    n.标准；尺度
+serious-minded
+Aries 白羊座 ; 白羊宫 /ˈeriːz/
+Capricorn 摩羯座 ; 摩羯宫  /ˈkæprɪkɔːrn
+ as opposed to 而不是 [əˈpoʊzd]
+very down to earth 非常脚踏实地的
+All right, so energetic sounds like the word energy. That's because they're related. So,someone who's energetic has lots of energy. He or she likes to do a lot of things and wants to always go places. You know the energetic person at your office. They always drink coffee. Maybe they make everyone else really tired just listening to them.
+
+Angela: Hey Lydia, what are you reading?
+Lydia: I’m looking at my horoscope for this month! My outlook is very positive. It says that I  should take a vacation to someplace exotic, and that I will have a passionate summer fling!
+Angela:What are you talking about? Let me see  that. . . What are horoscopes?
+It’s a prediction of your month, based on your zodiac sign . You have a different sign  for the month and date you were born in.  I was born on April 15th, so I’m an Aries  When were you born?
+Angela:January 5th.
+Lydia:Let’s see. . . you’re a Capricorn. It says that you will be feeling stress at work, but  you could see new, exciting developments in your love life . Looks like we’ll both have interesting summers!
+Angela:That’s bogus. I don’t feel any stress at work, and my love life is practically nonexistent. This zodiac stuff is all a bunch of nonsense.
+Lydia:No it’s not, your astrology sign can tell you a lot about your personality. See? It says that an Aries is energetic and loves to socialize.
+Angela:Well, you certainly match those criteria, but they’re so broad they could apply to anyone.What does it say about me?
+Lydia:A Capricorn is serious-minded and practical. She likes to do things in conventional ways. * laughs * That sounds just like you!
+
+
 *  275 Kitchen Appliances
 
 A:I have been looking at this online catalog for over an hour and I still haven’t finished getting all the kitchen appliances that we need!  [əˈplaɪənsɪz]
@@ -6005,8 +6023,6 @@ car dealer 汽车经销商 ; 汽车商  ˈdiːlər/
 limousine    美: [ˈlɪməˌzin]    n.轿车；大型高级轿车； 
 tricky [ˈtrɪki]    adj.难办的；难对付的
 bulletproof (also bullet-proof) 英 [ˈbʊlɪtpruːf] 美 [ˈbʊlɪtpruːf]     adj. 防弹的
-
-
 
 
 * 279 drugs
@@ -6166,6 +6182,34 @@ reboot [ˌriˈbut] v.重新启动
 
 
 
+*  296 Vegan Or Vegetarian
+
+A:Hey Julie, you want to go grab something to eat?
+B:Sure! What do you feel like having?  开始听成问候的了
+A:I really feel like having a big juicy steak!
+B:Oh. ok. I don’t eat meat, but that’s fine, I am sure wherever we are going they will have other options right?
+A:I didn’t know you were a vegetarian! 
+B:I’m not, I am a vegan.
+A:A what?
+B:A vegan. I don’t eat or use any animal based products. I don’t wear leather, eat eggs, drink milk or anything that comes from an animal. I used to be a pescatarian before, which basically means you don’t eat meat, but still have fish and seafood.
+A:Wow! That’s interesting! It must be tough!
+B: It’s a bit difficult to find vegetarian friendly restaurants sometimes, but since more and more people are vegetarians or vegans nowadays, it’s getting a bit less difficult.
+
+
+vegetarian [ˌvedʒəˈteriən] ; 素食者 ; 吃素的人 ; 素食者的 ; 素菜的
+vegan 严格素食主义者 
+leather    美: [ˈleðər]    n.皮革；皮外套    v.制成皮；
+pescatarian /ˌpes.kəˈter.i.ən/鱼素者
+rule  /ruːl/
+tough 
+
+you want to go grab something to eat?
+So we feel like having a steak.(I want to eat steak)
+exclude from /ɪkˈskluːd frəm/ 排除
+
+
+
+
 * 297 Ordering at an Italian restaurant
 A: Good evening ladies. My name is Josh and I’ll be your server tonight. May I take your order?                                                             
  B: Do you have any recommendations?                                                                                                                         
@@ -6283,6 +6327,46 @@ I can’t help myself
 Hang on.
 
 
+
+*  305 Bowling
+
+A: Alright, so the first thing that you need to know about bowling is that you should never cross that line where the lane begins.
+B:Why not?
+A:Because they polish and oil it to make the ball slide down. If you step there you will slip and fall.
+B:OK, so I got my bowling shoes, my ball, our names on the scorecard, so now, how the heck  do I play this?
+A:You throw the ball down the lane and try to knock down all the pins. If you do, that is called a strike.  if you don’t knock them all down on the first try,
+then you get a chance to get the spare. After ten frames, we add up the points and see who has the most. Three hundred is a perfect score, but very hard to get.
+B:Got it! OK, I’m gonna give it a go. Oh no! My ball went in the gutter!
+A:I told you, its harder than you think. Now let a pro show you how it’s done.
+
+lane [leɪn]    n.车道；小巷
+a narrow road in the countryside or in a town
+polish: [ˈpɑlɪʃ]     n.抛光；擦亮；上光；上光剂     v.抛光
+slip  [slɪp]
+strike [straɪk]    v.罢工；击；攻击；打     n.罢工；打击；袭击；罢课     网络好球
+spare [sper]    v.抽出；匀出；饶恕；不遗余力    adj.不用的；闲置的
+frame [freɪm]    n.框架；【机】架；【影视】画面；【园】温床     v.想像；诬陷；编制；构造
+score [skɔr]    n.成绩；比分；总谱；伤痕     v.评分
+gutter [ˈɡʌtər]    n.阴沟；檐沟；天沟；路旁排水沟     v.忽明忽暗；摇曳不定    网络槽；
+
+So it is a very social activity.
+That's right.
+So maybe a group of people will rent a lane.
+Remember, we were talking earlier about a lane being that one kind of strip of wood
+where you roll the ball.
+Well, a group of friends can rent a lane or two lanes and the four or the eight of you
+can play together, each person playing one frame at a time.
+That's right.
+And now actually, the other thing about it is it's very funny to see people trying to
+bowl or maybe with the heavy ball or maybe they pass the line that we said they shouldn't
+pass and they slip and fall.
+So I guess that's what also makes it a little bit fun to play.
+
+ pastime 消遣 ; 休闲活动 
+so now how the heck do I play this?
+I'm going, I'm gonna give it a go.
+now let a pro show you how it's done. 
+
 *  306 Pick Up Lines
 A:Let’s got out tomorrow night. We can go to a bar and try to find you a girlfriend.
 B:I don’t think that’s a good idea. I am just not good with approaching someone and starting up a conversation.
@@ -6373,7 +6457,7 @@ Michelle:I work in advertising right now. about you?
 Maria:I’m actually inthe wine business.
 Michelle:That sounds really great. I love wine myself! Is this your first time to Shanghai Maria?
 Maria: No actually, I often visit. I usually come to China for business at least once a year. Also, I love the restaurants in Shanghai, so that’s a good reason to come.
-Michelle: Me too. Actually, there’s a great Brazilian restaurant I recommend. I mean, the food is delicious butthe service isn’t so good. I often like to get together with friends and have a great barbecue there.
+Michelle: Me too. Actually, there’s a great Brazilian restaurant I recommend. I mean, the food is delicious but the service isn’t so good. I often like to get  together with friends and have a great barbecue there.
 James:We should go together some time.
 Michelle:Wonderful idea! I’d love that!
 
@@ -6874,12 +6958,10 @@ A:Here you go.
 B:So you are all set. You can have these books for  two weeks. If you need to have them longer, you  can bring them here to renew them. If you don’t,  you get charged ten cents a day for each book.
 A:Ok, thanks!
 
-
-
+author /ˈɔːθər/ 
 librarian  us/laɪˈbrer.i.ən/ someone who works in a library, is
 catalog [ˈkætəlɔːɡ]    n. [图情][计]目录；登记     vt. 登记；为……编目录
-genre [ˈʒɑːnrə]
-    n. 体裁，类型；风俗画
+genre [ˈʒɑːnrə]     n. 体裁，类型；风俗画
 
 nursery rhymes 童谣 ; 儿歌 ;[ˈnɜːrsəri raɪmz]
 shelf 英 [ʃelf] 美 [ʃelf]     n. 搁板，架子；
