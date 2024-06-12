@@ -1,5 +1,6 @@
 *  Pre
 最后读一句就录音一下 看一下自己同不同 apps 就是我常常用的audacity 
+Jun 12 leaned 300 lessons (226==>200)
 
 Dec 14 2023 learned  182  or 176 lessons 
 Nov 28 2023 learned  178 lessons  最好能学到 200并review 
@@ -283,8 +284,7 @@ B:Great. Well, the main issue here, as you can see, is that our expenses are thr
 A:Let’s see... These numbers are off the charts! What’s going on here!
 B:Well, um, sir, the company expenditures on entertainment and travel are out of control. Look at these bills for example. Just this month we’ve paid over twenty thousand dollars for hotel charges!
 A:OK, thank you. I’ll look into it.
-B:The list goes on and on. Here, this is a bill for five thousand dollars for spa treatments!
-Thank you; that will be all. I’ll take care of it.
+B:The list goes on and on. Here, this is a bill for five thousand dollars for spa treatments! Thank you; that will be all. I’ll take care of it.
 B:Look at this one sir, eight thousand dollars were spent in one night at a place called ”Wild Things”?!
 A:OK, I get it!! Thank you for your very thorough analysis!
 
@@ -946,8 +946,6 @@ A:Sorry to interrupt you Sean, could you do me a quick favor?
 D: Actually, I’m working on a document that is due in a couple minutes. I really can’t talk to you right now. Sorry about that.
 A: Geeze! I just want to know where the bathroom is! What’s wrong with you people!
 
-
-
 on board   to the company 
 instead  in the place of  代替 在老友记最记得
 I’m about to go out for lunch
@@ -955,9 +953,6 @@ ask for 请求，要求 ; 寻找
 set up 建立；创立；发起；开办网络设立；设置；成立
 combine [kəmˈbaɪn , ˈkɑːmbaɪn]v. (使)结合;   联合;   混合;   兼有;   兼备;   使融合(或并存
 religious 宗教信仰的 ; 宗教的/rɪˈlɪdʒəs/
-
-
-
 
 *  41  Movie  Trailer [ˈtreɪlər]
 A:In a digital world, even the strongest must fight for survival. Two people, possess a secret so valuable, so powerful, they have to defend it at all costs.
@@ -2031,7 +2026,43 @@ overdose : take more drugs  that suggested
 condom [ˈkɑndəm] n.保险套
 milligram [ˈmɪlɪˌɡræm] n.毫克；
 
-*  85 
+*  85  Baseball 
+
+A:Hello baseball fans, and welcome back to today’s game! My name is Rick Fields and of course, I am here, once again, with the man that seals the deal, Bob Copeland.
+B:It’s a beautiful day to see two world class teams face each other and fight for their right to be called champions.
+A:Well, the national anthem has just been sung, and the umpire has started the game. It’s time to play ball!
+B:Roger Vargas is up at bat. The pitcher winds up and strike one!
+A:A very nice curve ball by the pitcher. The catcher gives him the sign, he winds up and Vargas gets a line drive!
+B:The players are scrambling to get the ball. Vargas gets to first base and he’s still going! The outfielder throws it to second! Vargas slides! He’s safe!
+A:Great play!
+B:We have a runner on third and up at bat is Brian Okami! There’s the pitch, he hits it! It’s going, going, that ball is gone!
+A:Home run by Okami! That puts this team ahead by two as we are at the bottom of the fifth inning here at Richie Stadium!
+
+
+seal   /siːl/
+champion    US: [ˈtʃæmpiən]    n.冠军；斗士；(博览会中的)特等奖得奖人[动物]；战士    v.维护；
+ national anthem 国歌 [ˈænθəm]
+umpire    US: [ˈʌmˌpaɪr]    n.裁判员
+sung [sʌŋ]
+ inning 局 ; 回合   /ˈɪnɪŋ/
+ 
+pitcher    US: [ˈpɪtʃər]    n.罐；（尤指旧时的）带柄的陶罐；投球手
+wind up [ˈwaɪnd ʌp]结束，终结：将某事物带到一个结束的状态或结果整理，收拾：为了结束某事物而整理或收拾to get it ready to go
+to turn something and get it… get it ready to have lots of power.
+ foul line 罚球线 ; 边线
+up to bat :  like it is your turn 
+ 
+
+Right, for example, we can say “the people are scrambling to buy their tickets for the
+concert”.
+E: Yeah, or I’m going on vacation tomorrow and I’m scrambling to get everything ready.
+
+So, um, if someone says “that was strike one”.
+M: It means you made the first mistake.
+
+A: My boss threw me a curve ball today, so I have to stay in work late.
+Alright, so, that’s basically a curve ball. You can say a non-expected problem…
+
 
 *  86  Looking for an Apartment
 
@@ -4716,6 +4747,50 @@ generally speaking, a person who gives you money
 adverb [ˈædvɜːrb]     n. 副词
 
 
+*  213  Funeral Arrangements
+Jun 07 2024
+Hi Daniel. How are you holding up? I'm greatly sorry for your loss.
+Thank you. I'm much better. I've begun organizing everything for the funeral.
+
+How's that going?
+It's a lot harder than I imagined. There are many things that you have to arrange. I booked a time and date with the funeral home, but I still have a lot of things to do.
+Have you brought a burial plot and a casket?
+No. Wendy is being cremated. She always talked about how she didn't want to be buried. I already chose a cremation urn and we plan to spread the ashes in the ocean.
+I see. That sounds like something she would have really liked. I'm sure the memorial service will be tasteful. You're doing a great job.
+Thanks.It hasn't been easy, but luckily we have life insurance and Wendy left behind a detailed will that will sort out any other legal matters.
+
+
+funeral [ˈfjun(ə)rəl]    n.葬礼；出殡；丧礼
+arrange /əˈreɪndʒ/
+burial plot[ˈberiəl plɑːt]墓地;
+casket    美: [ˈkæskət]n.棺材；棺木；精致小盒；棺椁
+
+cremate [ˈkriˌmeɪt]    v.烧成灰；火葬
+bury    美: [ˈberi]    v.埋葬；埋藏
+ cremation urn 骨灰盒 [ɜːrn]
+spread [spred]    n.传播；蔓延；扩展；散布    v.传播；扩散
+ash    美: [æʃ]    n.灰烬；骨灰
+memorial service 追悼会 ; 纪念仪式 [məˈmɔːriəl]
+sort out 整理 ; 解决
+
+mourn [mɔrn]    v.悼念；悲伤；
+
+religion [rɪˈlɪdʒən]    n.宗教；信仰；宗派
+
+cemetery [ˈseməˌteri]    n.公墓
+portion [ˈpɔrʃ(ə)n]    n.部分；（食物的）一份；分享的部分；分担的责任     v.把…分成若干份（
+
+hi Daniel, how are you holding up?
+
+So we have a couple of phrases, four to be exact, that we want to take a look at now 确切地说是四个
+ I am greatly sorry for your loss.
+
+ she also left behind a detailed will. : it's to leave for you
+
+keynote address 主题演讲 ; 基调发言 ; 专题 
+
+
+
 *  214 Describing Personalities
 A: OK class, settle down. I have the results of your individual personality tests. I am going to hand them out and if you’dlike, you can read them out loud to the rest of the class.
 B:I’ll read mine!
@@ -5288,15 +5363,26 @@ flat-iron[flæt ˈaɪərn]
 frizzing美 [ˈfrɪzɪŋ]    n. 呢面卷结整理；正面起绒
 
 
-*  238 Interview Skills Part2 - Discussing Your Background
+*  238  Interview Skills Part2 - Discussing Your Background
+Jun 07 2024 
+Mr. Parsons: Now, Miss Childs passed on your resume to me and I’ve had the chance to look it over and I must say I’m quite impressed.
+Rebecca: Thank you very much. I’ve tried to keep it short and clear. If there’s any questions please feel free to ask me.
+Well, yes, I do have a number of questions, but perhaps first you could give me a brief overview. I'd like to get a little bit of an idea of your
+background.
+Yes, of course. Well, as you can see from the resume, I'm 27 and grew up in Brooklyn, New York. Although our family moved to London when I was quite young. At around 16.
+So you were actually educated in Europe.
+Yes, precisely. Although I was born in the US, I would definitely call London home. But as you see, I've actually spent a lot of my life moving from country to country. My father was in the oil business before he retired. So we also spent a number of years in Saudi Arabia too.
+Very interesting. So it seems you had quite an adventurous childhood.
+Absolutely. We were never still for too long. But now I'm really looking to settle down.
+I see.
+Okay, well, let's move on to discuss your education, shall we? Sure.
 
 impressed /ɪmˈprest印象深刻 ; 钦佩
-
 pressure[ˈpreʃər] n.压力；压强
 press [pres] n.按；出版社
+So from something to something.
 
 Rebecca: yes of course. Well  as you can see  from the resume, I'm twenty-seven and grew up in    ...  young, at around sixteen. 
-
 
 feel free to 可以随便  feel relaxed
 a little bit 一点点 ; 一点
@@ -5459,6 +5545,16 @@ on the deck
 
 * 247    Leaving  Previous Postion
 C0247 果真感觉有点快
+一年后听明白了 Jun 05 2024 
+Mr. Parsons: Okay, now I’d like to find out more about your last job. I see you spent almost four years at the London Weekly , is that right?
+Rebecca: Yes, that’s right. To be honest, the first year was quite tough for me. I was really just treated more like an intern. I didn’t have many responsibilities and I found it quite frustrating.
+Mr. Parsons: So, what changed?
+Rebecca: Well slowly but surely I proved myself, and the new editor liked me so he promoted me to features writer .
+Mr. Parsons: Wow, a real step up!
+Rebecca: Yes I was responsible for restaurant and food reviews mostly. I spent (restaurant)three  years in that position, but to be honest it wasn’t an area of journalism I wanted to stay in long-term.
+Mr. Parsons: I see, so why did you decide to leave finally?
+Rebecca: I just felt that the paper couldn’t offer me any new opportunities. I really needed a more challenging role to be honest.
+
 
 position    美: [pəˈzɪʃ(ə)n]     n.位置；地位；职位；立场    v.安置；安装；使处于
 tough [tʌf]adj. 艰苦的;   艰难的;   棘手的;
@@ -5472,6 +5568,8 @@ journalism [ˈdʒɜːrnəlɪzəm]n. 新闻业;   新闻工作;
 role  [roʊl]n. (演员的)角色;   作用
 elaborate [ɪˈlæb(ə)rət] v.精心制作；详尽阐述；详细描述；详细制订 
 adj.复杂的；详尽的；精心制作的 网络精心设计的；
+
+realization 实现 ; 认识 ; 领悟 ; 变卖 [ˌriəlɪˈzeɪʃ(ə)n] 
 
 why we are using the verb to be in the pass was promoted and this is because it is  ed adjective  it is  and djjective that is ednds in ed so you may think it is  verb but it is not it is actually and adje the verb here is to be
 verb + ed  可能是 adjective 
@@ -5541,12 +5639,21 @@ lasagna 千层面  /lɑˈsɑnjə/
 
 
 *  250 Interview Skills Part 6 - Describing One's Strengths
- If you work hard you don't  say I work hard your can't say that but if you want  to use it as an adjective you say.  I am  hard working . 
+
+Mr. Parsons: Okay Rebecca. Now  you’ve given me a good idea of your work and academic background, but what about you as a person? How would you describe your key strengths?
+Rebecca: Well Mr. Parsons, as I mentioned before I’m someone who needs new challenges. I’m really focused and hard hard-working. I think my academic results prove this.
+Mr. Parsons: Yes, true, but how about other personal  qualities?
+Rebecca: Well I believe I’m a good team-player,but I can also work well independently. I’m very enthusiastic and , well I hope my colleagues would agree, I’m fun to work with.
+Mr. Parsons: What would you say is your most positive quality?
+Hmmmmm, that’s a tough question. But I would have to say my passion. I’m really passionate about journalism and passionate about my career.
+
+
+If you work hard you don't  say I work hard your can't say that but if you want  to use it as an adjective you say.  I am  hard working . 
 
 academic [ˌækəˈdemɪk]adj. 学术的(与实践性、技术性相对);   学业
 key strengths 关键优势 
 strength [streŋθ] n.长处；强度；力量；实力 网络优势；优势
-focused  专注 注意力集中的 ; 目标明确的 ; 集中
+focused  专注 注意力集中的 ; 目标明确的 ; 集中 /ˈfoʊ.kəst/
 independently/ˌɪndɪˈpɛndəntlɪ/adv.独立地；
 enthusiastic ɪnˌθuːziˈæstɪk]adj. 热情的;   热心的;   热烈的
 positive [ˈpɑːzətɪv]adj. 正面  积极乐观的;   自信的
@@ -5556,7 +5663,12 @@ passionate [ˈpæʃ(ə)nət] adj.拥有（或表现出）强烈性爱的；情�
 journalism [ˈdʒɜːrnəlɪzəm]n. 新闻业;   新闻工作
 career /kəˈrɪr/n.生涯;职业;经历;事业
 
+plural [ˈplʊrəl]    n.复数形式    adj.复数的；
+potential[pəˈtenʃ(ə)l]潜在的    n.潜力；电位；电势；可能性
 
+concentrate [ˈkɑnsənˌtreɪt]    n.浓缩物    v.聚精会神；集中（注意力）
+emotional [ɪˈmoʊʃ(ə)nəl]    adj.感情的；情感的；情绪的；激起感情的
+arrogant [ˈærəɡənt]    adj.傲慢的；自大的    网络骄傲；嚣张；高傲
 
 * 251 Buying Makeup
 
@@ -5656,9 +5768,20 @@ What a typical breakfast is like.
 
 
 *  256
+
+Mr. Parsons:Okay, well I’m sure you have a number of questions to ask me regarding the position.
+Rebecca:Yes, well Miss Childs did give me an overview of the position over the phone, but there were some details I’d like to clarify.
+Mr. Parsons:Well feel free to ask me anything, and I’ll try to fill in the details.
+Rebecca:Could I first ask about the remuneration package ?
+Mr. Parsons:Yes of course. That’s quite an important point isn’t it? As a junior sub editor we offer a starting salary of 150,000 HK dollars per annum. This doesn’t include a generous housing allowance also.
+Rebecca:I understand. And are there other bonuses included?
+Mr. Parsons:Well apart from full health insurance we do offer a company staff bonus scheme linked to readership numbers. But we could go through all the details of that at a later date.
+Rebecca:Well Mr. Parsons, I am flexible when it comes to salary. The opportunity to work in Hong Kong for you is the most important thing for me.
+Mr. Parsons:Excellent. Well, what other questions do you have Rebecca?
+
 regarding  [rɪˈɡɑːrdɪŋ]prep. 关于;   至于
 clarify ˈklærəfaɪ] 澄清 ; 使更清晰易懂 ; 阐明 ; 纯净，净化
-benefit [ˈbenəfɪt] n.益处；优势；成效；福利
+benefit [ˈbenəfɪt] n.益处；成效；福利
 remuneration package 薪酬待遇  [rɪˌmjuːnəˈreɪʃn]
 sub 副主编 , 子
 junior [ˈdʒuːniər]n. 年少者 初级
@@ -5671,6 +5794,13 @@ apart from 除了 ; 除了…还，此外
 staff bonus 【经】职工奖金，职工分红  /stæf ˈboʊnəs 
 flexible ˈfleksəbl]adj. 灵活的;   能适应新情况的;   可变动的;
 opportunity /ˌɑːpərˈtuːnəti/ 机会
+set phrase,fixed phrase  固定短语
+starting salary起薪
+Bonus scheme 奖金计划KPI
+negotiate    美: [nəˈɡoʊʃiˌeɪt]    v.谈判；〈口〉通过
+talking on the phone
+
+compensation 补偿 ; 赔偿 ; 赔偿金  [ˌkɑːmpenˈseɪʃn]
 
 
 
@@ -5745,6 +5875,17 @@ oval    美: [ˈoʊv(ə)l] n.椭圆形；卵形 having the shape of an egg
 
 * 262 Interview Skills Part10 - Concluding the Interview
 
+Mr Parsons:Well Rebecca, is there anything else you need to know for now?
+Rebecca:I don’t think so Mr. Parsons. I think you have covered all the main points for me.
+Mr Parsons:Okay well listen, here is my business card with my mobile number. If any  other questions spring to mind don’t hesitate to contact me. Of course you can also call Miss Childs too.
+Rebecca:Great. Ermm, when can I expect to hear from you?
+Mr Parsons:Well, we are finishing the shortlist interviews tomorrow, so we will certainly have a decision made by early next week. Miss Childs will call you to discuss more on Monday or Tuesday.  How does that sound?
+Rebecca:That sounds perfect. Thank you very much for taking the time to speak to me Mr. Parsons.
+Mr Parsons:The pleasure’s all mine Rebecca.
+Rebecca:I hope to hear from you very soon.
+Mr Parsons:Absolutely. Thanks for coming Rebecca. Goodbye.
+
+shortlist 入围名单 ; 把…列入入围名单 
 concluding [kənˈkludɪŋ] v.“conclude”的现在分词 网络结论；结束的；终决的
  main points 要点，大意
   status [ˈstætəs] n.地位；身份；情形；法律地位（或身份
@@ -5753,7 +5894,22 @@ spring to mind : be remembered; comes to mind
 hesitate 犹豫 ; 迟疑不决 /ˈhezɪteɪt/
 expect to 期待
 decision [dɪˈsɪʒn]n. (作出的)决定，抉择
+covered
+business card 
+interaction [ˌɪntərˈækʃən]    n.相互作用；【航】干扰     网络互动
 
+desperate [ˈdesp(ə)rət]    adj.渴望；（因绝望而）不惜冒险的；绝望的；  美刷
+
+when can I expect to hear from you?
+thank you very much for taking the time to speak to me
+I hope to hear from you very soon
+
+demonstrate [ˈdemənˌstreɪt]    v.示范；证明；表明；【军】示威     网络展示；
+
+Kind of like a strategy /ˈstrætədʒi/  maybe to better negotiate the terms and conditions. 有点像一种策略，也许是为了更好地协商条款和条件。
+reminder 提醒 ; 通知单 ; 提示信
+
+去年听时是晕的 现在终于不晕了 Jun 03 2024 
 
 *  265  Pest Control
 A: Hi, did you call for an exterminator?
@@ -6184,7 +6340,7 @@ reboot [ˌriˈbut] v.重新启动
 
 *  296 Vegan Or Vegetarian
 
-A:Hey Julie, you want to go grab something to eat?
+A:Hey Julie, Do  you want to go grab something to eat?
 B:Sure! What do you feel like having?  开始听成问候的了
 A:I really feel like having a big juicy steak!
 B:Oh. ok. I don’t eat meat, but that’s fine, I am sure wherever we are going they will have other options right?
