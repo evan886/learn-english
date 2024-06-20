@@ -399,6 +399,32 @@ civil marriage 民事婚姻，世俗结婚 /ˌsɪvl ˈmærɪdʒ/
  
 
 
+*  19 Christmas Chronicles I 
+A:I hate working on Christmas Eve! Whoa! Get a load of this guy! Come in central, I think we’ve got ourselves a situation here.
+B:License and registration please. Have you been drinking tonight, sir?
+A:I had one or two glasses of eggnog, but nothing else.
+B:Step out of the vehicle, please. Sir, what do you have in the back?
+A:Just a few Christmas gifts, ’tis the season, after all!
+B:Don’t take that tone with me. Do you have an invoice for these items?
+A:Umm...no...I make these in my workshop in the North Pole! 
+B:You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an attorney; if you cannot afford one, the state will appoint  one for you. Do you understand these rights that have just been read to you?
+A:You can’t take me to jail! What about my sleigh? It’s Christmas Eve! I have presents to deliver! Rudolph! Prancer! Dancer! Get help!
+
+chronicles  [ˈkrɑːnɪklz]编年史;   历代志下
+registration [ˌredʒɪˈstreɪʃn]n. 登记; 
+eggnog [ˈeɡnɑːɡ]n. 蛋奶酒
+vehicle [ˈviːəkl]n. 交通工具;   车辆
+invoice  [ˈɪnvɔɪs]  发票
+the North Pole[poʊl]   北极
+arrest[əˈrest]v. 逮捕;   拘
+pout [paʊt]v. 噘嘴;   (恼怒或性感地)撅嘴;  n. 撅嘴;   生气，不高兴
+attorney[əˈtɜːrni]n. 律师(尤指代表当事人出庭者
+jail [dʒeɪl]n. 监狱
+sleigh [sleɪ]n. (尤指马拉的)雪橇;
+spirit[ˈspɪrɪt]n. 精神;   心灵;   情绪;
+rum [rʌm] adj.奇特的；古怪的n.朗姆酒
+Chief of staff 参谋长
+
 * 18 Protest
 A:This is Action 5 News reporter Sarah O’Connell reporting live from Washington, D. C. where a protest has broken out. Thousands of angry citizens are protesting against the proposed bailout of the auto manufacturing industry! Sir, sir, Sarah O’Connell, Action 5 news. Can you tell us what’s happening?
 B:Yeah, yeah, we’re here because we feel this is an injustice! The financial irresponsibility of big business has to stop! We’re there to show the government that we don’t like the way that they’re spending our tax dollars!
@@ -440,32 +466,6 @@ symbol [ˈsɪmb(ə)l] n.符号；象征
 prosperity [prɒˈspɛrəti] n.繁荣；兴旺；
 
 
-
-*  19 Christmas Chronicles I 
-A:I hate working on Christmas Eve! Whoa! Get a load of this guy! Come in central, I think we’ve got ourselves a situation here.
-B:License and registration please. Have you been drinking tonight, sir?
-A:I had one or two glasses of eggnog, but nothing else.
-B:Step out of the vehicle, please. Sir, what do you have in the back?
-A:Just a few Christmas gifts, ’tis the season, after all!
-B:Don’t take that tone with me. Do you have an invoice for these items?
-A:Umm...no...I make these in my workshop in the North Pole! 
-B:You are under arrest, sir. You have the right to remain silent. You better not pout, you better not cry. Anything you say can and will be used against you. You have the right to an attorney; if you cannot afford one, the state will appoint  one for you. Do you understand these rights that have just been read to you?
-A:You can’t take me to jail! What about my sleigh? It’s Christmas Eve! I have presents to deliver! Rudolph! Prancer! Dancer! Get help!
-
-chronicles  [ˈkrɑːnɪklz]编年史;   历代志下
-registration [ˌredʒɪˈstreɪʃn]n. 登记; 
-eggnog [ˈeɡnɑːɡ]n. 蛋奶酒
-vehicle [ˈviːəkl]n. 交通工具;   车辆
-invoice  [ˈɪnvɔɪs]  发票
-the North Pole[poʊl]   北极
-arrest[əˈrest]v. 逮捕;   拘
-pout [paʊt]v. 噘嘴;   (恼怒或性感地)撅嘴;  n. 撅嘴;   生气，不高兴
-attorney[əˈtɜːrni]n. 律师(尤指代表当事人出庭者
-jail [dʒeɪl]n. 监狱
-sleigh [sleɪ]n. (尤指马拉的)雪橇;
-spirit[ˈspɪrɪt]n. 精神;   心灵;   情绪;
-rum [rʌm] adj.奇特的；古怪的n.朗姆酒
-Chief of staff 参谋长
 
 *  20  I Can See  Clearly Now 
 A:Hello, Arthur. What seems to be the problem?
@@ -700,7 +700,7 @@ B:Well, I guess so.
 
 
 *  28    I'm Sorry ,  I Love You  II
-A:I’m so relieved that your ankle wasn’t broken! I feel just awful about this whole thing. I wanna make it up to you. Let me take you out to dinner tonight. My treat.
+A:I’m so relieved that your ankle wasn’t broken! I feel just awful about this whole thing. I wanna make it up to you. Let me take you out to dinner tonight. My treat./trit/
 B:That sounds great! I’d love to! Here is my address. Pick me up at eight?
 A:Perfect!
 B:Thank you for such a lovely evening! The food was amazing, and I had a great time.
@@ -881,7 +881,7 @@ predict[prɪˈdɪkt]v. 预测;   预言;
 senior [ˈsiːniər]adj. 级别(或地位)高的;   成人的;   高级水平的;   (父子同名时，加在父亲的名字前)老，大;中学部;   （高中或大学）毕业年级的;   n. 较…年长的人
 
 *  38  Buy  a  Car
-Hi there, can I help you folks?
+Hi there, can I help you folks? foʊk/
 B:I’m just browsing; seeing what’s on the lot. My daughter wants a car for her birthday, you know how it is.
 C:Dad! I’m sixteen already and I’m, like, the only one at school who doesn’t have a car!
 A:She is right, you know. Kids these days all have cars. Let me show you something we just got in: a 1996 sedan. Excellent gas mileage, it has dual airbags and anti lock brakes; a perfect vehicle for a young driver.
@@ -1055,7 +1055,7 @@ B:Sir this is the 56th floor! We are on the 70th!
 A:That’s okay, I’ll take the stairs!
 barely even :ˈberli] hardly , could almost not 
 scored 得分 ; 记分 skɔːrd]
-Take the stairs
+Take the stairs  ; flood [flʌd]
 every single day 每一天 
 emphasizing emfəsaɪzɪŋ]v. 强调;   重视
  by chance 偶然，碰巧 ; 意外地 
@@ -1112,12 +1112,7 @@ squeeze     美: [skwiz]  v.挤压；挤出；捏；（使）挤入 n.挤压
 
  a phrasal verb. 短语动词
   
-
-
-
-
-
-
+ 
 *  48   Carnival  in Rio
 A:I can’t believe we’re here! Carnival in Rio! Seriously, this is like a once in a lifetime opportunity! Can you believe it? We’re here at the biggest party in the world!
 B:I know! We’re so lucky that we found tickets for the Sambadrome! Good thing we found that ticket scalper.
@@ -1212,28 +1207,6 @@ variety[vəˈraɪəti]n. (同一事物的)不同种类
 Chili [ˈtʃɪli]n. 辣椒 智利
 Argentina.[ˌɑrdʒənˈtinə]n. 阿根廷; 
 
-*  52  Pizza Delivary [dɪˈlɪv(ə)ri]
-pepperoni [ˌpepəˈroʊni] n.意大利辣肉肠
-olive [ˈɑlɪv] n.橄榄树；【植】齐墩果；橄榄树枝；(橄榄枝叶做的)橄榄冠adj.橄榄的
-extra [ˈekstrə]
-thin crust [krʌst] 薄皮
-pepper [ˈpepər]n.胡椒,胡椒粉,胡椒属；精力 v.加胡椒粉于；撒(胡椒)；乱发(质问,子弹)；〈美〉【拳】接连速击 网络辣椒；甜椒；椒类
-delivery [dɪˈlɪv(ə)ri] n.分娩；交付；传送；递送网络交货；
-centimeter [ˈsentɪˌmitər] na.“centimetre”的变体网络厘米；公分
-ingredient [ɪnˈɡridiənt] n.成分；【化】拼份网络成份；
-tropical [ˈtrɑpɪk(ə)l] adj.热带的；
-palm [pɑlm, pɑm] n.手掌；手心；棕榈树
-
-A:Good evening, Pizza House. This is Marty speaking. May I take your order?
-B:Um yes… I’d like a medium pizza with pepperoni, olives, and extra cheese.
-A:We have a two-for-one special on large pizzas. Would you like a large pizza instead? 买一送一
-B:Sure, that sounds good.
-A:Great! Would you like your second pizza to be the same as the first?
-B:No, make the second one with ham, pineapple and green peppers. Oh, and make it thin crust.
-A:Okay, thin crust. Your total is $21.50 and your order will arrive in thirty minutes or it’s free!
-B:Perfect. Thank you. Bye..
-A:Sir, wait!! I need your address!
-
 
 *  51 What a Bargain!
 
@@ -1256,6 +1229,31 @@ B:Great! You’ve got a deal!
  bargain [ˈbɑrɡən] n.交易；便宜货；协议；减价品v.商讨条件
  pricey 昂贵的
 negotiate [nəˈɡoʊʃiˌeɪt]     v.谈判；协商；磋商；商定    网络交涉；商议；议定 
+
+
+
+
+*  52  Pizza Delivary [dɪˈlɪv(ə)ri]
+pepperoni [ˌpepəˈroʊni] n.意大利辣肉肠
+olive [ˈɑlɪv] n.橄榄树；【植】齐墩果；橄榄树枝；(橄榄枝叶做的)橄榄冠adj.橄榄的
+extra [ˈekstrə]
+thin crust [krʌst] 薄皮
+pepper [ˈpepər]n.胡椒,胡椒粉,胡椒属；精力 v.加胡椒粉于；撒(胡椒)；乱发(质问,子弹)；〈美〉【拳】接连速击 网络辣椒；甜椒；椒类
+delivery [dɪˈlɪv(ə)ri] n.分娩；交付；传送；递送网络交货；
+centimeter [ˈsentɪˌmitər] na.“centimetre”的变体网络厘米；公分
+ingredient [ɪnˈɡridiənt] n.成分；【化】拼份网络成份；
+tropical [ˈtrɑpɪk(ə)l] adj.热带的；
+palm [pɑlm, pɑm] n.手掌；手心；棕榈树
+
+A:Good evening, Pizza House. This is Marty speaking. May I take your order?
+B:Um yes… I’d like a medium pizza with pepperoni, olives, and extra cheese.
+A:We have a two-for-one special on large pizzas. Would you like a large pizza instead? 买一送一
+B:Sure, that sounds good.
+A:Great! Would you like your second pizza to be the same as the first?
+B:No, make the second one with ham, pineapple and green peppers. Oh, and make it thin crust.
+A:Okay, thin crust. Your total is $21.50 and your order will arrive in thirty minutes or it’s free!
+B:Perfect. Thank you. Bye..
+A:Sir, wait!! I need your address!
 
 
 
@@ -1447,26 +1445,6 @@ twist [twɪst] v.捻；扭转；曲折；扭动n.捻；拧；扭动；搓网络�
 
 
 
-*  61  Swim  faster
-
-A: This is such a beautiful day! Great day  for sailing!
-B: It sure is! The water looks so nice! Anchor the  boat for a little while. I’m going to take a dip.
-A: Why are you doggy-paddling? I taught you how to  swim! Do your breast stroke!
-B:I get too tired! I’ll just backstroke, it’s easier!
-A: Try kicking your legs more. That’s good. Don’t go  out too far!
-B: It's fine. Jump in !
-A: Kathy! Get back here! I see a shark!
-B: Ahhhh!!!! Help me! Help! Bring the boat closer!  The shark is coming straight towards me!
-A: It’s right under you! Kathy!!!!!
-
-anchor [ˈæŋkər] n.锚；给以安全感的人（或物）；精神支柱；顶梁柱  v.抛锚；下锚
-a dip :  a swim
-sail : travel in a boat that is powered by wind
-
-series [ˈsɪriz] n.串联；一系列；连续；接连
-scuba divers /ˈskuː.bə ˌdaɪ.vɚ/ 水肺潜水员
-
-
 *  62  Job Interview II
 
 A:Thanks for coming in today, did you have any trouble finding us? Please take a seat.
@@ -1495,8 +1473,24 @@ seminar [ˈsemɪˌnɑr] n.(专家)研讨会；
 oracle [ˈɔrək(ə)l]
 breadth [bredθ] n.宽度；（知识、兴趣等）广泛  网络广度；幅面
 
+*  61  Swim  faster
 
+A: This is such a beautiful day! Great day  for sailing!
+B: It sure is! The water looks so nice! Anchor the  boat for a little while. I’m going to take a dip.
+A: Why are you doggy-paddling? I taught you how to  swim! Do your breast stroke!
+B:I get too tired! I’ll just backstroke, it’s easier!
+A: Try kicking your legs more. That’s good. Don’t go  out too far!
+B: It's fine. Jump in !
+A: Kathy! Get back here! I see a shark!
+B: Ahhhh!!!! Help me! Help! Bring the boat closer!  The shark is coming straight towards me!
+A: It’s right under you! Kathy!!!!!
 
+anchor [ˈæŋkər] n.锚；给以安全感的人（或物）；精神支柱；顶梁柱  v.抛锚；下锚
+a dip :  a swim
+sail : travel in a boat that is powered by wind
+
+series [ˈsɪriz] n.串联；一系列；连续；接连
+scuba divers /ˈskuː.bə ˌdaɪ.vɚ/ 水肺潜水员
 
 
 *  63  receptionist 
@@ -1684,7 +1678,7 @@ A:Hey man, what do you have on tap?[tæp]
 B:Heineken and Budweiser. We have a two-for-one  happy hour special.
 A:Cool, give  me a pint of Heineken and half a pint of Bud.
 B:Okay...A pint of Heineken and and half a pint of bud for table six! And what about some appetizers?
-A:Sure! Let’s have some nachos and mozzarella sticks.
+A:Sure! Let’s have some nachos and mozzarella sticks. /stɪks/
 B:Okay. That’ll be 80 bucks.
 A:Wait... What!
 
@@ -1845,13 +1839,6 @@ jealous[ˈdʒeləs] adj.吃醋的；妒忌的
  name-calling 辱骂
 offensive  [əˈfensɪv]adj. 无礼的;   进攻性的;
 
-
-
-
-
-
-
-
 *  77  F1 Racing
 
 A:Welcome back racing fans! My name is Rick Fields and, as always, I am joined by my partner  in crime, Bob Copeland.
@@ -1860,8 +1847,6 @@ A:He came in too fast, jammed on the breaks and spun out. We have a yellow flag 
 B:The cleanup crew is towing the heavily damaged  car and the green flag drops! Rikknen is still in the lead with only two laps to go!
 A:Smoke is coming out of his car! He seems to be having engine trouble! He makes his way into the pit, and Fernando Alonso takes the lead!
 B: How unlucky for Rikknen, and this race is over ladies and gentlemen, Alonso takes the checkered flag!
-
-
 
 the final time period
 stretch    美: [stretʃ]  v.伸展；延伸；伸出；舒展 n.伸展；弹性；舒展；一片 adj.有弹力的
@@ -1872,8 +1857,6 @@ lap    美: [læp] n.搭接；膝 圈
 
  track [træk]
 crew [kru] n.（轮船、飞机等上面的）全体工作人员 v.当（尤指船上的）工作人员
-
-
 
 
 *  79 Funky Galaxy Battles
@@ -1930,8 +1913,8 @@ pregnant    美: [ˈpreɡnənt] adj.妊娠的；怀孕的
  thought     美: [θɔːt] n.思想；思考
  tackle    美: [ˈtæk(ə)l] v.处理；阻截
  throw    美: [θroʊ] v.扔；抛；丢；投n.扔
- complement    美: [ˈkɑmpləˌment] v.补充；补足
-
+complement    美: [ˈkɑmpləˌment] v.补充；补足
+ 
 *  81  Getting A Hair Cut
 barbershop [ˈbɑrbərˌʃɑp] n.理发店
 encounter [ɪnˈkaʊntər]vt. 遭遇;   遇到
@@ -1944,8 +1927,7 @@ A:Hello there! Come on in! Don’t just stand there! Come and take a seat!
 B:Um, okay. Well, I just want a trim. Nothing too fancy.
 A:Oh my gosh! Your hair is amazing! So silky, so shiny! I am going to work my magic on your hair! You hear me? You are going to look like a million bucks!
 B:Okay. Um... can you make sure my sideburns are even and you just take a little off the top.
-A:Don’t you worry, I’ll take care of everything! (starts cutting) Oh my god! I just love your curly hair! It’s so fluffy and cute! You should totally let it
-grow out. An afro would look great on you!
+A:Don’t you worry, I’ll take care of everything! (starts cutting) Oh my god! I just love your curly hair! It’s so fluffy and cute! You should totally let it grow out. An afro would look great on you!
 B:Um... no.
 A:Okay, but you are going to be my masterpiece!
 trim [trɪm] : a  short cut of hair ,adj.苗条的
@@ -2129,7 +2111,6 @@ B:Hmm... okay, here’s the thing. I’ve always seen you as more than just a fr
 A:Are you serious? We’ve been friends for years! We can’t just change that overnight!
 B:I know! I never had the guts to tell you... until today. So, what do you say? Are you willing to give me a shot?
 
-10116 
 reservation[ˌrezərˈveɪʃ(ə)n] n.预订；预约；
 pros proʊ] and cons [kɑn]  利弊，优缺点 ; 正反两方面 
 guts [ɡʌts] n to let  sb. have a  try 肠道；直觉；消化道；勇气
@@ -2642,8 +2623,6 @@ everything was cool :  everything  was okay
 
 
 
-*  116 
-
 *  117 I'm Sorry I Love You IX
 06:00 主持
 Steven:  Veronica wait! Come on honey, get back in  the car. Let’s talk it over, okay?
@@ -2678,6 +2657,8 @@ debate[dɪˈbeɪt]n.(在公共集会上或议会里就某问题进行的、常�
 
 
 
+
+*  116 
 
 *  118
 
@@ -6333,11 +6314,6 @@ achieve [əˈtʃiv] v.完成；（凭长期努力）达到
 campaign [kæmˈpeɪn] n.战役；运动
 reboot [ˌriˈbut] v.重新启动
 
-
-
-
-
-
 *  296 Vegan Or Vegetarian
 
 A:Hey Julie, Do  you want to go grab something to eat?
@@ -7022,6 +6998,39 @@ chimney[ˈtʃɪmni] n. 烟囱，烟道；
 coal [koʊl] n.煤；煤炭
 stocking[ˈstɑkɪŋ] n.长袜；
  left out 遗漏 ; 省去 ; 不考虑 ; 没有考虑 
+
+
+*  338 Having Leftovers   Jun 19 2024
+
+A:What’s for dinner?
+B:Leftovers.
+A:What? Leftovers of what and from when?
+B:From last night! I took the left over turkey, mixed it with some diced peppers and onions, added a little bit of mayonnaise and made some sandwiches!
+A:Isn’t that dangerous though? I mean bacteria and germs reproducing on food that was left out or reheated?
+B:Well, I didn’t leave the turkey out at room temperature for more than a an hour and I refrigerated it soon after we finished eating. Also, when reheating, I put it inthe oven for fifteen minutes at one hundred degrees Celsius.[ˈselsiəs]
+A:Well ok, I am just afraid of getting food poisoning.
+B: Don’t worry about it! Making a new meal out of leftovers is almost an art! Not only do you save money, but you also get to be creative and have something different to eat!   [ɑːrt]
+
+
+diced /daɪst/ adj切粒的  v.掷骰子;切成小方块;
+mayonnaise 蛋黄酱   /ˈmeɪəneɪz/
+
+bacteria    US: [bækˈtɪriə]    n.细菌  bacterium的复数
+germ    US: [dʒɜrm]    n.细菌；萌芽；【生】幼芽；起源  microorganism    US: [ˌmaɪkroʊˈɔrɡəˌnɪzəm]     n.微生物
+
+reheated or refrigerated
+
+what's for dinner
+Food poisoning 
+
+room temperature
+perishable    US: [ˈperɪʃəb(ə)l]     adj.易腐败的；不经久的
+
+stuff
+staff
+
+expire    US: [ɪkˈspaɪr]     v.断气；届满；吐气；消灭      Web过期；已过期；期满
+
 
  
 * 339  Parent Teacher Conference 
